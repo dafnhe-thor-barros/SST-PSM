@@ -89,20 +89,20 @@ A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20S
 
 ### 5. Terceirização e Acidentes de Trabalho (Pesquisas Empíricas Brasileiras)
 * **[`Campos_2018_Efeitos_Terceirizacao_SST_Afastamentos_IPEA.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Campos_2018_Efeitos_Terceirizacao_SST_Afastamentos_IPEA.pdf)** (226 KB)  
-  *André Gambier Campos (IPEA, 2018)* — Estimativas empíricas do impacto da terceirização sobre os afastamentos previdenciários e acidentes no Brasil.
-* **[`Carneiro_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Carneiro_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf)** (167 KB)  
-  *Carlos Carneiro (RBE / FGV, 2018)* — Aumento estatístico da severidade e mortalidade dos acidentes em trabalhadores terceirizados.
+  *André Gambier Campos (IPEA, 2018)* — Estimativas econométricas do impacto da terceirização sobre os afastamentos previdenciários e subnotificação acidentária no Brasil (razão de chances de 0,546).
+* **[`Belchior_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Belchior_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf)** (167 KB)  
+  *Carlos Alberto Belchior (RBE / FGV, 2018)* — Modelagem econométrica em painel (Tobit e Efeitos Fixos) comprovando o aumento da gravidade das lesões e dias de afastamento em trabalhadores terceirizados.
 * **[`Vilela_2004_Culpa_da_Vitima_Acidentes.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Vilela_2004_Culpa_da_Vitima_Acidentes.pdf)** (177 KB)  
   *Vilela et al. (Cadernos de Saúde Pública, 2004)* — Desconstrução do reducionismo da culpabilização da vítima em investigações de acidentes.
 * **[`Druck_2016_Terceirizacao_Precarizacao_Trabalho_SciELO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Druck_2016_Terceirizacao_Precarizacao_Trabalho_SciELO.pdf)** (319 KB)  
-  *Graça Druck (Fiocruz/SciELO, 2016)* — Precarização das condições de trabalho e saúde ocupacional sob a terceirização irrestrita.
+  *Graça Druck (Cadernos de Saúde Pública / SciELO, 2016)* — Precarização das condições de trabalho, alta rotatividade (40-50%) e corrosão da saúde ocupacional sob a terceirização.
 * **[`Lima_Oliveira_2021_Terceirizacao_Setor_Eletrico_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Lima_Oliveira_2021_Terceirizacao_Setor_Eletrico_RBSO.pdf)** (161 KB)  
-  *Lima & Oliveira (RBSO / Fundacentro, 2021)* — Pesquisa qualitativa no setor elétrico: inibição estrutural do Direito de Recusa entre terceirizados.
+  *Lima & Oliveira (RBSO / Fundacentro, 2021)* — Pesquisa qualitativa no setor elétrico: inibição estrutural do Direito de Recusa e concentração de óbitos em redes de energia.
 * **[`Tesche_2026_Gestao_SST_Processos_Terceirizados_Transmissao_RECAPE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Tesche_2026_Gestao_SST_Processos_Terceirizados_Transmissao_RECAPE.pdf)** (276 KB)  
-  *Ivan Tesche (RECAPE, 2026)* — Gestão de SST em processos terceirizados no setor de transmissão de energia.
-* **[`RBSO_2019_Acidentes_Fatais_Terceirizados_Petroleo.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/RBSO_2019_Acidentes_Fatais_Terceirizados_Petroleo.pdf)** (200 KB)  
-  *Freitas et al. (RBSO, 2019)* — Dados epidemiológicos demonstrando a desproporcionalidade de mortes na indústria petrolífera atingindo mão de obra terceirizada.
-* **[`CSC_2020_Acidentes_Fatais_Politica_Seguranca_Petroleo.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/CSC_2020_Acidentes_Fatais_Politica_Seguranca_Petroleo.pdf)** (124 KB)  
-  *Silva & Lacaz (Ciência & Saúde Coletiva, 2020)* — Análise crítica sobre políticas de SST dicotômicas entre quadro próprio e terceirizados.
+  *Ivan Tesche (RECAPE, 2026)* — Gestão de SST em processos terceirizados no setor de transmissão de energia elétrica.
+* **[`Guida_2020_Acidentes_Fatais_Terceirizados_Petroleo_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Guida_2020_Acidentes_Fatais_Terceirizados_Petroleo_RBSO.pdf)** (200 KB)  
+  *Guida, Figueiredo & Hennington (RBSO, 2020)* — Perfil epidemiológico dos acidentes de trabalho fatais na indústria do petróleo (2001-2016), documentando a alta exposição em E&P e plataformas *offshore*.
+* **[`Silva_Lacaz_2020_Acidentes_Fatais_Politica_Seguranca_CSC.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Silva_Lacaz_2020_Acidentes_Fatais_Politica_Seguranca_CSC.pdf)** (124 KB)  
+  *Silva & Lacaz (Ciência & Saúde Coletiva, 2020)* — Comprovação empírica de taxa de mortalidade 5 vezes superior em terceirizados no setor petrolífero (83,8% dos óbitos).
 * **[`Galvao_2023_Terceirizacao_Desastres_Mineracao.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Galvao_2023_Terceirizacao_Desastres_Mineracao.pdf)** (429 KB)  
-  *Daniel Galvão (Direito e Práxis, 2023)* — Terceirização e acidentalidade em grandes desastres industriais da mineração (barragens de rejeitos).
+  *Daniel Galvão (Direito e Práxis, 2023)* — Terceirização e acidentalidade em grandes desastres industriais da mineração (barragens de rejeitos de Mariana e Brumadinho).
