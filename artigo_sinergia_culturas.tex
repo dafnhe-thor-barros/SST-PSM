@@ -22,6 +22,8 @@
 \usepackage{cite}
 \usepackage{fancyhdr}
 \usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning}
 
 % ==============================================================================
 % CONFIGURAÇÃO DE MARGENS (Conforme Diretrizes Oficiais REMUNOM)
@@ -45,7 +47,7 @@
 % ==============================================================================
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\fontsize{9}{11}\selectfont Revista Multidisciplinar do Nordeste Mineiro, v. 2026, n. 1}
+\fancyhead[L]{\fontsize{9}{11}\selectfont Revista Multidisciplinar do Nordeste Mineiro}
 \fancyhead[R]{\fontsize{9}{11}\selectfont ISSN 2178-6925}
 \fancyfoot[C]{\fontsize{10}{12}\selectfont \thepage}
 \renewcommand{\headrulewidth}{0.4pt}
@@ -78,9 +80,9 @@
 % ELEMENTOS PRÉ-TEXTUAIS (TÍTULOS E AUTORIA)
 % ==============================================================================
 \begin{center}
-  {\fontsize{14}{16}\selectfont \textbf{ALÉM DA SUBORDINAÇÃO CONTRATUAL: A SINERGIA DE CULTURAS DE SEGURANÇA ENTRE EMPRESAS PRIMEIRIZADAS E TERCEIRIZADAS COMO VETOR DE RESILIÊNCIA OPERACIONAL}}\\[0.4cm]
-  {\fontsize{12}{14}\selectfont \textbf{BEYOND CONTRACTUAL SUBORDINATION: SAFETY CULTURE SYNERGY BETWEEN PRINCIPAL AND CONTRACTOR COMPANIES AS A DRIVER OF OPERATIONAL RESILIENCE}}\\[0.4cm]
-  {\fontsize{12}{14}\selectfont \textbf{MÁS ALLÁ DE LA SUBORDINACIÓN CONTRACTUAL: LA SINERGIA DE CULTURAS DE SEGURIDAD ENTRE EMPRESAS CONTRATANTES Y CONTRATISTAS COMO VECTOR DE RESILIENCIA OPERATIVA}}
+  {\fontsize{14}{16}\selectfont \textbf{ALÉM DA GOVERNANÇA CONTRATUAL: A COOPERAÇÃO INTERORGANIZACIONAL DE CULTURAS DE SEGURANÇA ENTRE EMPRESAS CONTRATANTES E PRESTADORAS DE SERVIÇOS COMO VETOR DE RESILIÊNCIA OPERACIONAL}}\\[0.4cm]
+  {\fontsize{12}{14}\selectfont \textbf{BEYOND CONTRACTUAL GOVERNANCE: INTERORGANIZATIONAL COOPERATION OF SAFETY CULTURES BETWEEN PRINCIPAL AND CONTRACTOR COMPANIES AS A DRIVER OF OPERATIONAL RESILIENCE}}\\[0.4cm]
+  {\fontsize{12}{14}\selectfont \textbf{MÁS ALLÁ DE LA GOBERNANZA CONTRACTUAL: LA COOPERACIÓN INTERORGANIZACIONAL DE CULTURAS DE SEGURIDAD ENTRE EMPRESAS CONTRATANTES Y CONTRATISTAS COMO VECTOR DE RESILIENCIA OPERATIVA}}
 \end{center}
 
 \vspace{0.4cm}
@@ -99,28 +101,28 @@
 % ==============================================================================
 \begin{abstract}
 \fontsize{10}{12}\selectfont\singlespacing\justifying
-A terceirização de atividades industriais e logísticas consolidou-se como modelo predominante de organização produtiva. Todavia, a fragmentação dos vínculos de trabalho gerou vulnerabilidades crônicas em Saúde e Segurança do Trabalho (SST), historicamente marcadas por assimetria econômica, controle fiscalizatório coercitivo e segregação sociocultural entre empregados próprios e contratados. O presente artigo analisa os benefícios da sinergia de culturas de segurança entre empresas contratantes (primeirizadas) e prestadoras de serviços (terceirizadas), propondo a transição da conformidade burocrática de papel (\textit{paper compliance}) para uma governança relacional e sistêmica. Metodologicamente delineado como um ensaio teórico-conceitual integrativo fundamentado em revisão sistemática e narrativa da literatura, o estudo ancora-se nos modelos de maturidade de Hudson, na Cultura Justa de Reason, no paradigma do \textit{Safety Differently} de Dekker, na Visão Relacional da Firma de Dyer e Singh e na Espiral do Conhecimento de Nonaka e Takeuchi, alinhando-se estritamente ao Subitem 1.5.8 da NR-01 e ao Requisito 8.1.4.2 da ABNT NBR ISO 45001:2018. Demonstra-se que a simbiose cultural catalisa cinco benefícios estruturantes: (1) fertilização cruzada e socialização de conhecimento operacional tácito; (2) fortalecimento da Cultura Justa e empoderamento psicológico do direito de recusa; (3) blindagem cooperativa das interfaces operacionais críticas (Permissões de Trabalho e Bloqueios LOTO); (4) redução sustentada da gravidade de incidentes, com retorno financeiro sobre a prevenção (\textit{Return on Prevention}) e mitigação de custos transacionais ocultos; e (5) aceleração da maturidade sistêmica e fortalecimento de métricas ESG em redes de suprimento. Conclui-se que a segurança do trabalho constitui uma capacidade relacional dinâmica cocriada na interface produtiva.
+A prestação de serviços a terceiros consolidou-se como modelo proeminente de organização produtiva na indústria. Todavia, a fragmentação dos vínculos de trabalho nas interfaces interorganizacionais frequentemente gera vulnerabilidades em Segurança e Saúde no Trabalho (SST), potencializadas por assimetrias de poder econômico, controles contratuais estritamente formais e risco de subnotificação de eventos indesejados. O presente artigo propõe um modelo conceitual (\textit{framework}) para analisar a cooperação interorganizacional de culturas de segurança entre empresas contratantes e prestadoras de serviços, examinando a transição da conformidade burocrática de papel (\textit{paper compliance}) para uma governança relacional e sistêmica. Metodologicamente delineado como um ensaio teórico-conceitual fundamentado em revisão narrativa da literatura e análise normativa comparada, o estudo articula os modelos de maturidade de Hudson, a concepção de Cultura Justa de Reason, os fatores humanos e a variabilidade do trabalho em Dekker, as formulações de governança de Dyer e Singh e a teoria da criação de conhecimento de Nonaka e Takeuchi, dialogando estritamente com os marcos regulatórios vigentes — com ênfase no item 1.5.8 da NR-01 (com vigência a partir de maio de 2026), na disciplina de integração da NR-05 e no requisito 8.1.4.2 da norma técnica ABNT NBR ISO 45001:2018. Como contribuição original, o ensaio estrutura uma matriz conceitual que discrimina antecedentes relacionais, mecanismos sociotécnicos de interface e proposições teóricas de resultados esperados — categorizados em eficácia das barreiras operacionais, aprendizagem bidirecional, segurança psicológica no reporte de riscos, potenciais retornos sobre a prevenção e alinhamento à sustentabilidade corporativa. Conclui-se que a segurança em operações compartilhadas decorre de uma capacidade relacional dinâmica cocriada na interface produtiva, propondo-se uma agenda de validação empírica dotada de indicadores operacionais mensuráveis.
 \end{abstract}
 
-\noindent\fontsize{10}{12}\selectfont\textbf{Palavras-chave:} Cultura de Segurança; Terceirização Industrial; Governança Relacional; Gestão de Riscos Ocupacionais; Sinergia Interorganizacional; NR-01.
+\noindent\fontsize{10}{12}\selectfont\textbf{Palavras-chave:} Cultura de Segurança; Terceirização Industrial; Governança Relacional; Gerenciamento de Riscos Ocupacionais; Cooperação Interorganizacional; NR-01.
 
 \vspace{0.3cm}
 
 \begin{abstract}
 \fontsize{10}{12}\selectfont\singlespacing\justifying
-Outsourcing industrial and logistic activities has become the dominant paradigm of production organization. However, the fragmentation of labor ties has created chronic occupational health and safety (OHS) vulnerabilities, historically characterized by economic asymmetry, coercive inspection-based control, and sociocultural segregation between direct employees and contractors. This paper analyzes the benefits of safety culture synergy between principal (client) and contractor companies, proposing a paradigm shift from paper compliance toward systemic, relational governance. Methodologically structured as an integrative theoretical-conceptual essay supported by a narrative literature review, the study builds upon Hudson’s safety maturity framework, Reason’s Just Culture, Dekker’s Safety Differently tenets, Dyer and Singh’s Relational View of the Firm, and Nonaka and Takeuchi’s Knowledge Creation model, while rigorously addressing Regulatory Standard NR-01 (sub-clause 1.5.8) and ABNT NBR ISO 45001:2018 (clause 8.1.4.2). The research reveals that cultural synergy generates five major structural benefits: (1) cross-fertilization and socialization of tacit operational knowledge; (2) reinforcement of Just Culture and psychological empowerment for work refusal rights; (3) cooperative safeguarding of critical operational interfaces (Permit to Work and Lockout/Tagout procedures); (4) sustained mitigation of incident severity, generating positive Return on Prevention and eliminating hidden transactional costs; and (5) advancement of systemic organizational maturity aligned with supply chain ESG metrics. Safety cannot be contractually outsourced as a commodity; it represents an emergent, relational capability co-created across organizational boundaries.
+Contracting external service providers has become a dominant operational model across industrial sectors. However, the fragmentation of labor ties across interorganizational interfaces frequently generates occupational health and safety (OHS) vulnerabilities, compounded by economic power asymmetries, strictly formal contractual controls, and risks of incident underreporting. This paper proposes a conceptual framework to analyze the interorganizational cooperation of safety cultures between principal (client) and contractor companies, examining the transition from paper compliance toward relational, systemic governance. Methodologically structured as a theoretical-conceptual essay supported by a narrative literature review and normative legal analysis, the study integrates Hudson’s safety maturity framework, Reason’s Just Culture tenets, human factors and work variability in Dekker, Dyer and Singh’s relational governance theory, and Nonaka and Takeuchi’s knowledge creation model. It strictly addresses prevailing regulatory standards, emphasizing clause 1.5.8 of Brazilian NR-01 (effective from May 2026), NR-05 joint committee integration requirements, and clause 8.1.4.2 of ABNT NBR ISO 45001:2018. As its primary contribution, the essay establishes a multi-level conceptual model differentiating relational antecedents, sociotechnical interface mechanisms, and theoretical propositions regarding expected outcomes — categorized into operational barrier efficacy, bidirectional learning, psychological safety in risk communication, potential returns on prevention, and corporate sustainability alignment. The paper concludes that safety in shared operations constitutes an emergent relational capability co-created across organizational boundaries, establishing an empirical validation agenda with measurable indicators.
 \end{abstract}
 
-\noindent\fontsize{10}{12}\selectfont\textbf{Keywords:} Safety Culture; Industrial Outsourcing; Relational Governance; Occupational Risk Management; Interorganizational Synergy; NR-01.
+\noindent\fontsize{10}{12}\selectfont\textbf{Keywords:} Safety Culture; Industrial Outsourcing; Relational Governance; Occupational Risk Management; Interorganizational Cooperation; NR-01.
 
 \vspace{0.3cm}
 
 \begin{abstract}
 \fontsize{10}{12}\selectfont\singlespacing\justifying
-La subcontratación de actividades industriales y logísticas se ha consolidado como el modelo predominante de organización productiva. Sin embargo, la fragmentación de los vínculos laborales ha generado vulnerabilidades crónicas en Seguridad y Salud en el Trabajo (SST), caracterizadas históricamente por asimetría económica, supervisión coercitiva y segregación sociocultural entre trabajadores propios y contratistas. Este artículo analiza los beneficios de la sinergia de culturas de seguridad entre empresas contratantes y contratistas, proponiendo la superación de la conformidad documental hacia una gobernanza relacional y sistémica. Metodológicamente configurado como un ensayo teórico-conceptual integrador basado en una revisión sistemática de la literatura, el marco teórico integra los modelos de madurez de Hudson, la Cultura Justa de Reason, la Seguridad Diferente de Dekker, la Visión Relacional de la Empresa de Dyer y Singh y la Creación de Conocimiento de Nonaka y Takeuchi, en estricto cumplimiento del ítem 1.5.8 de la NR-01 y la norma ISO 45001:2018. Se demuestra que la sinergia cultural produce cinco beneficios estratégicos: (1) fertilización cruzada del conocimiento tácito; (2) fortalecimiento de la Cultura Justa y ejercicio efectivo del derecho de rechazo; (3) blindaje cooperativo de interfaces operativas críticas; (4) reducción sustancial de la gravedad de siniestros, retorno sobre la prevención y eliminación de costos ocultos; y (5) aceleración de la madurez sistémica y consolidación de directrices ESG. La seguridad no constituye un riesgo transferible, sino una capacidad relacional dinámica.
+La subcontratación de servicios se ha consolidado como un modelo predominante de organización productiva en la industria. Sin embargo, la fragmentación de los vínculos laborales en las interfaces interorganizacionales a menudo genera vulnerabilidades en Seguridad y Salud en el Trabajo (SST), potenciadas por asimetrías de poder económico, controles contractuales estrictamente formales y riesgo de subnotificación de incidentes. Este artículo propone un marco conceptual (\textit{framework}) para analizar la cooperación interorganizacional de culturas de seguridad entre empresas contratantes y contratistas, examinando la transición del mero cumplimiento documental (\textit{paper compliance}) hacia una gobernanza relacional y sistémica. Metodológicamente estructurado como un ensayo teórico-conceptual basado en una revisión narrativa de la literatura y un análisis normativo comparado, el estudio articula los modelos de madurez de Hudson, la Cultura Justa de Reason, los factores humanos en Dekker, la gobernanza relacional de Dyer y Singh y la creación de conocimiento de Nonaka y Takeuchi, en diálogo con los marcos regulatorios vigentes — especialmente el ítem 1.5.8 de la NR-01 brasileña (en vigor a partir de mayo de 2026), la NR-05 y la norma técnica voluntaria ABNT NBR ISO 45001:2018 (requisito 8.1.4.2). Como contribución central, el ensayo estructura una matriz conceptual que discrimina antecedentes relacionales, mecanismos sociotécnicos de interfaz y proposiciones teóricas de resultados esperados — categorizados en eficacia de barreras operativas, aprendizaje bidireccional, seguridad psicológica en la comunicación de riesgos, potencial retorno sobre la prevención y sostenibilidad corporativa. Se concluye que la seguridad en operaciones compartidas constituye una capacidad relacional dinámica cocreada en la interfaz productiva, proponiéndose una agenda de contrastación empírica con indicadores medibles.
 \end{abstract}
 
-\noindent\fontsize{10}{12}\selectfont\textbf{Palabras clave:} Cultura de Seguridad; Subcontratación; Gobernanza Relacional; Gestión de Riscos Ocupacionales; Sinergia Interorganizacional; NR-01.
+\noindent\fontsize{10}{12}\selectfont\textbf{Palabras clave:} Cultura de Seguridad; Subcontratación; Gobernanza Relacional; Gestión de Riesgos Ocupacionales; Cooperación Interorganizacional; NR-01.
 
 \vspace{0.4cm}
 
@@ -129,116 +131,127 @@ La subcontratación de actividades industriales y logísticas se ha consolidado 
 % ==============================================================================
 \section{Introdução}
 
-A reestruturação produtiva global observada ao longo das últimas quatro décadas consolidou a terceirização como uma das ferramentas mais difundidas de reorganização corporativa. Sob o pretexto de conferir agilidade operacional, focar competências no \textit{core business} e otimizar custos fixos, corporações dos mais variados setores industriais intensivos em capital e risco — tais como óleo e gás, petroquímica, mineração, siderurgia, construção pesada e manufatura avançada — passaram a transferir frações substanciais de seus processos de manutenção mecânica, montagem industrial, movimentação de cargas e apoio logístico para prestadoras de serviços especializadas. No cenário brasileiro, esse movimento ganhou tração exponencial após a promulgação da Lei Federal nº 13.429/2017 e a subsequente Reforma Trabalhista (Lei nº 13.467/2017), as quais suprimiram as distinções restritivas preexistentes entre atividade-meio e atividade-fim.
+A reorganização produtiva observada nas últimas quatro décadas consolidou a terceirização e a contratação de serviços especializados como estratégias centrais de estruturação operacional na indústria contemporânea. Setores intensivos em capital e com severas matrizes de risco — a exemplo de óleo e gás, mineração, petroquímica, metalurgia, siderurgia, construção pesada e montagem industrial — passaram a alocar parcelas substanciais de suas intervenções de manutenção de ativos, movimentação de cargas, logística e paradas de usina a prestadoras de serviços externas.
 
-Não obstante os argumentos de eficiência econômica comumente esgrimidos pela literatura gerencial clássica, a proliferação da terceirização em atividades de risco elevado introduziu distorções profundas e severas vulnerabilidades no campo da Saúde e Segurança do Trabalho (SST). A literatura sociológica e ergonômica demonstra que a fragmentação dos vínculos empregatícios está intrinsecamente correlacionada a uma precarização multifacetada das condições de trabalho, manifestada em elevadas taxas de rotatividade (\textit{turnover}), extensão de jornadas laborais, déficit crônico de capacitação técnica continuada e enfraquecimento das barreiras de proteção coletiva (DRUCK, 2016; CAMPOS, 2018). Dados do Instituto de Pesquisa Econômica Aplicada (IPEA) revelam que os trabalhadores terceirizados no Brasil sofrem uma incidência estatisticamente superior de acidentes graves e fatais, permanecem internados por períodos mais longos em decorrência de agravos ocupacionais e apresentam maior probabilidade de concessão de benefícios previdenciários por invalidez permanente quando comparados aos operários do quadro direto das corporações contratantes (CAMPOS, 2018).
+No cenário jurídico brasileiro, esse movimento experimentou expressiva expansão institucional a partir das Leis Federais nº 13.429/2017 e nº 13.467/2017, as quais reformularam a Lei nº 6.019/1974 para autorizar a prestação de serviços a terceiros em quaisquer atividades da empresa contratante, inclusive em sua atividade principal. Posteriormente, o Supremo Tribunal Federal (STF), ao julgar a Arguição de Descumprimento de Preceito Fundamental (ADPF) 324 e o Recurso Extraordinário (RE) 958.252 (Tema 725 da Repercussão Geral), fixou a tese vinculante da licitude irrestrita da terceirização de qualquer atividade-meio ou atividade-fim, preservando a responsabilidade subsidiária da empresa tomadora pelo adimplemento dos créditos trabalhistas e previdenciários nos moldes da jurisprudência consolidada.
 
-Diante dessa realidade alarmante, a resposta hegemônica das empresas tomadoras de serviços (aqui denominadas primeirizadas) tem sido pautada pelo que a moderna engenharia de fatores humanos conceitua como ``paradoxo do controle'' ou ``segurança burocrática'' (\textit{safety clutter}) (HALE; BORYS, 2013; DEKKER, 2014; BORYS et al., 2009). Ao invés de construir um alinhamento cultural orgânico e dialógico, as contratantes tendem a transferir o fardo da gestão do risco através de contratos de adesão juridicamente blindados, fiscalizações coercitivas e manuais prescritivos herméticos. Sob esse modelo estritamente contratual e punitivo, a gestão de SST degenera em um exercício estéril de conformidade formal de papel (\textit{paper compliance}): os trabalhadores terceirizados são compelidos a preencher compêndios de ordens de serviço, permissões e Análises Preliminares de Risco (APR) meramente para transpor as portarias industriais, enquanto a faina real na linha de frente (\textit{work-as-done}) permanece descolada das hipóteses ideais concebidas pelos engenheiros no conforto de seus gabinetes corporativos (\textit{work-as-imagined}) (DEKKER, 2014; BORYS et al., 2009).
+Não obstante a justificativa de ganho de eficiência econômica e especialização técnica, a literatura sociológica, ergonômica e epidemiológica aponta que a fragmentação das cadeias de trabalho pode introduzir vulnerabilidades complexas no campo da Segurança e Saúde no Trabalho (SST). Investigações documentadas (DRUCK, 2016; CAMPOS, 2018) registram que regimes de terceirização marcados por rotatividade elevada de pessoal, menor tempo médio de casa e compressão de custos contratuais tendem a exibir indicadores desfavoráveis de afastamento acidentário e maior severidade nas lesões quando contrastados a contingentes do quadro próprio de pessoal. Essa constatação ganha relevo fático pelo mandamento esculpido no art. 5º-A, §3º, da Lei nº 6.019/1974 (introduzido pela Lei nº 13.429/2017), o qual preceitua expressamente que é responsabilidade da empresa contratante garantir as condições de segurança, higiene e salubridade aos trabalhadores prestadores de serviços quando a atividade for executada em suas dependências ou em local previamente convencionado em contrato.
 
-Ademais, ergue-se nas instalações fabris o denominado ``abismo de crachás'' (\textit{badge barrier}): uma barreira discriminatória de segregação sociocultural, na qual o operador terceiro é estigmatizado como um elemento estranho à organização, desprovido de legitimidade técnica, portador presumido de práticas inseguras e desprovido do empoderamento psicológico mínimo para exercer o direito de recusa diante de riscos graves e iminentes (FIGUEIREDO et al., 2018; VILELA et al., 2004). O subproduto inevitável dessa assimetria estrutural de poder é a degradação generalizada do clima de segurança, a subnotificação massiva de anomalias operacionais e quase-acidentes por receio de penalizações contratuais e a fragilização catastrófica das interfaces operacionais compartilhadas (LINGARD et al., 2009; MEARNS; FLIN, 1999).
+Historicamente, a resposta organizacional hegemônica das empresas tomadoras perante os riscos de contratadas tem oscilado entre o controle puramente contratual e a proliferação burocrática de normas, fenômeno conceituado na literatura de fatores humanos como ``segurança burocrática'' ou \textit{Safety Clutter} (HALE; BORYS, 2013; RAE et al., 2018; LIM et al., 2025). Sob essa abordagem formalista, transfere-se o encargo do controle mediante imposições procedimentais exaustivas e auditorias punitivas de documentação. Como consequência, a gestão de SST corre o risco de degenerar em conformidade puramente formal de papel (\textit{paper compliance}): os trabalhadores contratados veem-se constrangidos a preencher formulários repetitivos de Análise Preliminar de Risco (APR) e permissões de trabalho meramente para cumprir exigências de portaria, enquanto o Trabalho Real (\textit{Work-as-Done}) na linha de frente distancia-se das hipóteses abstratas preconizadas no Trabalho Prescrito (\textit{Work-as-Imagined}) (DEKKER, 2014; BORYS et al., 2009).
 
-Nesse cenário, emerge o problema de pesquisa que orienta o presente estudo: \textit{Quais são os benefícios organizacionais, técnicos e operacionais decorrentes da superação do modelo fiscalizatório tradicional em favor de uma sinergia deliberada de culturas de segurança entre empresas primeirizadas e terceirizadas, e de que forma essa simbiose pode ser concretizada à luz das teorias contemporâneas de fatores humanos, governança relacional e do ordenamento normativo nacional e internacional vigente?}
+Ademais, pesquisas empíricas no ambiente fabril brasileiro documentam a emergência do denominado ``abismo de crachás'' (FIGUEIREDO; ALVAREZ; ADAMS, 2018): uma fronteira sociopolítica e simbólica de segregação entre empregados próprios e contratados, na qual o trabalhador da prestadora de serviços é frequentemente percebido sob suspeição técnica, operando com menor autonomia e receio de retaliação contratual ao sinalizar perigos ou exercer a interrupção de tarefas em condições de risco grave e iminente (VILELA; IGUTI; ALMEIDA, 2004; LIMA; OLIVEIRA, 2021). Esse distanciamento hierárquico e cultural favorece o silêncio organizacional e a subnotificação seletiva de anomalias operacionais e quase-acidentes (ROCHA; PUCCI; WALTER, 2023; MEARNS; FLIN, 1999).
 
-O objetivo deste artigo é analisar sistematicamente as dimensões conceituais, normativas e gerenciais que fundamentam a sinergia de culturas de segurança entre empresas tomadoras e prestadoras de serviços, demonstrando como a cooperação interorganizacional, a valorização do saber tácito dos operários e a governança relacional convertem a segurança do trabalho de um encargo transacional de atrito em um diferencial decisivo de resiliência e maturidade sistêmica. Justifica-se a relevância desta investigação pelo imperativo legal de harmonização de riscos estabelecido pelo Subitem 1.5.8 da NR-01 (BRASIL, 2020) e pelo Requisito 8.1.4.2 da ABNT NBR ISO 45001:2018 (ABNT, 2018), bem como pela premente demanda de sustentabilidade corporativa (ESG) em erradicar a morbimortalidade na cadeia de valor. Metodologicamente, este trabalho caracteriza-se como um ensaio teórico-conceitual integrativo, desenvolvido a partir de uma revisão sistemática e narrativa de fontes normativas, empíricas e teóricas seminais.
+Nesse contexto, formula-se o problema de pesquisa que orienta o presente trabalho: \textit{Quais são os fundamentos conceituais, os mecanismos de interface interorganizacional e as proposições teóricas que permitem estruturar um framework explicativo para a cooperação de culturas de segurança entre empresas contratantes e prestadoras de serviços, em consonância com as teorias contemporâneas de fatores humanos, governança relacional e os marcos regulatórios vigentes?}
+
+O objetivo deste artigo é desenvolver e formalizar um modelo conceitual (\textit{framework}) que posicione a segurança nas operações terceirizadas não como uma mercadoria contratualmente transferível ou um custo de fricção fiscalizatória, mas como uma capacidade relacional interorganizacional. Articula-se a governança relacional, o compartilhamento de conhecimento operacional tácito e o diálogo participativo como mecanismos potencialmente associados à robustez das barreiras preventivas e à resiliência operacional, estabelecendo-se uma agenda estruturada para futura validação empírica.
 
 % ==============================================================================
-% 2. FUNDAMENTAÇÃO TEÓRICA E MARCO REGULATÓRIO
+% 2. PROCEDIMENTOS METODOLÓGICOS DO ENSAIO CONCEITUAL
 % ==============================================================================
-\section{Fundamentação Teórica e Marco Regulatório}
+\section{Procedimentos Metodológicos do Ensaio Conceitual}
 
-A investigação das dinâmicas de segurança em ecossistemas de subcontratação exige a articulação de uma matriz teórica multidisciplinar, conectando a psicologia organizacional, a sociologia do trabalho, a engenharia de resiliência e a teoria da estratégia interorganizacional.
+Este trabalho classifica-se metodologicamente como um \textbf{ensaio teórico-conceitual integrativo}, conduzido por meio de revisão narrativa crítica da literatura científica e análise documental do ordenamento regulatório e normativo aplicável à SST no Brasil e no cenário internacional.
 
-\subsection{Modelos de Maturidade da Cultura de Segurança: A Escada de Hudson}
+Ao contrário de uma revisão sistemática da literatura — a qual exige protocolo metodológico estrito, estratégias de busca probabilísticas reprodutíveis, critérios de inclusão/exclusão exaustivos e fluxograma PRISMA —, o ensaio teórico-conceitual visa à construção, refinamento e articulação de modelos abstratos a partir de corpos teóricos preexistentes (CORLEY; GIOIA, 2011). A abordagem narrativa permite examinar conceitos multidisciplinares provenientes da engenharia de resiliência, sociologia do trabalho, psicologia organizacional, estratégia interorganizacional e direito regulatório, com o intuito de estruturar um \textit{framework} analítico integrativo que organize antecedentes, processos de interface e proposições teóricas a serem testadas futuramente no campo empírico.
 
-A cultura de segurança pode ser compreendida como o conjunto duradouro de valores, atitudes, percepções, competências e padrões de comportamento que determinam o compromisso institucional de uma organização com a mitigação contínua de perigos e a promoção da saúde ocupacional (COOPER, 2000; REASON, 1997). Cooper (2000) concebe a cultura de segurança mediante um modelo triádico recíproco, no qual coexistem e retroalimentam-se três dimensões interdependentes: a dimensão psicológica (o que os trabalhadores pensam e sentem — o clima de segurança), a dimensão comportamental (o que as pessoas efetivamente praticam nas atividades diárias) e a dimensão organizacional-estrutural (os sistemas formais de gestão, políticas, recursos e fluxos de controle).
-
-Para mapear e mensurar a evolução dessa cultura ao longo do tempo, a literatura internacional consagra a ``Escada de Maturidade da Cultura de Segurança'', sistematizada por Hudson (2007) a partir das pesquisas pioneiras de Westrum sobre tipologias sociotécnicas de informação. Hudson propõe uma escala evolutiva composta por cinco estágios sucessivos:
+O procedimento analítico estruturou-se em quatro etapas sequenciais:
 \begin{enumerate}[label=\alph*)]
-  \item \textbf{Patológico:} A segurança é encarada estritamente como um obstáculo à produtividade. A premissa implícita é: ``a regra só tem valor se formos flagrados''. A circulação de informações sobre falhas e anomalias é ativamente reprimida, e acidentes são atribuídos à negligência exclusiva da vítima.
-  \item \textbf{Reativo:} A organização apenas mobiliza atenção e investimentos após a ocorrência de incidentes com lesões graves ou fatalidades. As respostas limitam-se à punição disciplinar do operador imediato e à criação de regras cosméticas de curto prazo.
-  \item \textbf{Calculativo:} A segurança é gerenciada como uma disciplina puramente técnica e legalista de conformidade. Há uma ênfase exacerbada em indicadores numéricos estáticos (TFCA zerada), proliferação de auditorias cartoriais e manuais volumosos de procedimentos. A terceirizada é gerida estritamente pela coerção contratual.
-  \item \textbf{Proativo:} Lideranças e operadores cooperam ativamente na antecipação de perigos antes que se consolidem em acidentes. Ocorre a participação legítima da força de trabalho no desenho dos procedimentos, valorizando-se o conhecimento prático da operação.
-  \item \textbf{Generativo:} A segurança transcende o estatuto de meta corporativa transitória e consolida-se como um valor identitário inegociável, intrínseco a todas as decisões financeiras, operacionais e estratégicas. A organização opera com confiança mútua, transparência radical de dados e aprendizagem permanente com a variabilidade do trabalho cotidiano.
+  \item \textbf{Levantamento e Triagem Bibliográfica Narrativa:} Identificação de obras seminais e pesquisas contemporâneas (2000 a 2026) que investigam cultura de segurança, fatores humanos, governança de redes de suprimentos, terceirização e gestão do conhecimento em bases como SciELO, Scopus, Web of Science e repositórios institucionais (IPEA, Fundacentro e RMIT);
+  \item \textbf{Exame Dogmático e Regulatório Atualizado:} Leitura e análise dos dispositivos legais da Lei nº 6.019/1974 (com redação pelas Leis nº 13.429/2017 e 13.467/2017), do entendimento jurisprudencial do STF (ADPF 324 e Tema 725), da atual redação do capítulo 1.5 da NR-01 (com vigência a partir de maio de 2026 nos termos da Portaria MTE nº 1.419/2024 e Portaria MTE nº 765/2025), das regras de integração da CIPA na NR-05 e dos requisitos da norma técnica voluntária ABNT NBR ISO 45001:2018;
+  \item \textbf{Mapeamento dos Choques e Dinâmicas de Poder:} Análise crítica das barreiras estruturais, assimetrias econômicas e conflitos de interesse inerentes à relação contratante-contratada;
+  \item \textbf{Construção do Framework Teórico e Formulação de Proposições:} Síntese e sistematização dos antecedentes, mecanismos mediadores e efeitos esperados em uma matriz conceitual testável, acompanhada de indicadores operacionais para subsidiar futuras pesquisas empíricas.
 \end{enumerate}
 
-No ambiente da terceirização industrial, os choques culturais emergem comumente do descompasso evolutivo entre as partes: com frequência, a corporação primeirizada, posicionada no patamar calculativo, impõe exigências normativas sofisticadas a fornecedores que ainda operam sob premissas patológicas ou reativas, sem fornecer os insumos de capacitação e a segurança psicológica necessários para alavancar a maturidade de sua cadeia de suprimentos (HUDSON, 2007; TESCHE, 2026).
+% ==============================================================================
+% 3. REFERENCIAL TEÓRICO E MARCO REGULATÓRIO
+% ==============================================================================
+\section{Referencial Teórico e Marco Regulatório}
 
-\subsection{Cultura Justa e a Nova Visão de Segurança: Safety Differently}
+A compreensão das dinâmicas de segurança nas relações entre contratantes e prestadoras de serviços requer o diálogo entre correntes sociotécnicas consagradas e os requisitos formais de conformidade.
 
-A sustentabilidade de uma cultura proativa ou generativa requer, segundo a teoria de James Reason (1997), o estabelecimento inegociável de uma \textit{Cultura Justa} (\textit{Just Culture}). Reason demonstra que nenhum sistema sociotécnico pode aprender com seus próprios erros se os trabalhadores temerem represálias disciplinares imediatas ao reportar incidentes, desvios operacionais ou armadilhas de projeto. A Cultura Justa funda-se no delineamento claro, transparente e amplamente compreendido entre o que constitui erro humano não intencional (decorrente de limites cognitivos, falhas de interface ou pressões temporais sistêmicas) e o que configura conduta intencionalmente negligente, violação deliberada ou sabotagem (REASON, 1997). Sem essa distinção equânime, instala-se uma ``cultura do silêncio'', cujo efeito devastador é a cegueira gerencial diante dos sinais fracos de deterioração operacional.
+\subsection{Distinção entre Clima e Cultura de Segurança: O Modelo de Hudson}
 
-Complementarmente, Sidney Dekker (2014) lidera o movimento \textit{Safety Differently} (também denominado Segurança II), rompendo com o paradigma tradicional de que a segurança resulta da obediência cega a prescrições rígidas. Dekker (2014) desconstrói duas falácias da engenharia clássica: (1) a premissa de que o ser humano é uma fonte de perigo e erro a ser adestrada e controlada por regras; e (2) a ideia de que segurança se define meramente pela contagem de eventos negativos evitados. Sob a ótica do \textit{Safety Differently}, os trabalhadores são vistos como a fonte primária de adaptabilidade, resiliência e resolução de problemas do sistema.
+Faz-se indispensável, preliminarmente, delimitar a distinção conceitual entre clima de segurança e cultura de segurança. O \textit{clima de segurança} expressa o conjunto de percepções compartilhadas, atitudes e sentimentos dos trabalhadores em relação às prioridades e práticas de segurança da organização em um dado momento temporal, sendo passível de mensuração psicométrica direta através de questionários e escalas de atitude (MEARNS; FLIN, 1999; COOPER, 2000). Em contrapartida, a \textit{cultura de segurança} constitui uma dimensão mais profunda, ampla e relativamente persistente da vida organizacional, corporificada em valores fundamentais, significados compartilhados, normas tácitas, pressupostos básicos, relações de poder e rotinas institucionalizadas que determinam como o perigo e o risco são gerenciados na prática diária (COOPER, 2000; METZNER-SZIGETH, 2026).
 
-Essa concepção exige reconhecer a distância ontológica e operacional entre o Trabalho Prescrito (\textit{Work-as-Imagined}) e o Trabalho Real (\textit{Work-as-Done}) (DEKKER, 2014; BORYS et al., 2009). Ao contratar terceiros, a primeirizada costuma conceber o trabalho como uma sequência linear imutável de tarefas, ignorando as contingências materiais, variações climáticas e restrições de ferramentas enfrentadas pelo contratado. Essa dissonância compele o trabalhador terceiro a efetuar adaptações clandestinas para bater as metas contratuais, operando na penumbra da clandestinidade técnica e vulnerabilizando as margens de segurança.
+Em ambientes interorganizacionais, contratante e contratada frequentemente aportam culturas organizacionais e subculturas profissionais distintas ao mesmo canteiro de trabalho. Para diagnosticar essas diferenças, a literatura consagra a ``Escada de Maturidade da Cultura de Segurança'' desenvolvida por Hudson (2007) a partir dos tipos informacionais de Westrum. A escala abrange cinco níveis evolutivos:
+\begin{enumerate}[label=\alph*)]
+  \item \textbf{Patológico:} A segurança é tratada como estorvo à produção; busca-se evitar o flagrante fiscalizatório e suprime-se ativamente a circulação de notícias desfavoráveis;
+  \item \textbf{Reativo:} A organização mobiliza-se exclusivamente após acidentes de monta, restringindo-se à punição disciplinar dos operadores e à emissão de advertências;
+  \item \textbf{Calculativo:} A segurança é administrada sob a lógica estrita do cumprimento de regras e indicadores numéricos formais (sistemas de papel), sendo as contratadas geridas pela coerção de cláusulas contratuais;
+  \item \textbf{Proativo:} Lideranças e trabalhadores cooperam na antecipação de perigos e na eliminação de condições inseguras antes de sua manifestação danosa;
+  \item \textbf{Generativo:} A preservação da vida e da integridade física constitui um valor estruturante e inegociável, praticando-se transparência informativa radical e aprendizado contínuo com a variabilidade das rotinas de trabalho.
+\end{enumerate}
 
-\subsection{Governança Contratual versus Governança Relacional: A Visão Relacional da Firma}
+Em arranjos de terceirização, o atrito surge amiúde quando uma contratante em estágio calculativo exige desempenhos elevados de uma contratada situada em patamares reativos ou patológicos, sem que haja uma infraestrutura relacional de integração que viabilize o desenvolvimento conjunto (HUDSON, 2007; TESCHE, 2026).
 
-Para além das dinâmicas comportamentais, as relações entre primeirizadas e terceirizadas são estruturadas por modelos de governança interorganizacional. Sob a teoria econômica convencional dos custos de transação, supõe-se que a contratação de serviços complexos deva ser resguardada por mecanismos contratuais detalhistas, respaldados por sanções pecuniárias estritas. Todavia, em ambientes industriais de alto risco e incerteza dinâmica, a governança puramente contratual revela-se contraproducente e frágil (MANU et al., 2019; HALE; BORYS, 2013).
+\subsection{Cultura Justa, Fatores Humanos e a Variabilidade do Trabalho}
 
-A \textit{Visão Relacional da Firma} (\textit{Relational View of the Firm}), introduzida por Dyer e Singh (1998), preconiza que rendas econômicas anormais e vantagens competitivas sustentáveis frequentemente não pertencem a uma única empresa isolada, mas emergem dos laços colaborativos estabelecidos entre organizações parceiras. Dyer e Singh (1998) identificam quatro pilares fundamentais geradores de rendas relacionais: (1) investimentos em ativos específicos do relacionamento interorganizacional; (2) rotinas estruturadas de compartilhamento de conhecimento; (3) complementaridade de capacidades e competências técnicas; e (4) mecanismos eficazes de governança baseados na confiança recíproca, reputação e salvaguardas sociais informais.
+A consolidação de ambientes operacionais seguros pressupõe, consoante as teorizações de James Reason (1997), a estruturação de uma \textit{Cultura Justa} (\textit{Just Culture}). Reason sustenta que a aprendizagem organizacional depende do relato voluntário de anomalias e erros. Todavia, a literatura posterior em fatores humanos adverte que a fronteira entre erro humano (involuntário) e violação de procedimentos não é binária nem trivial (DEKKER, 2012; ROCHA; PUCCI; WALTER, 2023). 
 
-Transposta para o contexto da Engenharia de Segurança, essa teoria elucida que a segurança não pode ser obtida por decreto hierárquico unilateral. A excelência em SST constitui uma capacidade relacional cocriada. Em recente investigação empírica sobre redes industriais, Onofre (2024) comprovou que a governança puramente formal e coercitiva inibe a cooperação de fornecedores terceirizados, ao passo que a governança relacional baseada na confiança mútua potencializa o desempenho e o alinhamento de processos críticos. Enquanto a governança estritamente contratual compele a contratada a dissimular desvios para fugir de penalidades pecuniárias, a governança relacional estabelece incentivos compartilhados, nos quais ambas as partes investem conjuntamente em defesas técnicas e colhem dividendos decorrentes da estabilidade e preservação da integridade física e operacional (MANU et al., 2019; ONOFRE, 2024; CARNEIRO et al., 2018).
+A Cultura Justa não preconiza a ausência de responsabilização (\textit{blameless culture}), mas busca distinguir equitativamente comportamentos e desfechos: afasta-se a culpabilização individual por desvios induzidos por armadilhas do sistema, pressões temporais ou instruções ambíguas, ao mesmo tempo em que se identificam condutas temerárias injustificadas ou deliberadas. Quando o operador contratado teme ser punido por relatar incidentes ou quase-perdas, instaura-se o silêncio protetivo, ocultando os sinais fracos de falha latente (REASON, 1997).
 
-\subsection{Gestão do Conhecimento Operacional: A Espiral de Nonaka e Takeuchi}
+Em convergência, a corrente do \textit{Safety Differently} formulada por Sidney Dekker (2014) — a qual compartilha raízes epistemológicas com a Engenharia de Resiliência e o paradigma do \textit{Safety-II} proposto por Erik Hollnagel (2014), conquanto mantenham trajetórias teóricas distintas — preconiza que a segurança não se resume à conformidade cega com procedimentos burocráticos. A perspectiva de Dekker (2014) e Hollnagel (2014) enfatiza o descompasso crônico entre o Trabalho Prescrito (\textit{Work-as-Imagined}) e o Trabalho Real (\textit{Work-as-Done}). Ao terceirizar frentes operacionais críticas, a contratante projeta rotinas ideais que raramente contemplam a escassez de recursos de campo ou variações climáticas vivenciadas pela contratada. O trabalhador da linha de frente atua então como um ajustador dinâmico de resiliência, realizando adaptações situacionais para viabilizar a produção que, se ignoradas pela gestão corporativa, acabam empurradas para a clandestinidade informal (BORYS et al., 2009).
 
-O trabalho terceirizado em indústrias pesadas é desempenhado por operários e supervisores itinerantes, detentores de vasto acúmulo de experiência de campo adquirida em múltiplas plantas e clientes corporativos distintos. Esse patrimônio técnico é eminentemente de natureza tácita — isto é, informal, empírico, intuitivo, incorporado no saber-fazer e lapidado pela convivência direta com as limitações dos maquinários e instalações industriais (NONAKA; TAKEUCHI, 1995; SORDI; ZACARKIM, 2023).
+\subsection{A Transposição da Visão Relacional e da Criação de Conhecimento para a SST}
 
-Segundo o clássico modelo SECI de criação do conhecimento organizacional proposto por Nonaka e Takeuchi (1995) e reexaminado contemporaneamente por Sordi e Zacarkim (2023), a espiral de inovação e aprendizagem principia na \textit{socialização} (conversão de conhecimento tácito em tácito por meio da convivência compartilhada, diálogo e observação direta) e avança para a \textit{externalização} (transformação do tácito em conceitos e procedimentos explícitos articulados). Quando a empresa contratante assume uma atitude de superioridade tecnocrática e isolamento simbólico em relação à contratada, os canais de socialização são rompidos. Como alertam Rocha e Pucci (2023), as assimetrias de poder e as barreiras hierárquicas impedem a expressão autônoma do trabalhador da linha de frente, aniquilando a confiança interorganizacional (OLIVEIRA; SOUZA, 2023). O saber tácito das equipes terceirizadas permanece confinado na clandestinidade operacional, inviabilizando que a organização tomadora aprimore suas próprias análises de risco a partir da inteligência acumulada pelo parceiro. A sinergia cultural, conforme sustentam Metzner-Szigeth (2026) e Herranen (2024), opera como a chave mestra que destrava a confiabilidade sociotécnica em redes industriais complexas.
+No âmbito da teoria estratégica, a \textit{Visão Relacional da Firma} (\textit{Relational View of the Firm}), concebida por Dyer e Singh (1998), postula que rendas econômicas e vantagens operacionais sustentáveis podem emergir nas interfaces de relacionamento entre firmas parceiras, a partir de: (1) investimentos em ativos específicos do relacionamento; (2) rotinas interorganizacionais de compartilhamento de conhecimento; (3) complementaridade de recursos; e (4) mecanismos de governança baseados na confiança e na reciprocidade. 
 
-\subsection{O Marco Regulatório: NR-01 (Portaria MTP nº 6.730/2020) e ABNT NBR ISO 45001:2018}
+Propõe-se aqui a \textbf{transposição conceitual dessa teoria para a gestão da segurança interorganizacional}: a segurança em sítios operacionais compartilhados não é produzida isoladamente por uma única organização, mas constitui uma capacidade relacional cocriada. Enquanto a governança estritamente contratual e punitiva incentiva a prestadora de serviços a dissimular anomalias operacionais para evitar penalidades pecuniárias, a governança relacional estabelece rotinas cooperativas em que ambas as organizações compartilham informações sobre perigos e coordenam intervenções conjuntas (MANU et al., 2019; ONOFRE, 2024).
 
-A migração da fiscalização fragmentada para a cooperação sistêmica não se limita a uma opção de boa governança gerencial, constituindo um dever legal imperativo no ordenamento normativo brasileiro e internacional.
+Analogamente, a gestão do conhecimento tácito — teorizada na clássica Espiral SECI (Socialização, Externalização, Combinação e Internalização) de Nonaka e Takeuchi (1995) e reexaminada por Sordi e Zacarkim (2023) — fornece suporte teórico para compreender o saber prático acumulado por trabalhadores e encarregados terceirizados. Por circularem entre múltiplas instalações fabris e contratantes distintas, equipes terceirizadas adquirem um acervo empírico de soluções de campo e identificação de perigos. Quando os canais de socialização e debate são bloqueados por barreiras hierárquicas, esse saber tácito permanece inexplorado, privando a contratante de aprimorar suas próprias barreiras preventivas a partir da experiência vivida da contratada.
 
-A Norma Regulamentadora nº 01 (Disposições Gerais e Gerenciamento de Riscos Ocupacionais), atualizada substancialmente pela Portaria MTP nº 6.730/2020, instituiu o Gerenciamento de Riscos Ocupacionais (GRO) e o Programa de Gerenciamento de Riscos (PGR), estabelecendo no Subitem 1.5.8 obrigações mandatórias de integração para a prestação de serviços (BRASIL, 2020):
+\subsection{Marco Regulatório: A NR-01 Vigente, a NR-05 e a ABNT NBR ISO 45001:2018}
+
+A exigência de coordenação interorganizacional encontra sustentação cogente no arcabouço normativo brasileiro. A Norma Regulamentadora nº 01 (Disposições Gerais e Gerenciamento de Riscos Ocupacionais), em sua redação vigente publicada pela Portaria MTE nº 1.419, de 27 de agosto de 2024 (com vigência plena a partir de 26 de maio de 2026, conforme Portaria MTE nº 765/2025), disciplina expressamente no item 1.5.8 o Gerenciamento de Riscos Ocupacionais (GRO) nas relações de prestação de serviços a terceiros:
 \begin{quote}
 \fontsize{10}{12}\selectfont\singlespacing
-``1.5.8.1 Sempre que várias organizações realizem, simultaneamente, atividades no mesmo local de trabalho, devem cooperar para a aplicação das disposições relativas à segurança e saúde no trabalho.\\
-1.5.8.2 A organização contratante deve fornecer à organização contratada as informações sobre os perigos e riscos sob sua responsabilidade que possam impactar as atividades da contratada.\\
-1.5.8.3 A organização contratada deve fornecer à organização contratante os perigos e riscos de suas atividades que possam impactar os trabalhadores da contratante e das demais contratadas presentes no local.\\
-1.5.8.4 As organizações devem integrar as informações sobre os perigos e riscos em seus respectivos inventários de riscos e planos de ação.'' (BRASIL, 2020, subitem 1.5.8).
+``1.5.8.1 O PGR da organização contratante deve incluir as medidas de prevenção para as organizações contratadas que atuem em suas dependências ou local previamente convencionado em contrato ou utilizar os programas das contratadas.\\
+1.5.8.1.1 No caso de utilização dos programas das organizações contratadas, estas devem fornecer à organização contratante o inventário de riscos ocupacionais e o plano de ação referente às atividades objeto de sua contratação.\\
+1.5.8.1.2 No caso das organizações contratadas em que os serviços são prestados somente pelo titular ou sócios, a organização contratante deve estender suas medidas de prevenção aos riscos das atividades objeto de sua contratação, quando atuarem em suas dependências ou local previamente convencionado em contrato.\\
+1.5.8.2 As organizações contratantes devem informar às organizações contratadas os riscos ocupacionais sob sua responsabilidade que possam impactar nas atividades das organizações contratadas.\\
+1.5.8.3 As organizações contratadas devem informar às organizações contratantes os riscos ocupacionais sob sua responsabilidade que possam impactar nas atividades das organizações contratantes.\\
+1.5.8.4 No caso de organizações contratadas que realizam atividades no estabelecimento da organização contratante cujos riscos resultem da interação das atividades das organizações, as medidas de prevenção devem ser definidas em conjunto, sob a coordenação da organização contratante.'' (BRASIL, 2024).
 \end{quote}
 
-O texto normativo da NR-01 desfaz a premissa de que os riscos de contratantes e contratadas possam ser geridos em inventários desconectados. A legislação exige a integração mandante dos Inventários de Riscos e a coordenação ativa dos Planos de Ação, determinando que o controle dos perigos na interface produtiva é de responsabilidade mútua e cooperativa.
+Nota-se com precisão que a norma regulamentadora não impõe a fusão documental compulsória dos Programas de Gerenciamento de Riscos (PGR), mas prevê alternativas claras de conformidade: a contratante pode incluir as contratadas em seu próprio PGR ou utilizar os programas específicos destas, hipótese em que a prestadora de serviços deve fornecer o inventário de riscos e o plano de ação correspondentes. Ademais, o item 1.5.8.4 estabelece o dever expresso de definição conjunta das medidas preventivas quando os riscos resultarem da interação das atividades operacionais, mantida a coordenação da organização contratante.
 
-Em consonância com esse preceito, a norma internacional ABNT NBR ISO 45001:2018 prescreve em seu Requisito 8.1.4.2 que a organização compradora deve estabelecer, implementar e manter processos para identificar perigos e avaliar riscos decorrentes das atividades e operações de contratadas que impactem a organização, seus empregados próprios e outras partes interessadas no local de trabalho (ABNT, 2018). A norma exige expressamente que os critérios de SST sejam integrados aos processos de contratação e que haja consulta e participação efetiva dos trabalhadores terceirizados (Requisito 5.4), consolidando a governança relacional como padrão técnico global de gestão.
+Outro pilar regulatório central para a proteção da força de trabalho reside no subitem 1.4.3 da NR-01, o qual preceitua que o trabalhador pode interromper suas atividades quando constatar situação de trabalho que, a seu ver, por motivos razoáveis, envolva risco grave e iminente para sua vida ou saúde, informando imediatamente ao seu superior hierárquico. Relevância singular guarda o subitem 1.4.3.2 (inserido pela Portaria MTE nº 342/2024), ao estipular de forma categórica que o trabalhador deve ser formalmente protegido de consequências injustificadas em decorrência do exercício dessa interrupção, mecanismo de suma importância para mitigar o temor de retaliações na força de trabalho terceirizada.
+
+No plano da representação paritária, a Norma Regulamentadora nº 05 (NR-05) rege a Comissão Interna de Prevenção de Acidentes e Assédio (CIPA), dispondo de regramento específico para empresas prestadoras de serviços (subitens 5.8.1 a 5.8.7). A norma prevê modelos operacionais como a CIPA centralizada ou o estabelecimento de CIPA própria por estabelecimento quando o contingente contratado alcançar os limites do Quadro I, ou a indicação de representante nomeado. Crucialmente, o item 5.8.6 da NR-05 preconiza que a organização contratante deve convidar a organização contratada para participar das reuniões de sua própria CIPA com o objetivo de integrar as ações de prevenção. Trata-se, portanto, de integração e diálogo entre colegiados constituídos, e não de uma ``CIPA unificada'' indistinta, preservando-se as competências e estruturas legais de cada organização.
+
+Por fim, no plano dos sistemas internacionais de gestão, a norma técnica voluntária ABNT NBR ISO 45001:2018 prescreve em seu requisito 8.1.4.2 que a organização compradora deve coordenar seus processos de aquisição com contratados a fim de identificar perigos e avaliar e controlar riscos decorrentes da interação das atividades (ABNT, 2018). Deve-se destacar que a certificação ISO constitui um padrão técnico de adoção voluntária pelas empresas, não configurando legislação imperativa geral, convergindo, contudo, com as melhores práticas de governança interorganizacional.
 
 % ==============================================================================
-% 3. TRABALHOS RELACIONADOS E LACUNA DA LITERATURA
+% 4. TRABALHOS RELACIONADOS E LIMITES DA LITERATURA
 % ==============================================================================
-\section{Trabalhos Relacionados e Lacuna da Literatura}
+\section{Trabalhos Relacionados e Limites da Literatura}
 
-Para delimitar a originalidade e o posicionamento acadêmico deste estudo, realizou-se uma cartografia crítica das investigações empíricas e conceituais que examinam a interseção entre terceirização, clima de segurança e relações interorganizacionais.
+A investigação sobre as interfaces de segurança entre contratantes e terceirizadas articula-se a estudos nacionais e internacionais contemporâneos. Mearns e Flin (1999) e Lingard et al. (2009) demonstraram que a multiplicidade de agentes operacionais tende a fragmentar o clima de segurança e desalinhar prioridades corporativas. Revisões recentes conduzidas por Bartnicka et al. (2023) e Al-Mekhlafi et al. (2025) apontam que, apesar dos avanços teóricos na conceituação de culturas integradas, a gestão cotidiana de contratadas em setores de risco severo permanece fortemente atrelada a procedimentos formais de fiscalização e exigências de auditoria externa.
 
-\subsection{O Estado da Arte da Literatura Nacional e Internacional}
+Na perspectiva de desburocratização de sistemas de SST, o estudo colaborativo conduzido por Lim, Lingard, Zhang e Pirzadeh (2025) pela RMIT University mapeou os atributos e consequências do \textit{Safety Clutter} na construção civil, identificando que a proliferação excessiva de documentação defensiva e a sobreposição de exigências de clientes e auditores externos geram perda de foco operacional, desengajamento da força de trabalho e burocracia desprovida de eficácia protetiva.
 
-A correlação entre descentralização produtiva e fragilização dos padrões de segurança tem sido objeto de consistente escrutínio científico. Em estudo seminal no setor offshore do Mar do Norte, Mearns e Flin (1999) identificaram discrepâncias agudas de percepção entre operários permanentes e contratados temporários: os terceirizados reportaram índices substancialmente menores de suporte da liderança e expressaram temor generalizado de relatar anomalias operacionais em virtude do risco iminente de perda do emprego. Analogamente, Lingard et al. (2009) investigaram grandes empreendimentos de construção civil na Austrália, demonstrando que o desalinhamento de prioridades de segurança entre clientes principais e subcontratados gera dissonâncias operacionais graves no chão de fábrica, forçando as terceirizadas a suprimir margens de segurança para cumprir cronogramas contratuais restritivos.
+No cenário empírico brasileiro, estudos sociológicos e epidemiológicos (DRUCK, 2016; CAMPOS, 2018) fornecem subsídios contundentes acerca da vulnerabilidade de trabalhadores terceirizados. Em contrapartida, as pesquisas de Vilela, Iguti e Almeida (2004) e Figueiredo, Alvarez e Adams (2018) salientam a prevalência de lógicas retrospectivas de investigação, nas quais o erro do trabalhador contratado é sumariamente rotulado como ato inseguro, omitindo-se os determinantes organizacionais e gerenciais da contratante. Por sua vez, Rocha, Pucci e Walter (2023) examinam a centralidade das relações de poder na cultura de segurança, argumentando que a verdadeira cooperação não decorre de consensos gerenciais artificiais, mas da garantia de espaços institucionais protegidos de fala e autonomia para os trabalhadores da ponta operacional.
 
-Revisões sistemáticas recentes evidenciam que tais entraves permanecem contemporâneos. Bartnicka et al. (2023), ao revisar os modelos de maturidade de cultura de segurança aplicados entre 2000 e 2022 em indústrias de alto risco, constataram que, embora a literatura teórica enfatize abordagens proativas, a gestão prática de contratadas continua engessada em paradigmas tradicionais de auditoria punitiva e verificação documental estática. Na mesma direção, Al-Mekhlafi et al. (2025) demonstraram que a indústria global de óleo e gás segue aprisionada a esquemas contratuais coercitivos de gestão de terceiros, limitando a emergência de defesas resilientes baseadas em confiança mútua. Em estudo empírico com trabalhadores industriais, Jaroenroy et al. (2024) confirmaram que a percepção de apoio da liderança e a justiça procedimental são determinantes diretos do engajamento em segurança. Do mesmo modo, Ying e Allaqtta (2025) comprovaram estatisticamente que a sinergia cultural e a governança proativa mitigam substancialmente os riscos operacionais e alavancam a sustentabilidade corporativa. No front da simplificação regulatória, Lingard et al. (2025) propuseram a metodologia do \textit{Safety Decluttering}, demonstrando que o expurgo participativo de burocracias inúteis entre clientes e contratados restaura a atenção cognitiva dos operários para os riscos reais de campo.
-
-No contexto brasileiro, Druck (2016) e Campos (2018) forneceram um robusto diagnóstico sociológico e epidemiológico da terceirização, comprovando a sobrecarga de morbimortalidade que recai historicamente sobre a força de trabalho terceirizada. Figueiredo et al. (2018) e Vilela et al. (2004) exploraram a anatomia de acidentes ampliados em refinarias e usinas do setor elétrico, demonstrando como o viés de culpabilização do operador terceirizado atua como um escudo ideológico que oculta as falhas latentes da alta administração contratante. Essa inibição do direito de recusa e a vulnerabilidade estrutural de terceirizados foram confirmadas empiricamente no setor elétrico por Lima e Oliveira (2021) e, no setor mineral, por Galvão (2023) ao dissecar desastres em barragens de rejeitos. Estudos de maturidade conduzidos por Tesche (2026) e Gonçalves Filho et al. (2011) confirmam que grande parcela das empresas prestadoras de serviços industriais no Brasil opera nos estágios patológico e reativo da escala de Hudson, sendo incapazes de evoluir para níveis proativos sem a cooperação ativa e os investimentos relacionais das empresas tomadoras.
-
-\subsection{Quadro Comparativo de Abordagens na Gestão de Terceirizadas}
-
-Com o propósito de sintetizar as divergências ontológicas e operacionais presentes na literatura, apresenta-se no Quadro 1 uma análise comparativa das três correntes de gestão de contratadas em SST.
+O Quadro 1 sintetiza as premissas analíticas dessas diferentes abordagens, comparando-as à proposição do modelo de cooperação interorganizacional aqui desenvolvido.
 
 \begin{table}[htbp]
 \centering
 \small\singlespacing
-\caption{Quadro Comparativo de Abordagens na Gestão de Terceirizadas em SST}
+\caption{Quadro Comparativo de Abordagens na Gestão de Contratadas em SST}
 \label{tab:comparativo}
 \begin{tabularx}{\textwidth}{p{3.2cm}Xp{4.2cm}p{3.2cm}}
 \toprule
-\textbf{Dimensão Analítica} & \textbf{Abordagem Punitiva / Compliance Tradicional} & \textbf{Abordagem Sociocrítica da Precarização} & \textbf{Abordagem da Sinergia Cultural (Este Artigo)} \\
+\textbf{Dimensão Analítica} & \textbf{Abordagem Punitiva / Compliance Formal} & \textbf{Abordagem Sociocrítica da Precarização} & \textbf{Abordagem de Cooperação Interorganizacional (Framework)} \\
 \midrule
-\textbf{Fundamentação Teórica Principal} & Teoria dos Custos de Transação e Taylorismo Clássico (HALE; BORYS, 2013). & Sociologia do Trabalho e Saúde Coletiva Crítica (DRUCK, 2016; CAMPOS, 2018). & Visão Relacional da Firma, Resiliência e Safety-II (DEKKER, 2014; DYER; SINGH, 1998). \\
+\textbf{Fundamentação Teórica} & Teoria dos Custos de Transação e Taylorismo Clássico (HALE; BORYS, 2013). & Sociologia do Trabalho e Saúde Coletiva Crítica (DRUCK, 2016; CAMPOS, 2018). & Governança Relacional, Fatores Humanos e Criação do Conhecimento (DYER; SINGH, 1998; DEKKER, 2014). \\
 \addlinespace
-\textbf{Concepção do Trabalhador Terceirizado} & Risco a ser controlado, vigiado e disciplinado contratualmente. & Vítima estrutural da espoliação e da precarização do capital. & Recurso técnico ativo, detentor de saber prático e parceiro de resiliência. \\
+\textbf{Concepção do Trabalhador Contratado} & Agente passivo de risco a ser monitorado e disciplinado formalmente. & Sujeito inserido em relações desiguais de trabalho, detentor de agência e resistência. & Agente sociotécnico ativo, detentor de saber prático e parceiro na gestão das defesas. \\
 \addlinespace
-\textbf{Mecanismo de Controle Predominante} & Auditoria documental punitiva, multas pecuniárias e advertências. & Denúncia de violações de direitos e judicialização de conflitos. & Governança relacional, cocriação de defesas e segurança psicológica. \\
+\textbf{Mecanismo Predominante} & Auditoria documental punitiva, cláusulas de retenção e sanções contratuais. & Denúncia institucional de violações, mobilização sindical e litígio judicial. & Governança relacional, canais protegidos de comunicação e resolução conjunta de perigos. \\
 \addlinespace
-\textbf{Tratamento do Conhecimento Operacional} & Unilateral (a primeirizada dita; o terceiro cumpre cegamente). & Destaca a perda de qualificação e descontinuidade do aprendizado. & Bidirecional (socialização e fertilização cruzada de boas práticas). \\
+\textbf{Tratamento do Conhecimento} & Vetor unilateral (a contratante prescreve; a contratada executa). & Enfatiza a fragmentação da qualificação e da continuidade técnica. & Intercâmbio bidirecional (socialização e coconstrução de procedimentos de campo). \\
 \addlinespace
-\textbf{Fluxo de Reporte e Análise de Falhas} & Subnotificação generalizada e busca pelo ``culpado individual''. & Identificação do nexo causal da precarização estrutural. & Cultura Justa, reporte voluntário sem retaliação e aprendizado coletivo. \\
+\textbf{Tratamento de Desvios} & Risco de subnotificação seletiva e culpabilização do operador da ponta. & Investigação das causas macroestruturais e precarização sistêmica. & Cultura Justa, análise de falhas latentes e proteção contra retaliações. \\
 \bottomrule
 \end{tabularx}
 \begin{flushleft}
@@ -246,141 +259,163 @@ Com o propósito de sintetizar as divergências ontológicas e operacionais pres
 \end{flushleft}
 \end{table}
 
-\subsection{A Lacuna Identificada: O Hiato da Bidirecionalidade e Cocriação}
-
-A revisão sistemática revela uma lacuna teórica marcante na literatura especializada: os estudos existentes polarizam-se hegemonicamente entre \textbf{a perspectiva gerencialista da fiscalização unilateral} (como otimizar auditorias e impor métricas à contratada) e \textbf{a perspectiva sociológica da vitimização estática} (a denúncia do nexo inevitável entre terceirização e precarização).
-
-Inexiste, na quase totalidade das publicações, a consideração da \textbf{bidirecionalidade e da fertilização cruzada de competências}. A literatura assume, tacitamente, a hipótese de que a cultura e o conhecimento de segurança fluem em vetor único: da contratante principal para a contratada. Desconsidera-se que a prestadora de serviços especializada, ao atuar em dezenas de instalações fabris concorrentes e expor-se a diferentes filosofias operacionais, acumula um acervo empírico de soluções práticas e defesas de campo muitas vezes superior ao do cliente tomador. Este artigo supre exatamente esse hiato, formalizando como a governança simbiótica extrai valor desse conhecimento acumulado, transformando a interface interorganizacional em uma fonte ativa de resiliência mútua.
+A literatura selecionada dedica menor atenção empírica à bidirecionalidade do aprendizado entre contratante e contratada. Predomina a presunção de que a competência em SST flui exclusivamente da grande contratante para os prestadores de serviços, ignorando o potencial de aprimoramento que a experiência de campo acumulada pelas empresas terceirizadas pode aportar às matrizes de risco e procedimentos operacionais da organização tomadora.
 
 % ==============================================================================
-% 4. DIAGNÓSTICO DO CENÁRIO TRADICIONAL: AS BARREIRAS E CHOQUES CULTURAIS
+% 5. DIAGNÓSTICO DO CENÁRIO CONVENCIONAL: ASSIMETRIAS E CONFLITOS DE INTERESSE
 % ==============================================================================
-\section{Diagnóstico do Cenário Tradicional: As Barreiras e Choques Culturais}
+\section{Diagnóstico do Cenário Convencional: Assimetrias e Conflitos de Interesse}
 
-Para fundamentar a imperiosidade da transição de modelo, faz-se necessário dissecar as distorções patológicas que caracterizam o arranjo fiscalizatório convencional.
+A construção de um modelo de cooperação interorganizacional não pode pressupor ingenuamente que a confiança e o alinhamento cultural dissolvam conflitos estruturais de interesse. Contratante e prestadora de serviços possuem objetivos estratégicos que frequentemente colidem em torno de custos, prazos de execução, margens de rentabilidade e alocação de responsabilidades civis e trabalhistas (ROCHA; PUCCI; WALTER, 2023).
 
-\subsection{Assimetria de Poder e a Cristalização da Culpa Individual}
+A assimetria de poder econômico entre corporações tomadoras e pequenas ou médias empresas contratadas reflete-se diretamente nas práticas de SST. Modelos de contratação orientados preponderantemente por custos de curto prazo criam incentivos perversos: a prestadora de serviços, comprimida por margens reduzidas, tende a restringir investimentos em treinamentos continuados e manutenção preventiva de ferramental. Concomitantemente, cláusulas contratuais que penalizam sumariamente empresas fornecedoras por qualquer registro de incidente acidentário ou que atrelam bonificações a taxas estáticas de acidentes zeradas podem gerar o risco real de subnotificação seletiva de eventos e quase-acidentes, ocultando perigos em vez de tratá-los preventivamente (MEARNS; FLIN, 1999).
 
-O arranjo de terceirização estabelece, por sua própria natureza jurídica e econômica, uma pronunciada assimetria de poder. A corporação contratante possui o capital financeiro, o domínio físico das instalações e o poder unilateral de retenção de pagamentos ou rescisão de contratos. Em contraste, a prestadora de serviços opera amiúde com margens de rentabilidade asfixiadas por certames de compras predatórios pautados exclusivamente no ``menor preço global'', dependendo visceralmente da fidelidade contratual para honrar sua folha de pagamentos.
-
-Essa assimetria contamina de forma decisiva os processos de análise de acidentes e incidentes. Conforme ressaltam Vilela et al. (2004) e Figueiredo et al. (2018), quando uma ocorrência anormal envolve equipes terceirizadas, a comissão de investigação da contratante é frequentemente dominada pelo viés retrospectivo e pelo erro de atribuição fundamental (\textit{fundamental attribution error}). O evento é rapidamente encerrado sob a pecha simplista de ``ato inseguro'', ``falha de atenção'' ou ``negligência procedimental do terceiro'', exigindo-se da empresa contratada a punição disciplinar do acidentado ou sua demissão sumária. Esse subterfúgio serve para imunizar a contratante contra a revelação de suas próprias falhas organizacionais latentes — tais como cronogramas de parada inexequíveis, ausência de peças de reposição adequadas nos almoxarifados ou interfaces de projeto confusas (REASON, 1997).
-
-\subsection{A Subnotificação Crônica e o Medo Estrutural de Retaliação}
-
-O subproduto mais destrutivo da governança coercitiva é a liquidação da confiança mútua e a institucionalização da subnotificação crônica de incidentes (MEARNS; FLIN, 1999). É prática corrente em contratos industriais de grande vulto a estipulação de cláusulas contratuais que atrelam bonificações financeiras ou penalidades severas à taxa estatística de acidentes com afastamento (TFCA zerada).
-
-Sob a ótica do \textit{Safety Differently}, tais métricas operam como poderosos catalisadores perversos da ocultação de perigos. Sabendo que o registro transparente de um quase-acidente, dano material leve ou atendimento ambulatorial de primeiros socorros resultará em glosa contratual ou na desqualificação da empresa no cadastro de fornecedores, a liderança de campo da contratada passa a coagir ativamente os operários a não reportar anomalias (CAMPOS, 2018). Lesões articulares e traumas chegam a ser tratados clandestinamente em consultórios particulares sem a emissão da Comunicação de Acidente de Trabalho (CAT). Gera-se, assim, uma falsa tranquilidade estatística corporativa, sob a qual fermentam desvios latentes graves que culminam inevitavelmente em acidentes ampliados catastróficos (REASON, 1997; BORYS et al., 2009).
-
-\subsection{``Safety Clutter'': A Burocratização Narcísica e o Abismo de Crachás}
-
-Outra patologia crônica do modelo fiscalizatório reside na hipertrofia da burocracia de segurança, fenômeno designado pela literatura contemporânea como \textit{Safety Clutter} (HALE; BORYS, 2013; BORYS et al., 2009). Com o intuito de construir uma blindagem jurídica antecipada contra futuras ações de responsabilidade civil e trabalhista, os departamentos de segurança corporativos passam a criar requisitos cartoriais intermináveis:
-\begin{quote}
-\fontsize{10}{12}\selectfont\singlespacing
-``As regras de segurança muitas vezes aumentam em número e complexidade não porque tornem o trabalho real mais seguro, mas porque conferem aos escalões superiores uma sensação ilusória de controle e uma barreira protetora contra responsabilização judicial em caso de acidentes.'' (HALE; BORYS, 2013, p. 215, tradução livre).
-\end{quote}
-
-A força de trabalho terceirizada é submetida a horas consecutivas de preenchimento mecânico de formulários de APR e checagens duplicadas, convertendo a segurança em um rito burocrático desconectado da prática. Paralelamente, manifesta-se o ``abismo de crachás'' por meio de discriminações cotidianas: refeitórios e sanitários segregados com padrões de higiene discrepantes, uniformes diferenciados que estigmatizam o trabalhador contratado e o silenciamento impositivo em reuniões de segurança. Em um ecossistema marcado pelo preconceito corporativo, torna-se inviável a edificação de qualquer laço de solidariedade e proteção coletiva.
+Paralelamente, a defesa jurídica contra riscos de responsabilização trabalhista e previdenciária induz departamentos jurídicos e de suprimentos a adotar estratégias de blindagem documental. Conforme documentado por Hale e Borys (2013) e Lim et al. (2025), a sobreposição de regras burocráticas e exigências redundantes de certificação converte-se em sobrecarga cognitiva para as equipes de campo, que passam a despender horas em preenchimento formal de papel em detrimento da inspeção atenta dos riscos materiais das instalações. O desafio analítico reside em conceber mecanismos institucionais capazes de administrar essas assimetrias sem comprometer as barreiras preventivas compartilhadas.
 
 % ==============================================================================
-% 5. OS BENEFÍCIOS DA SINERGIA CULTURAL (NÚCLEO DO ARTIGO)
+% 6. FRAMEWORK CONCEITUAL DE COOPERAÇÃO INTERORGANIZACIONAL EM SST
 % ==============================================================================
-\section{Os Cinco Benefícios Estratégicos da Sinergia Cultural}
+\section{Framework Conceitual de Cooperação Interorganizacional em SST}
 
-A superação das armadilhas do controle puramente fiscalizatório demanda a estruturação de uma \textit{sinergia cultural deliberada}. Por sinergia cultural compreende-se o arranjo interorganizacional simbiótico no qual primeirizada e terceirizada, respeitando suas autonomias jurídicas e especificidades estruturais, harmonizam valores inegociáveis de preservação da integridade humana, compartilham informações de risco sem reservas e articulam competências complementares. Essa simbiose corporativa proporciona cinco benefícios estratégicos que redefinem a resiliência operacional do sistema produtivo.
+Com o propósito de superar a fragmentação teórica e oferecer um modelo estruturado para investigação empírica, formula-se um \textit{framework} analítico multinível. O modelo desdobra a cooperação interorganizacional de segurança em três componentes integrados: **Antecedentes Organizacionais e Relacionais**, **Mecanismos Sociotécnicos de Interface** e **Proposições Teóricas de Resultados**, conforme esquematizado na Figura 1.
 
-\subsection{Aprendizado Bidirecional e Polinização Cruzada de Práticas}
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[node distance=1.8cm, auto,
+  box/.style={rectangle, draw, thick, rounded corners, align=center, fill=gray!8, text width=4.3cm, minimum height=1.3cm, font=\fontsize{9}{11}\selectfont},
+  arrow/.style={->, >=stealth, thick, color=black!80}]
 
-O primeiro benefício consiste no desbloqueio da inteligência coletiva mediante o aprendizado bidirecional e a polinização cruzada de conhecimentos de SST. Enquanto o quadro próprio de uma indústria permanece habitualmente confinado à mesma unidade fabril ao longo de anos, os profissionais da prestadora de serviços circulam constantemente entre plantas petroquímicas, siderúrgicas, refinarias e complexos de mineração de distintas corporações líderes de mercado. Esse corpo técnico vivenciou uma vasta gama de contingências, falhas mecânicas, tecnologias de proteção coletiva e metodologias preventivas testadas em outros ambientes.
+  \node[box] (ant) {\textbf{Antecedentes Relacionais}\\• Governança relacional e confiança mútua\\• Reconhecimento da assimetria de poder\\• Critérios de seleção com foco em SST};
+  \node[box, right=1.2cm of ant] (mec) {\textbf{Mecanismos de Interface}\\• Coordenação participativa de riscos (NR-01)\\• Diálogo e intercâmbio de conhecimento\\• Canais protegidos de relato e Cultura Justa};
+  \node[box, right=1.2cm of mec] (res) {\textbf{Proposições de Resultados}\\• Robustez das barreiras preventivas\\• Aprendizagem bidirecional de campo\\• Potencial retorno sobre prevenção (ROP)};
 
-Quando a empresa contratante inaugura fóruns horizontais de diálogo técnico com seus parceiros terceirizados, ativa-se plenamente a fase de \textit{socialização e externalização} do conhecimento preconizada por Nonaka e Takeuchi (1995). A contratada injeta no sítio da contratante lições aprendidas em outros contextos, desvelando pontos cegos operacionais e armadilhas de projeto que a equipe própria, condicionada pela familiaridade repetitiva do dia a dia, já não era capaz de perceber (cegueira do hábito). A segurança do trabalho deixa de ser uma cartilha dogmática imposta verticalmente e converte-se em um repositório dinâmico de inteligência operacional coconstruída.
+  \draw[arrow] (ant) -- node[above, font=\fontsize{8}{10}\selectfont] {Habilita} (mec);
+  \draw[arrow] (mec) -- node[above, font=\fontsize{8}{10}\selectfont] {Propicia} (res);
+\end{tikzpicture}
+\caption{Framework Conceitual de Cooperação Interorganizacional de Culturas de Segurança}
+\label{fig:framework}
+\begin{flushleft}
+\footnotesize Fonte: Elaborado pelo autor (2026).
+\end{flushleft}
+\end{figure}
 
-\subsection{Fortalecimento da Cultura Justa e Empoderamento Psicológico do Direito de Recusa}
+A partir dessa arquitetura conceitual, derivam-se cinco proposições teóricas fundamentadas na literatura revisada, as quais consubstanciam hipóteses a serem submetidas a teste empírico em pesquisas futuras.
 
-O segundo grande benefício traduz-se na materialização efetiva da Cultura Justa e na consagração prática do direito de recusa ao trabalho sob risco grave e iminente. Conquanto o direito de recusa esteja solenemente positivado na legislação brasileira (CLT e Subitem 1.4.3 da NR-01), sua operacionalização por trabalhadores terceirizados sempre representou um tabu: o operador antecipava que qualquer recusa provocaria atritos comerciais entre sua gerência e a fiscalização da contratante, culminando em sua demissão no término do turno.
+\subsection{Proposição 1: Aprendizagem Bidirecional e Compartilhamento de Conhecimento Tácito}
+\textit{Proposição P1: Ambientes interorganizacionais caracterizados por governança relacional e canais sistemáticos de diálogo operacional propiciam a socialização e externalização de conhecimentos práticos acumulados por trabalhadores terceirizados, aprimorando a identificação de perigos e a robustez dos procedimentos de trabalho da empresa contratante.}
 
-No âmbito da governança sinérgica, as lideranças executivas de ambas as organizações celebram e divulgam um protocolo conjunto de \textit{segurança psicológica e imunidade à recusa consciente}. Quando um operário terceirizado paralisa uma tarefa de içamento de carga ou intervenção em altura ao constatar uma linha desprovida de aterramento ou cabo avariado, sua atitude é acolhida institucionalmente como um ato de preservação do patrimônio e da vida. Ele é formalmente convidado a compor a reavaliação da APR junto à equipe de engenharia da contratante. Como postulam Reason (1997) e Dekker (2014), ao dissipar o medo da sanção arbitrária, as notificações voluntárias de anomalias (\textit{leading indicators}) multiplicam-se, permitindo que a organização neutralize falhas latentes muito antes de sua combinação catastrófica em acidentes com lesão.
+Essa proposição sustenta-se na transposição do modelo SECI (NONAKA; TAKEUCHI, 1995; SORDI; ZACARKIM, 2023). O saber empírico dos contratados atua como elemento corretivo contra a cegueira de rotina da equipe própria, desde que existam fóruns legítimos de escuta desprovidos de hierarquização opressiva (ROCHA; PUCCI; WALTER, 2023).
 
-\subsection{Blindagem Cooperativa das Interfaces Críticas Operacionais (LOTO e Permissões)}
+\subsection{Proposição 2: Fortalecimento da Cultura Justa e Prática do Direito de Interrupção}
+\textit{Proposição P2: A instituição de garantias institucionais de proteção contra consequências injustificadas (item 1.4.3.2 da NR-01) e o tratamento não punitivo de desvios não intencionais ampliam a segurança psicológica percebida pelos trabalhadores contratados, associando-se ao incremento das notificações voluntárias de anomalias e à efetividade da recusa ao trabalho sob risco grave e iminente.}
 
-A análise histórica de grandes desastres industriais demonstra que o ponto de maior fragilidade dos sistemas sociotécnicos complexos localiza-se nas \textit{interfaces operacionais de fronteira} — notadamente no momento de transferência de controle e custódia entre as equipes de operação da planta (próprios) e as equipes de manutenção ou montagem mecânica (terceiros) (FIGUEIREDO et al., 2018; REASON, 1997). Falhas trágicas em procedimentos de Bloqueio, Travamento e Etiquetagem (LOTO - \textit{Lockout/Tagout}), emissão de Permissões de Trabalho (PT) e liberação de Espaços Confinados decorrem historicamente da suposição cruzada e errônea de que o outro grupo já concluiu o isolamento de energias perigosas.
+Conforme demonstrado teoricamente por Reason (1997) e Dekker (2012), a ausência de temor perante sanções disciplinares arbitrárias constitui antecedente determinante para a visibilidade de sinais fracos de degradação operacional, superando a inibição documentada em pesquisas de campo (LIMA; OLIVEIRA, 2021).
 
-A sinergia cultural supera esse hiato por meio da instituição do emparelhamento operacional (\textit{operational pairing}) e da validação cruzada física compulsória. Não há espaço para transferências formais burocráticas: o operador próprio da unidade industrial e o encarregado da empresa contratada inspecionam fisicamente a linha produtiva em conjunto, executando o teste de energia residual zero, instalando caixas de bloqueio de duplo segredo e assinando a permissão no local exato da intervenção. A diluição das rivalidades corporativas fomenta o compromisso solidário de campo: o cuidado mútuo substitui o descompromisso recíproco, selando as lacunas através das quais o risco outrora se infiltrava.
+\subsection{Proposição 3: Eficácia das Barreiras Operacionais nas Interfaces de Trabalho}
+\textit{Proposição P3: A coordenação compartilhada na liberação de serviços críticos (a exemplo de Bloqueio, Travamento e Etiquetagem - LOTO e Permissões de Trabalho) entre operadores da contratante e mantenedores da contratada reduz o risco de suposições errôneas e falhas de transferência de custódia.}
 
-\subsection{Mitigação Sustentada da Gravidade, Retorno sobre a Prevenção e Custos Ocultos}
+Em processos e equipamentos industriais regulados por normas específicas (tais como NR-10 para instalações elétricas, NR-12 para máquinas, NR-20 para inflamáveis e NR-33 para espaços confinados), o alinhamento da interface operacional estabelece redundância deliberada nas checagens de energia residual zero, vedando lacunas de controle físico (REASON, 1997; FIGUEIREDO; ALVAREZ; ADAMS, 2018).
 
-O quarto benefício desconstrói a premissa financista míope de que a segurança colaborativa em contratos de terceirização gera sobrecustos desnecessários. O modelo convencional de coerção fiscalizatória é o verdadeiro produtor de custos ocultos astronômicos, teorizados pela Visão Relacional como custos de fricção transacional (DYER; SINGH, 1998): paralisações abruptas de fábricas por embargos da fiscalização do trabalho, retrabalhos massivos decorrentes de procedimentos inexequíveis, rotatividade frenética de empregados terceirizados, custos com perícias judiciais, condenações em responsabilidade subsidiária/solidária na Justiça do Trabalho e danos irreversíveis à imagem de mercado.
+\subsection{Proposição 4: Potencial Retorno sobre a Prevenção e Redução de Fricções Transacionais}
+\textit{Proposição P4: Práticas de governança relacional e prevenção compartilhada em SST estão teoricamente associadas à mitigação de custos de atrito transacional, retrabalhos e paralisações operacionais imprevistas, em convergência com estimativas econômicas de Retorno sobre a Prevenção.}
 
-A substituição desse arranjo por uma parceria sinérgica produz uma curva descendente pronunciada nas taxas de gravidade e frequência de acidentes de trabalho, gerando expressivo \textit{Retorno sobre a Prevenção} (\textit{Return on Prevention} - ROP). Estudos de abrangência global conduzidos pela Associação Internacional de Seguridade Social (ISSA) em corporações industriais demonstram que cada unidade monetária investida em ações cooperativas de prevenção em SST retorna multiplicada por um coeficiente médio de 2,2 em benefícios econômicos diretos e preservação da produtividade (ISSA, 2013). A cooperação técnica estreita estabiliza os ritmos de trabalho, mitiga custos com absenteísmo e amplia sensivelmente a disponibilidade física e a confiabilidade dos ativos operacionais. A governança relacional comprova, em termos contábeis e financeiros inequívocos, que a cooperação em SST é um gerador de valor econômico líquido.
+Ressalta-se prudencialmente que o coeficiente médio de Retorno sobre a Prevenção (ROP) de 2,2 identificado pela Associação Internacional de Seguridade Social (ISSA, 2013) constitui uma estimativa agregada internacional sobre investimentos genéricos em prevenção, não podendo ser tomado como garantia contábil automática do modelo aqui proposto. Todavia, a redução de perdas materiais e conflitos jurídicos de responsabilidade subsidiária (Lei nº 6.019/1974) oferece plausibilidade teórica à relação postulada (DYER; SINGH, 1998).
 
-\subsection{Elevação da Maturidade Sistêmica e Alinhamento aos Critérios ESG}
+\subsection{Proposição 5: Gestão Social da Cadeia de Suprimentos e Sustentabilidade Corporativa}
+\textit{Proposição P5: A atuação da empresa contratante como indutora de padrões elevados de SST junto às suas prestadoras de serviços fortalece o pilar social da sustentabilidade corporativa (ESG) e propicia efeitos de transbordamento positivo (\textit{spillover}) para o ecossistema regional de fornecedores.}
 
-Por fim, o quinto benefício manifesta-se na propulsão do ecossistema produtivo em direção aos patamares \textit{Proativo} e \textit{Generativo} da Escada de Hudson (2007), sintonizando a governança da cadeia de fornecedores às mais rigorosas diretrizes globais de sustentabilidade Ambiental, Social e de Governança (ESG). O mercado de capitais contemporâneo e os grandes fundos de investimento institucional recusam com veemência corporações que divulgam métricas idílicas de sustentabilidade corporativa em seus relatórios anuais enquanto terceirizam a morbimortalidade e a precarização humana em seus canteiros de obras e plantas terceirizadas.
-
-O pilar ``Social'' do ESG pressupõe a responsabilidade integral e estendida por toda a cadeia de suprimentos (\textit{supply chain safety stewardship}). A corporação primeirizada que acolhe a cultura de segurança de suas contratadas funciona como um centro indutor de desenvolvimento social: as empresas terceirizadas que internalizam maturidade proativa nesse ambiente simbiótico replicam tais métodos de excelência em seus contratos futuros e em seus vínculos com pequenos subcontratados regionais, deflagrando um poderoso efeito transbordamento positivo (\textit{positive spillover effect}) para o parque industrial e para a sociedade em geral (TESCHE, 2026; WBCSD, 2010).
+A responsabilidade socioambiental corporativa contemporânea estende-se à governança da cadeia de valor (\textit{supply chain safety stewardship}). O modelo simbiótico combate a precarização em cascata e alinha as operações a diretrizes internacionais de devida diligência em direitos humanos e segurança do trabalho (WBCSD, 2010; TESCHE, 2026).
 
 % ==============================================================================
-% 6. DIRETRIZES PRÁTICAS: COMO CONSTRUIR A SINERGIA EM CAMPO
+% 7. DIRETRIZES PROPOSITIVAS PARA IMPLEMENTAÇÃO E VALIDAÇÃO
 % ==============================================================================
-\section{Diretrizes Práticas para a Construção da Sinergia em Campo}
+\section{Diretrizes Propositivas para Implementação e Validação}
 
-A consolidação da governança relacional em substituição à mera fiscalização coercitiva requer a aplicação de ferramentas e rotinas operacionais estruturadas. Apresenta-se um roteiro metodológico desdobrado em quatro eixos prioritários de atuação técnica.
+Com base no arcabouço normativo e na matriz teórica articulada, estruturam-se proposições gerenciais voltadas a orientar intervenções de campo e futuras investigações empíricas.
 
-\subsection{Seleção Qualitativa e Governança Contratual Compartilhada}
-
-O rompimento do ciclo vicioso da precarização exige a erradicação do critério do ``menor preço global a qualquer custo'' como determinante exclusivo em licitações e contratações de serviços de risco crítico. A homologação e qualificação de fornecedores deve incorporar formalmente a aferição do estágio de maturidade cultural da contratada, avaliando a consistência dos seus programas de formação profissional, o índice histórico de rotatividade de sua força de trabalho e o comprometimento de sua alta administração com a transparência de indicadores (WBCSD, 2010).
-
-Ademais, os instrumentos contratuais devem migrar de contratos coercitivos de punição pura para contratos relacionais providos de estímulos positivos. Recomenda-se a pactuação de coparticipação em ganhos de resiliência: investimentos divididos em tecnologias ergonômicas e equipamentos de proteção de última geração, somados a bonificações contratuais indexadas a indicadores proativos de esforço (\textit{leading indicators}) — tais como percentual de conformidade de planos de ação preventivos e volume de melhorias de processo formuladas voluntariamente pelos operários contratados —, vedando-se terminantemente bônus vinculados à mera ausência estatística de acidentes.
-
-\subsection{Onboarding Dialógico e Desburocratização Conjunta}
-
-A clássica integração de segurança de terceirizados — caracterizada pelo confinamento passivo de novos empregados assistindo a apresentações audiovisuais genéricas e assinando termos padronizados de adesão — deve ser substituída por um modelo de \textit{Onboarding Dialógico}. Esse procedimento contempla a vivência prática no chão de fábrica por meio do apadrinhamento em duplas mistas (um operador próprio veterano emparelhado com um operador terceiro recém-integrado), priorizando o reconhecimento tátil das particularidades das instalações e dos perigos invisíveis da planta fabril.
-
-Concomitantemente, a Engenharia de Segurança de ambas as organizações deve criar forças-tarefa conjuntas para o expurgo do \textit{Safety Clutter} (HALE; BORYS, 2013). Procedimentos operacionais padrão (POP) e matrizes de risco devem ser submetidos a revisões paritárias com a participação ativa de encarregados e técnicos da terceirizada, assegurando que o Trabalho Imaginado retratado nas normas corporativas corresponda com precisão cirúrgica às restrições do Trabalho Real executado na linha de frente (DEKKER, 2014).
-
-\subsection{Comitês Mistos, DDS Integrado e CIPA Compartilhada}
-
-A demolição das barreiras simbólicas do ``abismo de crachás'' requer rituais diários e colegiados formais de integração operacional:
+\subsection{Proposições para a Qualificação de Fornecedores e Governança Contratual}
 \begin{itemize}[leftmargin=1.5cm]
-  \item \textbf{DDS Unificado e Dialógico:} Fim dos Diálogos Diários de Segurança realizados em guetos corporativos separados. Equipes próprias e contratadas reúnem-se conjuntamente antes do início de cada jornada sob mediação rotativa, assegurando voz legítima e acolhimento irrestrito às ponderações da força de trabalho terceirizada.
-  \item \textbf{CIPA e Comitês Paritários de SST:} Criação de comissões conjuntas de prevenção de acidentes (CIPAs unificadas ou integradas) e comitês de governança de riscos, dotados de autonomia deliberativa para aprovar alterações no layout fabril, investigar ocorrências com abordagem de fatores humanos e acompanhar a execução de planos de controle.
-  \item \textbf{Canal Único e Transparente de Reporte de Anomalias:} Disponibilização de sistemas unificados de notificação de perigos (acessíveis por dispositivos móveis ou totens operacionais), garantindo total anonimato quando solicitado e a certeza institucional de que nenhuma notificação acarretará retaliação disciplinar ou comercial.
+  \item \textbf{Critérios Qualitativos de Seleção:} Recomenda-se que os processos de contratação de serviços de risco crítico equilibrem custos com a avaliação da maturidade prévia em SST da prestadora de serviços, examinando a qualificação de seus quadros e políticas de retenção de pessoal (WBCSD, 2010; ABNT, 2018).
+  \item \textbf{Incentivos Relacionais Positivos:} Substituição paulatina de penalidades contratuais estritamente reativas por mecanismos de incentivo à proatividade preventiva, tais como bonificações associadas ao cumprimento de planos de ação do PGR e à identificação transparente de condições de perigo.
 \end{itemize}
 
-\subsection{Tecnologia Digital Colaborativa e Gestão Unificada do PGR}
+\subsection{Proposições para Rotinas de Integração e Simplificação Burocrática}
+\begin{itemize}[leftmargin=1.5cm]
+  \item \textbf{Integração Dialógica e Reconhecimento Mútuo:} Estruturação de programas de acolhimento e treinamento de integração que priorizem o diálogo sobre os riscos reais da instalação fabril, incentivando a aproximação e o apadrinhamento entre profissionais veteranos da contratante e novos trabalhadores contratados.
+  \item \textbf{Expurgo da Burocracia Desprovida de Função Protetiva (\textit{Decluttering}):} Instituição de comissões conjuntas de revisão procedimental para simplificar formulários de APR e ordens de serviço, assegurando que o Trabalho Prescrito guarde aderência às condições concretas da operação e desobstrua a atenção cognitiva das equipes (LIM et al., 2025).
+\end{itemize}
 
-Em consonância com as exigências mandatórias do Subitem 1.5.8 da NR-01, as empresas devem superar a circulação de documentos impressos desconexos através da adoção de plataformas digitais integradas de gestão em nuvem. Tais ecossistemas compartilhados viabilizam que o Inventário de Riscos e o Plano de Ação da primeirizada comuniquem-se instantaneamente com os sistemas das contratadas, harmonizando perigos em tempo real.
-
-Adicionalmente, o emprego responsável de tecnologias de Internet das Coisas (IoT) — a exemplo de sensores de detecção de gases inflamáveis, telemetria de fadiga em frotas e travas eletrônicas inteligentes em estações LOTO — deve ser configurado como ferramenta de proteção coletiva e salvaguarda operacional mútua, repudiando-se explicitamente seu desvio como instrumento de espionagem algorítmica ou coerção disciplinar individualizada contra a força de trabalho terceirizada.
-
-% ==============================================================================
-% 7. LIMITAÇÕES DA PESQUISA E AMEAÇAS À VALIDADE
-% ==============================================================================
-\section{Limitações da Pesquisa e Ameaças à Validade}
-
-Em observância às boas práticas de integridade científica e rigor metodológico, faz-se imperativo explicitar as limitações e delimitações contextuais deste estudo.
-
-Em primeiro plano, no que se refere ao \textbf{delineamento metodológico}, o artigo estrutura-se como um ensaio teórico-conceitual integrativo fundamentado em revisão bibliográfica crítica e análise documental de normas técnicas. Conquanto o referencial esteja solidamente respaldado em postulados consolidados internacionalmente e em dados epidemiológicos de fontes de excelência (IPEA, Fundacentro, ISSA), não foram coletados dados quantitativos primários por amostragem probabilística longitudinal ou experimentos controlados de campo. Por conseguinte, a quantificação estatística direta da correlação de causa e efeito entre a introdução da sinergia cultural e a redução absoluta das taxas de morbimortalidade ocupacional requer futuras investigações empíricas estruturadas.
-
-Em segundo plano, pontua-se como obstáculo metodológico clássico o \textbf{viés de desejabilidade social} na avaliação do clima de segurança em arranjos de subcontratação. Em virtude de sua crônica dependência econômica e vulnerabilidade de vínculo, operários e lideranças de empresas terceirizadas frequentemente sentem-se constrangidos a sobrevalorizar a abertura comunicacional e a Cultura Justa da empresa contratante ao responder questionários diagnósticos tradicionais, falseando dados empíricos por temor de que avaliações desfavoráveis comprometam a renovação de seus contratos comerciais.
-
-Por fim, não se pode desconsiderar o peso das \textbf{barreiras estruturais e macroeconômicas de mercado}. A implementação da sinergia relacional trava uma tensão cotidiana contra as pressões contábeis de curto prazo e os bônus corporativos atrelados à redução agressiva de custos operacionais nas áreas de compras e suprimentos corporativos (\textit{procurement}). Em conjunturas de instabilidade de mercado ou crise financeira aguda, as lideranças corporativas tendem a regredir reativamente ao modelo de pressão predatória de preços, desmantelando laços de confiança relacional pacientemente construídos e fragilizando as barreiras preventivas de SST.
+\subsection{Proposições para Representação Paritária e Canais de Comunicação}
+\begin{itemize}[leftmargin=1.5cm]
+  \item \textbf{Articulação das CIPAs e Representantes de SST:} Cumprimento ativo do item 5.8.6 da NR-05, assegurando que a contratada seja formalmente convidada e participe das reuniões da CIPA da contratante para harmonização de ações preventivas, respeitadas as competências legais de cada comissão.
+  \item \textbf{Mecanismos Seguros de Notificação de Perigos:} Implantação de canais de relato de anomalias que assegurem confidencialidade e salvaguarda expressa contra retaliações, conforme preconizado pelo item 1.4.3.2 da NR-01.
+  \item \textbf{Governança Ética na Digitalização e Novas Tecnologias:} Adoção de plataformas integradas para compartilhamento de inventários de riscos (item 1.5.8 da NR-01), com observância rigorosa aos limites de privacidade e proporcionalidade no tratamento de dados de telemetria e rastreamento operacional.
+\end{itemize}
 
 % ==============================================================================
-% 8. CONSIDERAÇÕES FINAIS E AGENDA DE PESQUISAS FUTURAS
+% 8. LIMITAÇÕES DO ENSAIO E AMEAÇAS À VALIDADE
+% ==============================================================================
+\section{Limitações do Ensaio e Ameaças à Validade}
+
+A delimitação do alcance científico deste trabalho exige explicitar suas restrições metodológicas e conceituais.
+
+Primeiramente, por tratar-se de um \textbf{ensaio teórico-conceitual}, o artigo não apresenta testes estatísticos de hipóteses, análises econométricas ou dados empíricos primários longitudinais. As relações entre cooperação interorganizacional, eficácia de barreiras preventivas e retorno econômico permanecem como proposições teóricas sustentadas na literatura, cuja confirmação empírica requer experimentação de campo controlada.
+
+Em segundo lugar, pontua-se o desafio do \textbf{viés de desejabilidade social} na avaliação de clima de segurança em arranjos terceirizados. Em razão da assimetria econômica e da dependência contratual, trabalhadores e prepostos da empresa contratada tendem a responder questionários organizacionais com reservas, superestimando a confiança mútua por receio velado de prejuízos contratuais.
+
+Por fim, as \textbf{pressões macroeconômicas de mercado} constituem restrição severa. Em momentos de recessão ou volatilidade orçamentária, departamentos corporativos de compras e suprimentos frequentemente priorizam reduções agressivas de curto prazo em contratos, gerando tensões que podem fragilizar iniciativas de cooperação relacional.
+
+% ==============================================================================
+% 9. CONSIDERAÇÕES FINAIS E AGENDA DE PESQUISAS FUTURAS
 % ==============================================================================
 \section{Considerações Finais e Agenda de Pesquisas Futuras}
 
-A análise aprofundada desenvolvida neste artigo comprova que a terceirização de atividades operacionais não pode mais ser concebida como uma estratégia corporativa de externalização jurídica e operacional de riscos ocupacionais. O modelo tradicional de gestão de terceirizadas — alicerçado na assimetria de poder econômico, na conformidade cartorial estéril (\textit{paper compliance}), no isolamento sociocultural do chão de fábrica e na culpabilização sistemática dos operadores da linha de frente — esgotou sua capacidade protetiva, convertendo-se em um catalisador de tragédias humanas, desperdício financeiro e perda de resiliência.
+Este ensaio teórico-conceitual sustentou a tese de que a segurança e a saúde no trabalho em operações industriais com prestação de serviços a terceiros não podem ser compreendidas adequadamente pela simples justaposição dos sistemas formais de gestão da contratante e da contratada. A segurança em arranjos compartilhados possui uma dimensão essencialmente interorganizacional, corporificada na qualidade da interface que articula as organizações parceiras.
 
-A construção intencional da sinergia de culturas de segurança entre empresas primeirizadas e terceirizadas posiciona-se como o único caminho sustentável capaz de conciliar eficiência produtiva com a salvaguarda irrevogável da vida humana. Ao fundamentar as relações interorganizacionais nos pilares da Visão Relacional da Firma, na Cultura Justa de Reason e na postura do \textit{Safety Differently} de Dekker, a segurança do trabalho deixa de ser tratada como mercadoria transferível e consolida-se como uma capacidade relacional dinâmica cocriada na interface produtiva. Essa mudança paradigmática atende com fidelidade técnica às prescrições mandatórias do Subitem 1.5.8 da NR-01 e do Requisito 8.1.4.2 da ABNT NBR ISO 45001:2018, reposicionando a Engenharia de Segurança como guardiã estratégica da integridade organizacional.
+Ao reposicionar o debate para além da governança puramente contratual e da conformidade formal de papel, o artigo demonstrou que mecanismos de coordenação conjunta, compartilhamento do conhecimento tácito, segurança psicológica e Cultura Justa constituem capacidades relacionais promissoras para a resiliência operacional. Tal concepção alinha-se estritamente ao atual desenho da NR-01 (com vigência a partir de maio de 2026), à disciplina de integração das CIPAs na NR-05 e ao requisito 8.1.4.2 da ABNT NBR ISO 45001:2018.
 
-Como diretrizes para o avanço contínuo e aprofundamento desta agenda científica e acadêmica, recomendam-se os seguintes eixos para investigações futuras:
-\begin{enumerate}[leftmargin=1.5cm]
-  \item \textbf{Estudos Quantitativos Longitudinais de Painel:} Conduzir pesquisas de acompanhamento plurianual em complexos industriais de grande escala, mensurando as oscilações dos coeficientes de frequência e gravidade de sinistros antes e após a implantação de contratos relacionais e comitês paritários de segurança.
-  \item \textbf{Desenvolvimento e Validação de Escala Psicométrica Específica:} Elaborar e validar empiricamente uma escala psicométrica dedicada a medir o ``Clima de Segurança na Interface Interorganizacional (CSII)'', com capacidade de capturar dimensões de confiança mútua, segurança psicológica percebida e legitimidade real do direito de recusa entre empregados próprios e terceiros.
-  \item \textbf{Pesquisas sobre o Efeito Spillover na Cadeia de Suprimentos:} Investigar a intensidade da transferência de maturidade técnica e cultural experimentada por empresas prestadoras de serviços ao longo de contratos com clientes de alta excelência, avaliando em que medida esses aprendizados são disseminados para seus demais contratos e para o mercado regional.
-  \item \textbf{Tecnologia Digital, IA e Redução do Safety Clutter:} Avaliar o impacto da digitalização integrada e do uso de algoritmos preditivos na harmonização de inventários de riscos (PGR) entre empresas, explorando como a tecnologia pode automatizar e desburocratizar rotinas de campo sem incorrer em vigilância invasiva sobre o trabalhador da linha de frente.
+Para transformar este modelo conceitual em um programa de verificação empírica, sugere-se a seguinte \textbf{agenda de pesquisas futuras}, orientada pela matriz de indicadores mensuráveis apresentada na Tabela 1:
+\begin{enumerate}[label=\arabic*)]
+  \item \textbf{Estudos Empíricos Longitudinais e Quase-Experimentais:} Avaliar o impacto da implantação de fóruns bilaterais de diálogo e revisão de regras sobre a taxa de frequência de acidentes e quase-perdas em indústrias pesadas;
+  \item \textbf{Construção e Validação de Escala Psicométrica:} Desenvolver e validar estatisticamente um instrumento psicométrico voltado a medir o ``Clima de Segurança na Interface Interorganizacional (CSII)'', mensurando dimensões de confiança, assimetria de poder e segurança de relato;
+  \item \textbf{Investigação Qualitativa de Práticas de Decluttering:} Realizar estudos etnográficos e de ergonomia da atividade para analisar os efeitos da simplificação procedimental sobre a carga de trabalho de operadores próprios e contratados;
+  \item \textbf{Mensuração de Efeitos de Transbordamento (Spillover):} Investigar em que medida prestadoras de serviços que participam de práticas de governança relacional transferem métodos seguros para contratos com outros clientes industriais.
 \end{enumerate}
+
+\begin{table}[htbp]
+\centering
+\small\singlespacing
+\caption{Matriz de Indicadores Mensuráveis para Validação Empírica do Framework}
+\label{tab:indicadores}
+\begin{tabularx}{\textwidth}{p{3.2cm}p{4.5cm}X}
+\toprule
+\textbf{Dimensão Analítica} & \textbf{Construto Operacional} & \textbf{Indicadores Mensuráveis para Pesquisa de Campo} \\
+\midrule
+\textbf{Governança Relacional} & Confiança Interorganizacional e Simetria Percebida. & • Índice de confiança mútua (escala tipo Likert);\\
+& & • Existência de bônus atrelados a \textit{leading indicators};\\
+& & • Frequência de reuniões paritárias de coordenação. \\
+\addlinespace
+\textbf{Cultura Justa e Relato} & Segurança Psicológica e Prática da Interrupção. & • Taxa de relatos voluntários de quase-acidentes;\\
+& & • Número de interrupções de atividade registradas (NR-01, 1.4.3);\\
+& & • Percepção de não retaliação perante o reporte. \\
+\addlinespace
+\textbf{Interfaces Operacionais} & Coordenação de Barreiras Críticas. & • Taxa de não conformidades em auditorias de campo de LOTO;\\
+& & • Tempo médio de validação cruzada física de permissões;\\
+& & • Índice de desvios em interfaces operacionais compartilhadas. \\
+\addlinespace
+\textbf{Conhecimento Operacional} & Socialização e Desburocratização. & • Volume de melhorias operacionais propostas por contratados;\\
+& & • Percentual de procedimentos simplificados pós-análise conjunta;\\
+& & • Avaliação de eficácia do programa de \textit{onboarding} dialógico. \\
+\addlinespace
+\textbf{Resultados e Resiliência} & Eficácia Preventiva e Continuidade. & • Taxa de Gravidade (TG) e Taxa de Frequência (TF);\\
+& & • Custo com paralisações operacionais e retrabalhos;\\
+& & • Passivos e litígios trabalhistas subsidiários ajuizados. \\
+\bottomrule
+\end{tabularx}
+\begin{flushleft}
+\footnotesize Fonte: Elaborado pelo autor (2026).
+\end{flushleft}
+\end{table}
 
 % ==============================================================================
 % REFERÊNCIAS BIBLIOGRÁFICAS (Normas ABNT NBR 6023:2018)
@@ -403,7 +438,10 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent BORYS, D.; ELKINGTON, B.; HALE, A. R. Safety culture or safety clutter? A review of regulatory creep and compliance bureaucracy in safety management. \textbf{Journal of Health, Safety and Environment}, v. 25, n. 3, p. 209-224, 2009.
 
 \vspace{0.25cm}
-\noindent BRASIL. Ministério do Trabalho e Previdência (MTP). \textbf{Portaria MTP nº 6.730, de 09 de março de 2020}. Aprova a nova redação da Norma Regulamentadora nº 01 — Disposições Gerais e Gerenciamento de Riscos Ocupacionais. Brasília, DF: Diário Oficial da União, 2020.
+\noindent BRASIL. Ministério do Trabalho e Emprego (MTE). \textbf{Portaria MTE nº 1.419, de 27 de agosto de 2024}. Altera a Norma Regulamentadora nº 01 — Disposições Gerais e Gerenciamento de Riscos Ocupacionais. Brasília, DF: Diário Oficial da União, 2024.
+
+\vspace{0.25cm}
+\noindent BRASIL. Secretaria Especial de Previdência e Trabalho (SEPRT). \textbf{Portaria SEPRT nº 6.730, de 09 de março de 2020}. Aprova a nova redação da Norma Regulamentadora nº 01 — Disposições Gerais e Gerenciamento de Riscos Ocupacionais. Brasília, DF: Diário Oficial da União, 2020.
 
 \vspace{0.25cm}
 \noindent CAMPOS, A. G. (Org.). \textbf{Terceirização do trabalho no Brasil: novas e distintas perspectivas para o debate}. Brasília: Ipea, 2018.
@@ -413,6 +451,12 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 
 \vspace{0.25cm}
 \noindent COOPER, M. D. Towards a model of safety culture. \textbf{Safety Science}, v. 36, n. 2, p. 111-136, 2000.
+
+\vspace{0.25cm}
+\noindent CORLEY, K. G.; GIOIA, D. A. Building theory about theory building: what constitutes a theoretical contribution? \textbf{Academy of Management Review}, v. 36, n. 1, p. 12-32, 2011.
+
+\vspace{0.25cm}
+\noindent DEKKER, S. \textbf{Just culture: Balancing safety and accountability}. 2. ed. Farnham: Ashgate, 2012.
 
 \vspace{0.25cm}
 \noindent DEKKER, S. \textbf{Safety differently: Human factors for a new era}. 2. ed. Boca Raton: CRC Press, 2014.
@@ -439,6 +483,9 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent HERRANEN, S. \textbf{Safety culture in interorganizational business networks: Managing multi-contractor industrial ecosystems}. 2024. 112 f. Dissertação (Mestrado em Engenharia e Gestão Industrial) — Tampere University, Tampere, 2024.
 
 \vspace{0.25cm}
+\noindent HOLLNAGEL, E. \textbf{Safety-I and Safety-II: The past and future of safety management}. Farnham: Ashgate, 2014.
+
+\vspace{0.25cm}
 \noindent HUDSON, P. Implementing a safety culture in a major multi-national. \textbf{Safety Science}, v. 45, n. 6, p. 697-722, 2007.
 
 \vspace{0.25cm}
@@ -448,13 +495,13 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent JAROENROY, P. et al. Employees' perceptions of workplace safety culture, procedural justice and leadership support in high-hazard industries. \textbf{European Scientific Journal}, v. 20, n. 12, p. 145-164, 2024.
 
 \vspace{0.25cm}
+\noindent LIM, H. W.; LINGARD, H.; ZHANG, R.; PIRZADEH, P. \textbf{Decluttering safety: A multistakeholder approach to enhancing safety management in construction: Position paper}. Melbourne: SHINe / RMIT University, 2025.
+
+\vspace{0.25cm}
 \noindent LIMA, F. P. A.; OLIVEIRA, S. S. A terceirização e os limites do direito de recusa ao trabalho perigoso no setor elétrico. \textbf{Revista Brasileira de Saúde Ocupacional}, v. 46, e19, p. 1-13, 2021.
 
 \vspace{0.25cm}
 \noindent LINGARD, H.; BLISMAS, N.; COOKE, T. The model client framework: A whole-of-life approach to the integration of health and safety in construction client processes. \textbf{Safety Science}, v. 47, n. 9, p. 1307-1317, 2009.
-
-\vspace{0.25cm}
-\noindent LINGARD, H. et al. \textbf{Decluttering safety: A multistakeholder approach to dismantling bureaucratic bloat in multi-tier subcontractor operations}. Melbourne: SHINe / RMIT University, 2025.
 
 \vspace{0.25cm}
 \noindent MANU, P. et al. Relational governance and safety performance in subcontractor networks: An empirical assessment in construction projects. \textbf{Journal of Construction Engineering and Management}, v. 145, n. 8, p. 04019045, 2019.
@@ -463,7 +510,7 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent MEARNS, K.; FLIN, R. Assessing the state of organizational safety-culture: Which aspects matter? \textbf{Work \& Stress}, v. 13, n. 1, p. 5-17, 1999.
 
 \vspace{0.25cm}
-\noindent METZNER-SZIGETH, A. Safety culture, professional practices, and socio-technical reliability in complex industrial operations. \textbf{Social Sciences}, v. 15, n. 2, p. 88-106, 2026.
+\noindent METZNER-SZIGETH, A. B. J. Safety culture, professional practice, and organizational reliability: Mobilizing social-scientific perspectives for applied research and advisory activities. \textbf{Social Sciences}, v. 15, n. 7, art. 456, p. 1-29, 2026.
 
 \vspace{0.25cm}
 \noindent NONAKA, I.; TAKEUCHI, H. \textbf{The knowledge-creating company: How Japanese companies create the dynamics of innovation}. New York: Oxford University Press, 1995.
@@ -475,10 +522,13 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent ONOFRE, R. \textbf{Governança contratual e relacional no desempenho de fornecedores terceirizados em operações críticas}. 2024. 184 f. Tese (Doutorado em Administração) — Universidade Municipal de São Caetano do Sul, São Caetano do Sul, 2024.
 
 \vspace{0.25cm}
+\noindent RAE, A. J. et al. Safety clutter: the accumulation and persistence of `safety' work that does not contribute to operational safety. \textbf{Policy and Practice in Health and Safety}, v. 16, n. 2, p. 194-211, 2018.
+
+\vspace{0.25cm}
 \noindent REASON, J. \textbf{Managing the risks of organizational accidents}. Aldershot: Ashgate, 1997.
 
 \vspace{0.25cm}
-\noindent ROCHA, R.; PUCCI, F. Cultura de segurança e relações de poder nas organizações: o espaço de fala e a autonomia dos trabalhadores da ponta. \textbf{Revista Brasileira de Saúde Ocupacional}, v. 48, ed14, p. 1-12, 2023.
+\noindent ROCHA, R.; PUCCI, F.; WALTER, J. Cultura de segurança e relações de poder nas organizações. \textbf{Revista Brasileira de Saúde Ocupacional}, v. 48, edcinq12, p. 1-10, 2023.
 
 \vspace{0.25cm}
 \noindent SORDI, J. O.; ZACARKIM, M. Criação e conversão do conhecimento tácito operacional: reexaminando a espiral SECI em ambientes industriais dinâmicos. In: SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAIS (SIMPOI), 25., 2023, São Paulo. \textbf{Anais} [...]. São Paulo: FGV-EAESP, 2023. p. 1-16.
@@ -493,6 +543,6 @@ Como diretrizes para o avanço contínuo e aprofundamento desta agenda científi
 \noindent WORLD BUSINESS COUNCIL FOR SUSTAINABLE DEVELOPMENT (WBCSD). \textbf{Guia de boas práticas de saúde e segurança para contratadas e subcontratadas}. Genebra: WBCSD / Cement Sustainability Initiative, 2010.
 
 \vspace{0.25cm}
-\noindent YING, X.; ALLAQTTA, A. Impact of safety culture, leadership commitment, and relational governance on sustainable operational risk mitigation. \textbf{Sustainability}, v. 17, n. 4, p. 1654-1675, 2025.
+\noindent YING, M.; ALLAQTTA, M. A. M. The impact of safety culture, risk mitigation, and sustainability on business performance: The mediating role of employee engagement in Palestinian small and medium-sized enterprises. \textbf{Sustainability}, v. 17, n. 10, art. 4361, p. 1-29, 2025.
 
 \end{document}
