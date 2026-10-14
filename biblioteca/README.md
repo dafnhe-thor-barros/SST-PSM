@@ -3,7 +3,7 @@
 Todo o acervo bibliográfico e documental foi catalogado e padronizado rigorosamente no formato:  
 `Sobrenome/Orgao_Ano_Titulo_Curto_Fonte.pdf`
 
-A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf) conta atualmente com **41 arquivos em PDF de referência primária e secundária**:
+A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf) conta atualmente com **53 arquivos em PDF de referência primária e secundária**:
 
 ---
 
@@ -38,6 +38,12 @@ A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20S
   *Onofre (Tese de Doutorado USCS, 2024)* — A relação entre governança contratual e relacional no desempenho de fornecedores terceirizados em operações críticas.
 * **[`Lingard_2025_Decluttering_Safety_Multistakeholder_RMIT.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Lingard_2025_Decluttering_Safety_Multistakeholder_RMIT.pdf)** (662 KB)  
   *Helen Lingard et al. (SHINe / RMIT University, 2025)* — *Decluttering Safety*: abordagem multissetorial contra a burocratização e acúmulo cego de regras em ambientes de múltiplos contratados.
+* **[`Bougadir_2025_Balancing_Relational_Contractual_Governance_JOItmc.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Bougadir_2025_Balancing_Relational_Contractual_Governance_JOItmc.pdf)** (2,4 MB)  
+  *Bougadir et al. (JOItmC, 2025)* — *Balancing relational and contractual governance in interorganizational collaboration*: mecanismos empíricos de confiança e flexibilidade mútua equilibrando cláusulas contratuais rígidas.
+* **[`Frid_2024_Collaboration_Beyond_Contracting_Hard_Soft_Control_JPBAFM.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Frid_2024_Collaboration_Beyond_Contracting_Hard_Soft_Control_JPBAFM.pdf)** (628 KB)  
+  *Frid et al. (JPBAFM, 2024)* — *Collaboration beyond contracting: Combining hard and soft controls in contractor partnerships*: articulação sinérgica entre controles formais de auditoria (*hard*) e mecanismos relacionais informais (*soft*).
+* **[`Pilbeam_2024_Safety_Management_Outsourced_Facilities_JSR.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Pilbeam_2024_Safety_Management_Outsourced_Facilities_JSR.pdf)** (839 KB)  
+  *Pilbeam et al. (Journal of Safety Research, 2024)* — *Safety management in outsourced facility services*: investigação empírica sobre a coordenação interorganizacional entre gestores da tomadora e encarregados da terceirizada.
 
 ---
 
@@ -84,10 +90,22 @@ A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20S
   *Jaroenroy et al. (ESJ, 2024)* — Percepções de trabalhadores operacionais sobre a cultura de segurança e justiça procedimental.
 * **[`Naji_2022_Assessing_Safety_Culture_FrontiersPublicHealth.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Naji_2022_Assessing_Safety_Culture_FrontiersPublicHealth.pdf)** (1,0 MB)  
   *Naji et al. (Frontiers in Public Health, 2022)* — Avaliação de clima e cultura de segurança na conformidade e desempenho ocupacional.
+* **[`Houssami_2025_Safety_Culture_Transformation_Mega_Projects_EJBMR.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Houssami_2025_Safety_Culture_Transformation_Mega_Projects_EJBMR.pdf)** (259 KB)  
+  *Houssami (EJBMR, 2025)* — *Safety culture transformation in mega construction projects*: alinhamento cultural entre contratante líder e múltiplos níveis de subcontratadas.
+* **[`Razak_Ismail_2026_Organisational_Safety_Culture_Oil_Gas_IJIM.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Razak_Ismail_2026_Organisational_Safety_Culture_Oil_Gas_IJIM.pdf)** (815 KB)  
+  *Razak & Ismail (IJIM, 2026)* — *Investigating the organisational safety culture factors in oil and gas contractor ecosystems*: fatores críticos de liderança e comunicação em ecossistemas de prestadoras.
+* **[`Gultom_Erislan_2026_Safety_Culture_Refinery_Contractors_RH.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Gultom_Erislan_2026_Safety_Culture_Refinery_Contractors_RH.pdf)** (563 KB)  
+  *Gultom & Erislan (Research Horizon, 2026)* — *Safety culture, worker engagement and incident prevention among refinery contractors*: engajamento de trabalhadores terceirizados na prevenção de incidentes em refinarias.
+* **[`Rahim_2024_Stakeholder_Priorities_Safety_Culture_Oil_Gas_SciRep.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Rahim_2024_Stakeholder_Priorities_Safety_Culture_Oil_Gas_SciRep.pdf)** (4,1 MB)  
+  *Rahim et al. (Scientific Reports / Nature, 2024)* — *Stakeholder priorities in developing a sustainable safety culture for oil and gas contracting operations*: priorização multicritério entre operadoras e terceirizadas.
+* **[`Tabibzadeh_Meshkati_2015_Safety_Culture_Interoperability_Organizations_SPE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Tabibzadeh_Meshkati_2015_Safety_Culture_Interoperability_Organizations_SPE.pdf)** (686 KB)  
+  *Tabibzadeh & Meshkati (SPE, 2015)* — *Safety culture interoperability and risk management in multi-organization offshore operations*: modelo pioneiro de interoperabilidade cultural entre operadoras e empresas contratadas em plataformas *offshore*.
 
 ---
 
-### 5. Terceirização e Acidentes de Trabalho (Pesquisas Empíricas Brasileiras)
+### 5. Terceirização e Acidentes de Trabalho (Pesquisas Empíricas Brasileiras e Internacionais)
+* **[`SmartLab_SST_MPT_OIT_2024.url`](https://smartlab.mpt.mp.br/sst)** (Base de Dados Online)  
+  *Observatório de Segurança e Saúde no Trabalho (SmartLab / MPT / OIT)* — Dados oficiais consolidados de acidentalidade, mortalidade e custos previdenciários no Brasil (série histórica 2012--2024, mais de 8,8 milhões de acidentes e 32 mil óbitos).
 * **[`Campos_2018_Efeitos_Terceirizacao_SST_Afastamentos_IPEA.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Campos_2018_Efeitos_Terceirizacao_SST_Afastamentos_IPEA.pdf)** (226 KB)  
   *André Gambier Campos (IPEA, 2018)* — Estimativas econométricas do impacto da terceirização sobre os afastamentos previdenciários e subnotificação acidentária no Brasil (razão de chances de 0,546).
 * **[`Belchior_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Belchior_2018_Terceirizacao_Impacto_Acidentes_Doencas_RBE.pdf)** (167 KB)  
@@ -98,11 +116,19 @@ A pasta [`biblioteca/artigos_pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20S
   *Graça Druck (Cadernos de Saúde Pública / SciELO, 2016)* — Precarização das condições de trabalho, alta rotatividade (40-50%) e corrosão da saúde ocupacional sob a terceirização.
 * **[`Lima_Oliveira_2021_Terceirizacao_Setor_Eletrico_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Lima_Oliveira_2021_Terceirizacao_Setor_Eletrico_RBSO.pdf)** (161 KB)  
   *Lima & Oliveira (RBSO / Fundacentro, 2021)* — Pesquisa qualitativa no setor elétrico: inibição estrutural do Direito de Recusa e concentração de óbitos em redes de energia.
+* **[`Lima_Oliveira_2021_Precarizacao_Acidentes_Setor_Eletrico_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Lima_Oliveira_2021_Precarizacao_Acidentes_Setor_Eletrico_RBSO.pdf)** (177 KB)  
+  *Lima & Oliveira (RBSO, 2021)* — *A precarização do trabalho e os acidentes fatais no setor elétrico brasileiro*: análise detalhada da assimetria entre contratados e quadro próprio.
+* **[`Koury_2020_Terceirizacao_Incremento_Acidentes_Setor_Eletrico.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Koury_2020_Terceirizacao_Incremento_Acidentes_Setor_Eletrico.pdf)** (440 KB)  
+  *Koury (2020)* — *Terceirização e o incremento dos acidentes de trabalho no setor elétrico brasileiro*: correlação entre desregulamentação, subcontratação e fatalidades.
 * **[`Tesche_2026_Gestao_SST_Processos_Terceirizados_Transmissao_RECAPE.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Tesche_2026_Gestao_SST_Processos_Terceirizados_Transmissao_RECAPE.pdf)** (276 KB)  
   *Ivan Tesche (RECAPE, 2026)* — Gestão de SST em processos terceirizados no setor de transmissão de energia elétrica.
 * **[`Guida_2020_Acidentes_Fatais_Terceirizados_Petroleo_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Guida_2020_Acidentes_Fatais_Terceirizados_Petroleo_RBSO.pdf)** (200 KB)  
   *Guida, Figueiredo & Hennington (RBSO, 2020)* — Perfil epidemiológico dos acidentes de trabalho fatais na indústria do petróleo (2001-2016), documentando a alta exposição em E&P e plataformas *offshore*.
 * **[`Silva_Lacaz_2020_Acidentes_Fatais_Politica_Seguranca_CSC.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Silva_Lacaz_2020_Acidentes_Fatais_Politica_Seguranca_CSC.pdf)** (124 KB)  
   *Silva & Lacaz (Ciência & Saúde Coletiva, 2020)* — Comprovação empírica de taxa de mortalidade 5 vezes superior em terceirizados no setor petrolífero (83,8% dos óbitos).
+* **[`Silva_2023_Vigilancia_Saude_Trabalhador_Gestores_RBSO.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Silva_2023_Vigilancia_Saude_Trabalhador_Gestores_RBSO.pdf)** (396 KB)  
+  *Silva et al. (RBSO, 2023)* — *Vigilância em saúde do trabalhador e as práticas de gestores e comissões*: barreiras institucionais e interfaces de prevenção em saúde do trabalhador.
 * **[`Galvao_2023_Terceirizacao_Desastres_Mineracao.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/Galvao_2023_Terceirizacao_Desastres_Mineracao.pdf)** (429 KB)  
   *Daniel Galvão (Direito e Práxis, 2023)* — Terceirização e acidentalidade em grandes desastres industriais da mineração (barragens de rejeitos de Mariana e Brumadinho).
+* **[`McDermott_Hayes_2018_Risk_Shifting_Disorganization_Contracting_SafSci.pdf`](file:///c:/ZZ%20-%20Antigravity/Eng.%20de%20Seguran%C3%A7a/biblioteca/artigos_pdf/McDermott_Hayes_2018_Risk_Shifting_Disorganization_Contracting_SafSci.pdf)** (385 KB)  
+  *McDermott & Hayes (Safety Science, 2018)* — *Risk shifting and disorganization in contracting*: transferência de riscos operacionais para terceirizadas e desorganização sociotécnica.

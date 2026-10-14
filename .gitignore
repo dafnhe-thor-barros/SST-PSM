@@ -13,7 +13,8 @@
 __pycache__/
 *.pyc
 
-# Arquivos do sistema operacional
+# Arquivos temporários do Office
+~$*
 Thumbs.db
 ehthumbs.db
 Desktop.ini
