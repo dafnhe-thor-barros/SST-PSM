@@ -1,0 +1,2956 @@
+
+<!DOCTYPE html>
+
+
+  <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML" > <![endif]-->
+  <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-BR"        xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-BR"               xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html class="no-js" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML"> <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    <title> Brasil - Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico </title>
+
+    
+  
+<!-- social share tags -->
+<meta property="og:url" content="https://www.scielo.br/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=html&amp;lang=pt&amp;ilang=pt_BR"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico"/>
+<meta property="og:description" content="Resumo Introdução: o trabalho terceirizado no setor elétrico tem peculiaridades que demandam..."/>
+<meta property="og:image" content="https://www.scielo.br/media/images/rbso_glogo2.png"/>
+<!-- social share tags -->
+
+<meta name="citation_author" content="Lima, Maria Elizabeth Antunes">
+        
+            <meta name="citation_author_affiliation" content="Centro Universitário Unihorizontes">
+        
+        
+            <meta name="citation_author_orcid" content="http://orcid.org/0000-0002-6612-1644">
+        <meta name="citation_author" content="Oliveira, Rodrigo Castro">
+        
+            <meta name="citation_author_affiliation" content="Centro Universitário Unihorizontes">
+        
+        
+            <meta name="citation_author_orcid" content="http://orcid.org/0000-0002-4911-8048">
+        <meta name="citation_journal_title" content="Revista Brasileira de Saúde Ocupacional"></meta>
+<meta name="citation_journal_abbrev" content="Rev. bras. saúde ocup."></meta>
+<meta name="citation_journal_abbrev" content="Rev. bras. saúde ocup"></meta>
+<meta name="citation_publisher" content="Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho - FUNDACENTRO"></meta>
+<meta name="citation_volume" content="46"></meta>
+<meta name="citation_pdf_url" content="https://www.scielo.br/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?lang=pt&amp;format=pdf"></meta>
+<meta name="citation_xml_url" content="https://www.scielo.br/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=xml&amp;lang=pt"></meta>
+<meta name="citation_firstpage" content="e6"></meta>
+<meta name="citation_doi" content="10.1590/2317-6369000024019"></meta>
+    <meta name="dc.identifier" content="doi:10.1590/2317-6369000024019"/>
+<meta name="citation_fulltext_world_readable" content=""></meta>
+
+
+<meta name="citation_issn" content="0303-7657"></meta>
+<meta name="citation_issn" content="2317-6369"></meta>
+
+    <meta name="citation_title" content="Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico"></meta>
+    <meta name="citation_language" content="pt"></meta>
+
+<meta name="citation_abstract" content="Resumo Introdução: o trabalho terceirizado no setor elétrico tem peculiaridades que demandam consideração no que concerne à segurança dos trabalhadores. Objetivo: analisar os impactos da terceirização na precarização do trabalho e na segurança dos trabalhadores do setor de distribuição de energia elétrica. Métodos: estudo qualitativo, descritivo, realizado em três etapas: pesquisa documental, entrevistas em profundidade e análise de um caso de acidente fatal. Utilizou-se análise de conteúdo para exploração do material levantado, tratamento e interpretação dos dados. Resultados: identificou-se que fatores como jornada de trabalho extensa, baixos salários, más condições de trabalho, equipes reduzidas e falta de supervisão são importantes para caracterizar a precariedade que coloca em risco a integridade física e mental dos trabalhadores terceirizados. Também foi observado que, apesar da periculosidade desse tipo de atividade, não se pratica o direito reservado a todo assalariado de se recusar a fazer um trabalho que coloque a sua vida em risco. Conclusão: os resultados sugerem que a terceirização no setor elétrico representa aumento do risco de ocorrência de acidentes graves e aprofunda desigualdades em razão das diferenças entre o tratamento oferecido aos terceirizados e o reservado aos empregados da empresa primária."></meta>
+<meta name="citation_article_type" content="research-article"></meta>
+<meta name="citation_publication_date" content="2021"></meta>
+<meta name="citation_keywords" content="trabalho"></meta><meta name="citation_keywords" content="serviços terceirizados"></meta><meta name="citation_keywords" content="setor elétrico"></meta><meta name="citation_keywords" content="precarização do trabalho"></meta><meta name="citation_keywords" content="saúde do trabalhador"></meta>
+
+
+    <link rel="icon" href="/static/img/favicon.ico" />
+    
+    <link href="/static/css/bootstrap.css?v=1.1.34" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/vendor/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <!-- CLOCKSS system has permission to ingest, preserve, and serve this Archival Unit -->
+<div class="widget widget-Lockss widget-instance-IssueBrowseByYear_Lockss">
+
+    <input class="at-locks-messaging" type="hidden"
+        value="LOCKSS system has permission to collect, preserve, and serve this Archival Unit" />
+
+    <input class="at-clockss-messaging" type="hidden"
+        value="CLOCKSS system has permission to ingest, preserve, and serve this Archival Unit" />
+
+</div>
+
+    
+    <!-- Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MKLVK7B5B6"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MKLVK7B5B6');
+      </script>
+      <!-- End Google Analytics -->
+    
+
+    
+    <script src="https://darkvisitors.com/tracker.js?project_key=c7366feb-7ba9-4f3d-a536-9bdca1bee170"></script>
+    
+
+     
+  <link rel="stylesheet" href="/static/css/article.css?v=1.1.32" type="text/css" async/>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" async />
+  <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" async />
+
+
+  <script src='/.bunny-shield/bd/bunnyprint.js' data-key='8foUAbReG1D6B9XtePcW9GVaHu4eFNYwmop5XETW7BsgPBums+OBC5pyI9TFT5N2sM0cq2Ld2qWcgVSYlSo1M+lcj3ntRIrjrD9N9qLMVtEWp4Lv+qbtaBmRWMYwOYjlFt5TzDiKDe+KL2e8xYvguvT0/OoIyFYbyKbtKDY4/ingqaepO1PqWx9F/UKHXgtUjYrlcb1jJQeWLnfyjdywmQ==' data-validation='5b0a3a6d2c077e23325f27422b5636582e6829157b057a301847472f1562603d381b205c7432162e5b2d3f4b20301a00035f63382e531c0c2615232f3a5121455f0e480f257b0d4842102510021f3d2d403d0e47244c0d1705414207313b170f1c68493c561c3c397a153d60124e355a42022c152f6e1f2b600c6b2d63140b182e5856381f251b1f2d084e24394649420e1435342c5a0655480a1739553f6d50487815580e0d2f767b06420a1a10371c0a1d1604391b4d2f403b' id='bunnyprint' async></script></head>
+  <body class="journal article" data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="0">
+    <script>
+      (function() {
+        function getCookie(name) {
+          const cookieName = encodeURIComponent(name) + "=";
+          const cookies = document.cookie ? document.cookie.split("; ") : [];
+          const cookie = cookies.find(function(item) {
+            return item.indexOf(cookieName) === 0;
+          });
+
+          return cookie ? decodeURIComponent(cookie.substring(cookieName.length)) : null;
+        }
+
+        function getStoredValue(storage, legacyStorage) {
+          const cookieValue = getCookie(storage);
+          if (cookieValue !== null) return cookieValue;
+
+          return legacyStorage && sessionStorage.getItem(legacyStorage)
+            ? sessionStorage.getItem(legacyStorage)
+            : null;
+        }
+
+        const fontSize = parseFloat(getStoredValue("scieloAccessibilityFontSize", "fontSizeState"));
+
+        if (!Number.isNaN(fontSize) && fontSize !== 100) {
+          const htmlFontSize = parseFloat(
+            getComputedStyle(document.documentElement).getPropertyValue("font-size")
+          );
+
+          document.documentElement.style.fontSize = (fontSize / 100) * htmlFontSize + "px";
+        }
+
+        document.body.classList.toggle(
+          "contrast",
+          getStoredValue("scieloAccessibilityContrast", "contrastState") === "true"
+        );
+        document.body.classList.toggle(
+          "scielo__theme--dark",
+          getStoredValue("scieloAccessibilityDarkMode", "darkState") === "true"
+        );
+        document.body.classList.toggle(
+          "accessibility_readingLine",
+          getStoredValue("scieloAccessibilityReadingLine") === "true"
+        );
+        document.body.classList.toggle(
+          "accessibility_markerLine",
+          getStoredValue("scieloAccessibilityMarkerLine") === "true"
+        );
+      })();
+    </script>
+    <a name="top"></a>
+
+    
+
+  
+
+
+<style>
+
+    .articleTxt{
+        top: -16px;
+    }
+
+    .scielo__border-top{
+      border-top: 1px solid #ccc !important;
+    }
+
+    @media (max-width: 575.98px) {
+      
+      .articleCtt > .container{
+        padding-left: 0;
+        padding-right: 0;
+      }
+      .articleCtt .articleTxt{
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+      }
+    
+    }
+
+    @media (min-width: 768px){
+      
+      .scielo__truncate{
+        display: block;
+        max-width: 285px;
+      }
+
+    }
+
+</style>
+
+<header class="scielo__shadow-2 position-relative top-0 start-0 end-0 z-3 scielo__shadow-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-2 col-md-1 d-print-none">
+                
+
+
+
+<div class="scielo__accessibleMenu2 position-relative d-inline-block mt-3" id="scieloMainMenu">
+  <button
+    type="button"
+    id="scieloMainMenuToggle"
+    class="scielo__accessibleMenu2__toggle btn btn-sm mt-1 mb-0 btn-secondary d-inline-flex align-items-center gap-2"
+    aria-controls="scieloMainMenuNav2"
+    aria-expanded="false">
+
+    <span class="material-icons-outlined" aria-hidden="true">
+      menu
+    </span>
+    <span>Menu</span>
+    
+  </button>
+
+  <nav
+    id="scieloMainMenuNav2"
+    class="scielo__accessibleMenu2__nav position-absolute top-100 start-0 mt-2 bg-white border rounded-3 shadow p-3"
+    style="min-width: 320px; z-index: 1040;"
+    aria-label="Menu principal"
+    hidden>
+
+    <ul>
+      <li class="logo"><a href="/?ilang=pt_BR" title="Ir para a página inicial da coleção: Brasil" aria-label="Página inicial da coleção Brasil"
+          ><div class="scielo__logo-scielo--small" aria-hidden="true"></div></a></li>
+      <li>
+        <a
+          href="/?ilang=pt_BR"
+          aria-label="Acessar site da coleção Brasil">
+          <strong>Brasil</strong>
+        </a>
+        <ul>
+          <li>
+            <a href="/journals/alpha?status=current&amp;ilang=pt_BR" class="tab_link">
+              Lista alfabética de periódicos
+            </a>
+          </li>
+          <li>
+            <a href="/journals/thematic?status=current&amp;ilang=pt_BR" class="tab_link">
+              Lista temática de periódicos
+            </a>
+          </li>
+          <li>
+            <a href="//search.scielo.org/?q=*&lang=pt&filter[in][]=scl">
+              Busca
+            </a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="http://analytics.scielo.org/?collection=scl">
+              Métricas
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a href="/about/?ilang=pt_BR">
+              Sobre o SciELO Brasil
+            </a>
+          </li>
+          <li>
+            <a href="/about/?ilang=pt_BR#contact">
+              Contatos
+            </a>
+          </li>
+          <li>
+            <a href="#" id="floatingBtnErrorHamburguerMenu" class="floatingBtnErrorHamburguerMenu">
+              Reportar erro
+            </a>
+          </li>
+
+          
+        </ul>
+      </li>
+
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org">
+          <strong>SciELO.org - Rede SciELO</strong>
+          <span class="visually-hidden"> (abre em nova aba)</span>
+        </a>
+        <ul>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org">
+              Coleções nacionais e temáticas
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org/pt/periodicos/listar-por-ordem-alfabetica/">
+              Lista alfabética de periódicos
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org/pt/periodicos/listar-por-assunto/">
+              Lista de periódicos por assunto
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//search.scielo.org/">
+              Busca
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="http://analytics.scielo.org">
+              Métricas
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org/pt/sobre-o-scielo/acesso-via-oai-e-rss/">
+              Acesso OAI e RSS
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org/pt/sobre-o-scielo/">
+              Sobre a Rede SciELO
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="//www.scielo.org/pt/sobre-o-scielo/contato/">
+              Contatos
+              <span class="visually-hidden"> (abre em nova aba)</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+
+      <li>
+        
+          <a target="_blank" rel="noopener noreferrer" href="//blog.scielo.org">
+        
+            <strong>Blog SciELO em Perspectiva</strong>
+            <span class="visually-hidden"> (abre em nova aba)</span>
+          </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const wrapper = document.getElementById('scieloMainMenu');
+    const toggle = document.getElementById('scieloMainMenuToggle');
+    const panel = document.getElementById('scieloMainMenuNav2');
+
+    if (!wrapper || !toggle || !panel) return;
+
+    const icon = toggle.querySelector('.material-icons-outlined');
+    const focusableSelector = [
+      'a[href]',
+      'button:not([disabled])',
+      'input:not([disabled])',
+      'select:not([disabled])',
+      'textarea:not([disabled])',
+      '[tabindex]:not([tabindex="-1"])'
+    ].join(',');
+
+    function setIcon(iconName) {
+      if (icon) {
+        icon.textContent = iconName;
+      }
+    }
+
+    function getFocusableItems() {
+      return Array.prototype.slice.call(panel.querySelectorAll(focusableSelector))
+        .filter(function (item) {
+          return item.offsetParent !== null;
+        });
+    }
+
+    function openMenu() {
+      panel.hidden = false;
+      toggle.setAttribute('aria-expanded', 'true');
+      wrapper.classList.add('is-open');
+      setIcon('close');
+
+      const focusableItems = getFocusableItems();
+      if (focusableItems.length) {
+        focusableItems[0].focus();
+      }
+    }
+
+    function closeMenu(options) {
+      const settings = options || {};
+
+      panel.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+      wrapper.classList.remove('is-open');
+      setIcon('menu');
+
+      if (settings.restoreFocus) {
+        toggle.focus();
+      }
+    }
+
+    function isMenuOpen() {
+      return toggle.getAttribute('aria-expanded') === 'true';
+    }
+
+    toggle.addEventListener('click', function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+
+      if (isMenuOpen()) {
+        closeMenu({ restoreFocus: true });
+      } else {
+        openMenu();
+      }
+    });
+
+    panel.addEventListener('click', function (event) {
+      event.stopPropagation();
+    });
+
+    document.addEventListener('click', function (event) {
+      if (isMenuOpen() && !wrapper.contains(event.target)) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (!isMenuOpen()) return;
+
+      if (event.key === 'Escape') {
+        event.preventDefault();
+        closeMenu({ restoreFocus: true });
+        return;
+      }
+
+      if (event.key !== 'Tab') return;
+
+      const focusableItems = getFocusableItems();
+      if (!focusableItems.length) return;
+
+      const firstItem = focusableItems[0];
+      const lastItem = focusableItems[focusableItems.length - 1];
+
+      if (event.shiftKey && document.activeElement === firstItem) {
+        event.preventDefault();
+        toggle.focus();
+        return;
+      }
+
+      if (!event.shiftKey && document.activeElement === toggle) {
+        event.preventDefault();
+        firstItem.focus();
+        return;
+      }
+
+      if (!event.shiftKey && document.activeElement === lastItem) {
+        closeMenu();
+      }
+    });
+  });
+</script>
+            </div>
+
+            <div class="col-6"><a
+                        href="/?ilang=pt_BR"
+                        title="Ir para a homepage da coleção: Brasil"
+                        aria-label="Ir para a homepage da coleção: Brasil"
+                    >
+                        <div class="scielo__logo-scielo-collection my-1 ms-4 ms-lg-5">
+                            <small id="collectionNameInternal">Brasil</small>
+                        </div>
+                    </a></div>
+
+            <div class="col">
+                <div class="language mt-3">
+                  <div class="scielo__language">
+  <div class="dropdown">
+    <button type="button" class="btn btn-sm btn-secondary scielo__btn-with-icon--left dropdown-toggle mb-0 float-end mt-1" data-bs-toggle="dropdown" aria-expanded="false">
+      <span class="material-icons-outlined">language</span>
+      
+
+        
+          <span class="d-lg-none">pt_BR</span>
+          <span class="d-none d-lg-block">Português</span>
+        
+
+      
+
+        
+
+      
+
+        
+
+      
+  
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end">
+
+      
+    
+        
+
+      
+    
+        
+        <li><a class="dropdown-item" href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=html&amp;lang=pt&amp;ilang=en" lang="en">English</a></li>
+        
+
+      
+    
+        
+        <li><a class="dropdown-item" href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=html&amp;lang=pt&amp;ilang=es" lang="es">Español</a></li>
+        
+
+      
+    
+    </ul>
+  </div>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col text-center scielo__border-top">
+
+              <div class="btn-group align-items-stretch my-3 w-auto">
+                <span
+                  id="journalTitleHeader"
+                  class="d-flex align-items-center justify-content-start rounded-start px-3 bg-white text-start user-select-auto"
+                >
+                  Revista Brasileira de Saúde Ocupacional
+                </span>
+
+                <button
+                  type="button"
+                  class="btn btn-secondary dropdown-toggle dropdown-toggle-split rounded mb-0"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                  aria-label="Mostrar opções do periódico: Revista Brasileira de Saúde Ocupacional"
+                  aria-describedby="journalTitleHeader">
+                  <span class="visually-hidden">Mostrar opções</span>
+                </button>
+
+                <ul class="dropdown-menu dropdown-menu-end">
+                  <li>
+                    <a
+                      href="/j/rbso/?ilang=pt_BR"
+                      class="dropdown-item"
+                      aria-label="Acessar página do periódico: Revista Brasileira de Saúde Ocupacional"
+                    >
+                      
+                        <img
+                          src="/media/images/rbso_glogo2.png"
+                          class="image"
+                          alt=""
+                          style="max-width:100%;" />
+                      
+                    </a>
+                  </li>
+                  <li><hr class="dropdown-divider"></li>
+
+                  
+                    <li>
+                      <a
+                        href="http://mc04.manuscriptcentral.com/rbso-scielo"
+                        class="dropdown-item"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <span class="material-icons-outlined" aria-hidden="true">launch</span>
+                        Submissão de manuscritos
+                      </a>
+                    </li>
+                  
+
+                  <li>
+                    <a href="/journal/rbso/about/?ilang=pt_BR#about" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">info</span>
+                      Sobre o periódico
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="/journal/rbso/about/?ilang=pt_BR#policy" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">help_outline</span>
+                      Política editorial
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="/journal/rbso/about/?ilang=pt_BR#editors" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">people</span>
+                      Corpo Editorial
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="/journal/rbso/about/?ilang=pt_BR#instructions" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">help_outline</span>
+                      Instruções aos autores
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="/journal/rbso/about/?ilang=pt_BR#contact" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">email</span>
+                      Contato
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="http://analytics.scielo.org/?journal=0303-7657&collection=scl" class="dropdown-item">
+                      <span class="material-icons-outlined" aria-hidden="true">show_chart</span>
+                      Métricas
+                    </a>
+                  </li>
+                </ul>
+
+              </div>
+              
+            </div>
+        </div>
+    </div>
+</header>
+
+  <!--- removido da interface --->
+  
+
+  <main id="content">
+
+    
+
+    <!-- Exibe para todos dispositivos menos mobile -->
+<section class="levelMenu d-none d-md-block">
+  <div class="container">
+
+    <div class="row">
+      <div class="col">
+
+        <div class="btn-group mt-1" role="group" aria-label="Navegação do artigo">
+          <!-- Home (ícone only) -->
+          <a
+            href="/j/rbso/?ilang=pt_BR"
+            class="btn scielo__btn-with-icon--only mb-0"
+            aria-label="Página inicial do periódico"
+          >
+            <span class="material-icons-outlined" aria-hidden="true">home</span>
+          </a>
+
+          
+          <a
+            href="/j/rbso/i/2021.v46/?ilang=pt_BR"
+            class="btn mb-0"
+          >
+            Sumário
+          </a>
+
+          
+          
+            <a
+                href="/j/rbso/a/rsnt3PdjwZ4ymr5PRTTCDsm/?lang=pt&amp;ilang=pt_BR"
+                class="btn scielo__btn-with-icon--left mb-0 pe-md-2"
+                aria-label="Artigo anterior"
+              >
+            
+                <span class="material-icons-outlined" aria-hidden="true">navigate_before</span>
+                <span class="d-none d-xl-block">Anterior</span>
+              </a>
+
+          
+          <a
+            href="#"
+            class="btn group disabled mb-0"
+            aria-current="page"
+            aria-disabled="true"
+            tabindex="-1"
+          >
+            Atual
+          </a>
+
+          
+          <a
+                href="/j/rbso/a/WXQBFxQmWGPQwwbZ3yPwfWh/?lang=pt&amp;ilang=pt_BR"
+                class="btn scielo__btn-with-icon--right mb-0 ps-md-2"
+                aria-label="Próximo artigo"
+              >
+                <span class="d-none d-xl-block">Seguinte</span>
+                <span class="material-icons-outlined" aria-hidden="true">navigate_next</span>
+              </a>
+
+        </div>
+      </div>
+
+      <div class="col d-md-none d-lg-block">
+        <div class="btn-group mt-1" role="group" aria-label="Ações do artigo">
+          
+
+<div class="btn-group">
+  <button id="btnGroupDropLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+    Resumo
+    
+      
+    
+      
+    
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropLanguage">
+    
+      <li>
+          
+              <a href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=pt&amp;ilang=pt_BR" class="dropdown-item">
+                Resumo 
+                
+                  (Português)
+                
+              </a>
+          
+      <li>
+    
+      <li>
+          
+              <a href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=en&amp;ilang=pt_BR" class="dropdown-item">
+                Resumo 
+                
+                  (Inglês)
+                
+              </a>
+          
+      <li>
+    
+  </ul>
+</div>
+
+
+          
+
+
+    <div class="btn-group">
+      <button id="btnGroupDropTextLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+        Texto
+        
+                  
+            
+              (PT)
+            
+          
+        
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="btnGroupDropTextLanguage">
+        
+        <li>
+          
+            <!-- página de texto -->
+            <a href="#" class="current dropdown-item"> 
+                Texto
+                
+                  (Português)
+                
+            </a>
+        
+        </li>
+        
+      </ul>
+    </div>
+
+  
+
+
+
+                    
+           
+          <div class="btn-group">
+            <button id="btnGroupDropPDF" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
+              PDF
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropPDF">
+              
+                <li>
+                  <a target='_blank' href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=pdf&amp;lang=pt&amp;ilang=pt_BR" class="dropdown-item">
+                    
+                      Download PDF (Português)
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+          
+          
+          
+          
+          
+        </div>
+      </div>
+
+      <div class="col d-none d-md-block d-lg-none">
+        <div class="dropdown mt-1 float-end">
+          <button
+            id="btnGroupDropContentDesktop"
+            class="btn btn-secondary dropdown-toggle mb-0 scielo__btn-with-icon--left"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+            aria-haspopup="menu"
+            type="button"
+          >
+            <span class="material-icons-outlined" aria-hidden="true">article</span>
+            <strong>Conteúdo:</strong>
+
+            <!--resumo-->
+            
+              
+                
+              
+                
+              
+            
+
+            <!--texto-->
+            
+              
+                
+                  
+                    Texto (PT)
+                  
+                
+              
+            
+          </button>
+
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropContentDesktop">
+            <!--resumo-->
+            
+              
+                <li>
+                  
+                    <a
+                      href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=pt&amp;ilang=pt_BR"
+                      class="dropdown-item"
+                    >
+                      Resumo 
+                      
+                        (Português)
+                      
+                    </a>
+                  
+                </li>
+              
+                <li>
+                  
+                    <a
+                      href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=en&amp;ilang=pt_BR"
+                      class="dropdown-item"
+                    >
+                      Resumo 
+                      
+                        (Inglês)
+                      
+                    </a>
+                  
+                </li>
+              
+            
+
+            <!--texto-->
+            
+              
+                <li>
+                  
+                    <!-- página de texto -->
+                    <a href="#" class="current dropdown-item" aria-current="page">
+                      Texto
+                      
+                        (Português)
+                      
+                    </a>
+                  
+                </li>
+              
+            
+
+            <!--PDF-->
+            
+              
+                <li>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=pdf&amp;lang=pt&amp;ilang=pt_BR"
+                    class="dropdown-item"
+                  >
+                    
+                      Download PDF (Português)
+                    
+                    <span class="visually-hidden"> (abre em nova aba)</span>
+                  </a>
+                </li>
+              
+            
+
+            <!--PDF REDCUBE-->
+            
+
+            <!--ePDF-->
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-1">
+        <!-- share -->
+         <!-- share -->
+ <div class="dropdown">
+  <button type="button" class="btn btn-sm btn-secondary scielo__btn-with-icon--only dropdown-toggle mb-0 float-end" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="material-icons-outlined">share</span>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end">
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_whatsapp">Whatsapp</a></div>
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_bluesky">BlueSky</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_mastodon">Mastodon</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_facebook">Facebook</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_dd" href="https://www.addtoany.com/share">Mais</a></div>
+    </li>
+  </ul>
+</div>
+
+<!-- AddToAny -->
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- Exibe somente no mobile -->
+<section class="levelMenu levelMenu-xs d-block d-md-none d-lg-none" style="padding-bottom:110px;">
+  <div class="container">
+
+    <div class="row">
+      <div class="col">
+        <div class="btn-group w-100 --btn-group-nav-mobile" role="group" aria-label="Navegação do artigo">
+
+          <a
+            href="/j/rbso/?ilang=pt_BR"
+            class="btn scielo__btn-with-icon--only mb-0"
+            aria-label="Página inicial do periódico"
+          >
+            <span class="material-icons-outlined" aria-hidden="true">home</span>
+          </a>
+
+          <a
+            href="/j/rbso/i/2021.v46/?ilang=pt_BR"
+            class="btn mb-0"
+          >
+            Sumário
+          </a>
+
+          <div class="btn-group" role="group">
+              <!-- share -->
+               <!-- share -->
+ <div class="dropdown">
+  <button type="button" class="btn btn-sm btn-secondary scielo__btn-with-icon--only dropdown-toggle mb-0 float-end" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="material-icons-outlined">share</span>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end">
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_whatsapp">Whatsapp</a></div>
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_bluesky">BlueSky</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_mastodon">Mastodon</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_facebook">Facebook</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_dd" href="https://www.addtoany.com/share">Mais</a></div>
+    </li>
+  </ul>
+</div>
+
+<!-- AddToAny -->
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-4">
+        
+
+          <div class="dropdown mt-1">
+            <button
+              id="btnGroupDropAbstractLanguage"
+              type="button"
+              class="btn btn-secondary dropdown-toggle mb-0"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              aria-haspopup="menu"
+            >
+              Resumo
+              
+                
+              
+                
+              
+            </button>
+
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropAbstractLanguage">
+              
+                <li>
+                  
+                    <a
+                      href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=pt&amp;ilang=pt_BR"
+                      class="dropdown-item"
+                    >
+                      Resumo 
+                      
+                        (Português)
+                      
+                    </a>
+                  
+                </li>
+              
+                <li>
+                  
+                    <a
+                      href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/abstract/?lang=en&amp;ilang=pt_BR"
+                      class="dropdown-item"
+                    >
+                      Resumo 
+                      
+                        (Inglês)
+                      
+                    </a>
+                  
+                </li>
+              
+            </ul>
+          </div>
+
+        
+      </div>
+
+      <div class="col-4">
+        
+          <div class="dropdown mt-1">
+            <button
+              id="btnGroupDropArticleTextLanguage"
+              type="button"
+              class="btn btn-secondary dropdown-toggle mb-0"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              aria-haspopup="menu"
+            >
+              Texto
+              
+                
+                  
+                    (PT)
+                  
+                
+              
+            </button>
+
+            <ul class="dropdown-menu" aria-labelledby="btnGroupDropArticleTextLanguage">
+              
+                <li>
+                  
+                    <a href="#" class="current dropdown-item" aria-current="page">
+                      Texto
+                      
+                        (Português)
+                      
+                    </a>
+                  
+                </li>
+              
+            </ul>
+          </div>
+        
+      </div>
+
+      <div class="col-4">
+
+        
+
+          <div class="dropdown float-end mt-1">
+            <button
+              id="btnGroupDropArticlePDF"
+              type="button"
+              class="btn btn-secondary dropdown-toggle mb-0"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              aria-haspopup="menu"
+              data-bs-display="static"
+            >
+              PDF
+            </button>
+
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropArticlePDF">
+              
+                <li>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?format=pdf&amp;lang=pt&amp;ilang=pt_BR"
+                    class="dropdown-item"
+                  >
+                    
+                      Download PDF (Português)
+                    
+                    <span class="visually-hidden"> (abre em nova aba)</span>
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+
+        
+
+        
+
+        
+      </div>
+    </div>
+
+  </div>
+</section>
+
+    <!-- PID: S0303-76572021000100207 -->
+      <!-- Verificando se é versão HTML ou XML -->
+      
+        
+          <div id="standalonearticle">
+<section class="articleCtt"><div class="container"><div class="articleTxt">
+<div class="articleBadge-editionMeta-doi-copyLink">
+<span class="_articleBadge">Artigo de pesquisa</span><span class="_separator"> • </span><span class="_editionMeta">Rev. bras. saúde ocup. 46 <span class="_separator"> • </span>2021</span><span class="_separator"> • </span><span class="group-doi"><a href="https://doi.org/10.1590/2317-6369000024019" class="_doi" target="_blank">https://doi.org/10.1590/2317-6369000024019</a> <a href="javascript:;" class="btn btn-secondary btn-sm scielo__btn-with-icon--left copyLink" data-clipboard-text="https://doi.org/10.1590/2317-6369000024019"><span class="material-icons-outlined">link</span>copiar</a></span>
+</div>
+<h1 class="article-title">
+<img alt="Open-access" class="logo-open-access" data-bs-toggle="tooltip" src="https://ds.scielo.org/img/logo-open-access.svg" data-original-title="by 4.0 "> Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico<a id="shorten" href="#" class="short-link"><span class="sci-ico-link"></span></a>
+</h1>
+<h2 class="article-title">Precarious work and occupational accidents: risks associated with outsourcing in the electric power sector</h2>
+<div class="articleMeta"></div>
+<div class="scielo__contribGroup"><ul class="author-list" id="authorList-" aria-label="Lista de autores">
+<li class="author-item">
+<!--email ausente para aff (aff1)--><button type="button" class="btn-link px-0 author-name-trigger" data-bs-toggle="modal" data-author-index="0" data-bs-target="#authorModal--1" aria-label="Abrir detalhes de  Maria Elizabeth Antunes Lima "><span> Maria Elizabeth Antunes Lima </span></button><span class="author-separator" aria-hidden="true">,</span>
+</li>
+<li class="author-item">
+<!--email ausente para aff (aff1)--><button type="button" class="btn-link px-0 author-name-trigger" data-bs-toggle="modal" data-author-index="1" data-bs-target="#authorModal--2" aria-label="Abrir detalhes de  Rodrigo Castro Oliveira "><span> Rodrigo Castro Oliveira </span></button>
+</li>
+<a href="" class="btn btn-secondary btn-sm outlineFadeLink" data-bs-toggle="modal" data-bs-target="#ModalScimago">SCIMAGO INSTITUTIONS RANKINGS</a>
+</ul></div>
+<div class="row">
+<nav class="col-12 col-md-4 col-lg-3"><ul class="articleMenu list-group mt-4"></ul></nav><div class="col-sm-12 col-md-8 col-lg-9"><article id="articleText"><div class="articleSection articleSection--resumo" data-anchor="Resumo">
+<a name="articleSection0"></a><h2 class="h5">Resumo</h2>
+<p>
+          <strong>Introdução:</strong> 
+           o trabalho terceirizado no setor elétrico tem peculiaridades que demandam consideração no que concerne à segurança dos trabalhadores.
+        </p>
+<p>
+          <strong>Objetivo:</strong> 
+           analisar os impactos da terceirização na precarização do trabalho e na segurança dos trabalhadores do setor de distribuição de energia elétrica.
+        </p>
+<p>
+          <strong>Métodos:</strong> 
+           estudo qualitativo, descritivo, realizado em três etapas: pesquisa documental, entrevistas em profundidade e análise de um caso de acidente fatal. Utilizou-se análise de conteúdo para exploração do material levantado, tratamento e interpretação dos dados.
+        </p>
+<p>
+          <strong>Resultados:</strong> 
+           identificou-se que fatores como jornada de trabalho extensa, baixos salários, más condições de trabalho, equipes reduzidas e falta de supervisão são importantes para caracterizar a precariedade que coloca em risco a integridade física e mental dos trabalhadores terceirizados. Também foi observado que, apesar da periculosidade desse tipo de atividade, não se pratica o direito reservado a todo assalariado de se recusar a fazer um trabalho que coloque a sua vida em risco.
+        </p>
+<p>
+          <strong>Conclusão:</strong> 
+           os resultados sugerem que a terceirização no setor elétrico representa aumento do risco de ocorrência de acidentes graves e aprofunda desigualdades em razão das diferenças entre o tratamento oferecido aos terceirizados e o reservado aos empregados da empresa primária.
+        </p>
+<p><strong>Palavras-chave:</strong><br>trabalho; serviços terceirizados; setor elétrico; precarização do trabalho; saúde do trabalhador</p>
+</div>
+<div class="articleSection articleSection--abstract" data-anchor="Abstract">
+<a name="articleSection0"></a><h2 class="h5">Abstract</h2>
+<p>
+          <strong>Introduction:</strong> 
+           outsourced work in the electric power sector has peculiarities that demand consideration regarding worker’s safety.
+        </p>
+<p>
+          <strong>Objective:</strong> 
+           to analyze the outsourcing impacts on labor precariousness and workers’ safety in the electricity distribution industry.
+        </p>
+<p>
+          <strong>Methods:</strong> 
+           qualitative, descriptive study, carried out in three stages: documentary research, in-depth interviews and analysis of a fatal accident case. We used content analysis to explore the material collected, data treatment and interpretation.
+        </p>
+<p>
+          <strong>Results:</strong> 
+           we identified that long working hours, lower wages, poor working conditions, reduced teams and lack of supervision are important to characterize the precariousness that puts the physical and mental integrity of outsourced workers at risk. We also identified that, despite being a hazardous activity, the outsourced workers do not exercise the right guaranteed to all employees to refuse to do an activity that puts their life at risk.
+        </p>
+<p>
+          <strong>Conclusion:</strong> 
+           the results show that outsourcing in the electric power sector represents an increased risk of serious occupational accidents and deepens inequalities due to the differences between the treatment given to outsourced workers and the reserved for those directly employed by the company.
+        </p>
+<p><strong>Keywords:</strong><br>work; outsourced services; power sector; precarious employment; occupational health</p>
+</div>
+<div class="articleSection" data-anchor="Text">
+      <h2 class="h5">Introdução</h2>
+      <p>A sociedade brasileira, em um momento em que muito se discutia os benefícios e malefícios da terceirização, deparou-se, em 31 de março de 2017, com a aprovação da Lei Federal nº 13.429/2017<span class="ref"><sup class="xref xrefblue"><a href="#B1_ref" data-ref="1 
+    1. Presidência da República (BR). Lei n. 13.429, de 31 de março de 2017 [Internet]. Brasília (DF); 31 mar 2017 [citado em 9 ago 2021]. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm ">1</a></sup></span>. Seu conteúdo dispõe, principalmente, sobre a permissibilidade de terceirizar todos os setores de uma empresa, inclusive as atividades-fim, que anteriormente não podiam ser externalizadas. No mesmo sentido, a Lei nº 13.467/2017<span class="ref"><sup class="xref xrefblue"><a href="#B2_ref" data-ref="2 
+    2. Presidência da República (BR). Lei n. 13.467, de 13 de julho de 2017 [Internet]. Brasília (DF); 14 jul 2017 [citado em 9 ago 2021]. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm ">2</a></sup></span>, aprovada logo em seguida, realizou modificações substanciais na Consolidação das Leis Trabalhistas (CLT), permitindo a transferência a empresas terceirizadas da execução de suas atividades principais, por meio do art. 4º-A.</p>
+      <p>Na ocasião, a terceirização no setor elétrico nacional vinha assumindo grandes proporções e a maior concessionária de distribuição de energia elétrica de Minas Gerais, a Companhia Energética de Minas Gerais (Cemig), havia reduzido consideravelmente o quadro de funcionários próprios, chegando a terceirizar, já no ano de 2013, 68,51% de sua força de trabalho. Ao atuarem na construção e na manutenção de redes elétricas energizadas, os eletricistas terceirizados realizam atividades de risco<span class="ref"><sup class="xref xrefblue"><a href="#B3_ref" data-ref="3 
+    3. Rabelo LBC, Castro MLGL, Silva JMA. Dublês do setor elétrico: reflexões sobre identidade e trabalho terceirizado. Rev Psicol Organ Trab. 2016;16(2):166-75.">3</a></sup></span>. Esse crescimento importante do número de trabalhadores terceirizados no setor elétrico exige uma análise pormenorizada e crítica a respeito dessa modalidade de trabalho. Especialmente porque diversos estudos apontam a precarização do trabalho como uma das consequências da terceirização, ao levar à diminuição do salário e dos benefícios, ocasionar maior rotatividade dos empregados e gerar aumento da jornada<span class="ref"><sup class="xref xrefblue"><a href="#B4_ref" data-ref="4 
+    4. Cassundé FR, Barbosa MAC, Costa JRM. Terceirização e precarização do trabalho: levantamento bibliométrico sobre os caminhos críticos da produção acadêmica em administração. TPA. 2016;6(1):172-94.">4</a></sup></span><sup>),(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B5_ref" data-ref="5 
+    5. Pereira MER, Tassigny MM, Bizarria FPA. Terceirização e precarização do trabalho na Política Pública de Assistência Social. Adm Pub Gest Social. 2017;9(3):171-81.">5</a></sup></span>. Além disso, o empregado terceirizado nesse setor, quase sempre, apresenta menor grau de instrução e recebe menos treinamento para executar sua função, o que contribui para expô-lo a um risco maior de sofrer acidente<span class="ref"><sup class="xref xrefblue"><a href="#B3_ref" data-ref="3 
+    3. Rabelo LBC, Castro MLGL, Silva JMA. Dublês do setor elétrico: reflexões sobre identidade e trabalho terceirizado. Rev Psicol Organ Trab. 2016;16(2):166-75.">3</a></sup></span>.</p>
+      <p>Ademais, quando se trata de segurança no trabalho, é importante salientar o direito que possui o trabalhador de se recusar a realizar determinada atividade que coloque em risco sua saúde ou integridade física<span class="ref"><sup class="xref xrefblue"><a href="#B6_ref" data-ref="6 
+    6. Chagas GLT. Legislação de direito internacional do trabalho e da proteção internacional dos direitos humanos. Salvador: JusPodivm; 2010.">6</a></sup></span>. Tudo indica que, no caso do terceirizado, a dificuldade de usufruir desse direito é ainda maior devido à insegurança das formas contratuais<span class="ref"><sup class="xref xrefblue"><a href="#B7_ref" data-ref="7 
+    7. Borges A, Franco A. Mudanças de gestão: para além dos muros da fábrica. In: Franco T, editor. Trabalho, riscos industriais e meio ambiente: rumo ao desenvolvimento sustentável? Salvador: Edufba; 1997. p. 63-116.">7</a></sup></span>. Considerando esse panorama, este estudo teve por objetivo analisar os impactos da terceirização na precarização do trabalho e na segurança dos trabalhadores do setor de distribuição de energia elétrica.</p>
+    
+      <h2 class="h5">Métodos</h2>
+      <p>O presente estudo é qualitativo e de caráter descritivo<span class="ref"><sup class="xref xrefblue"><a href="#B8_ref" data-ref="8 
+    8. Triviños ANS. Introdução à pesquisa em ciências sociais: a pesquisa qualitativa em educação. São Paulo: Atlas; 1987.">8</a></sup></span><sup>),(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B9_ref" data-ref="9 
+    9. Minayo MCS. O desafio do conhecimento: pesquisa qualitativa em saúde. São Paulo: Hucitec; 2007.">9</a></sup></span>. Os dados foram coletados em 2018, inicialmente por meio de uma pesquisa documental, utilizando-se documentos jurídicos como fonte de informação<span class="ref"><sup class="xref xrefblue"><a href="#B10_ref" data-ref="10 
+    10. Fonseca JJS. Metodologia da pesquisa científica. Fortaleza: UEC; 2002.">10</a></sup></span>. Em seguida, para se obter dados complementares, foram realizadas entrevistas em profundidade<span class="ref"><sup class="xref xrefblue"><a href="#B11_ref" data-ref="11 
+    11. Lakatos EM, Marconi MA. Técnicas de pesquisa. 3a ed. São Paulo: Atlas; 1996.">11</a></sup></span>. As entrevistas forneceram elementos para a análise de um caso envolvendo um trabalhador terceirizado vítima de um acidente fatal<span class="ref"><sup class="xref xrefblue"><a href="#B12_ref" data-ref="12 
+    12. Yin RK. Estudo de caso: planejamento e métodos. 3a ed. Porto Alegre: Bookman; 2005.">12</a></sup></span>. Cada etapa permitiu abordar um aspecto do problema e, ao mesmo tempo, oferecer subsídios para a etapa subsequente: os achados obtidos na pesquisa documental foram retomados em um segundo momento durante as entrevistas individuais que, por sua vez, ofereceram novas informações a serem exploradas no caso do acidente fatal estudado.</p>
+      <p>A pesquisa documental foi realizada a partir de 58 processos judiciais trabalhistas analisados em sua fonte primária, todos envolvendo trabalhadores terceirizados, tomando por base os documentos de depoimentos, sentenças, laudos, petições e contratos que compunham esses processos.</p>
+      <p>Com roteiro baseado nos dados coletados dos processos, foram realizadas entrevistas abertas e em profundidade no escritório do pesquisador com sete eletricistas de empresas terceirizadas. A principal finalidade dessa etapa foi identificar elementos que permitissem verificar a existência ou não de precarização no trabalho, bem como seus impactos na saúde e segurança. Os sujeitos foram escolhidos de forma intencional dentre os autores dos processos citados em que o pesquisador atua como advogado, de acordo com a acessibilidade. Assim, levou-se em conta o fato de serem terceirizados da empresa em questão e seu consentimento em participar do estudo. Quanto ao número total de entrevistas, o critério adotado foi o de saturação, ou seja, assim que os dados começaram a se repetir, foi interrompida a coleta, respeitando-se o mínimo de seis e o máximo de doze indivíduos<span class="ref"><sup class="xref xrefblue"><a href="#B13_ref" data-ref="13 
+    13. Cherques HRT. Saturação em pesquisa qualitativa: estimativa empírica de dimensionamento. PMKT. 2009;3:20-7.">13</a></sup></span>.</p>
+      <p>Foi também estudado um caso de acidente fatal, com base em análise documental da Comunicação de Acidente de Trabalho (CAT), do laudo do Ministério do Trabalho e Emprego (MTE), dos relatórios realizados pelo perito oficial nomeado pelo(a) juiz(a) do trabalho e pelo assistente técnico da empresa terceirizada, além da reclamação trabalhista proposta pela esposa do acidentado contra a empresa terceirizada e a primária.</p>
+      <p>Em cada uma das etapas (análise documental, entrevistas e análise do caso fatal) foi utilizada a análise de conteúdo<span class="ref"><sup class="xref xrefblue"><a href="#B14_ref" data-ref="14 
+    14. Almeida IM, Vilela RAG. Modelo de análise e prevenção de acidentes de trabalho - MAPA [Internet]. Piracicaba (SP): Cerest; 2010 [citado em 9 ago 2021]. Disponível em: http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf ">14</a></sup></span> visando identificar, descrever e interpretar o material coletado e seus significados, levando em conta as diversas formas de comunicação, além de tentar compreender as características, as estruturas ou os modelos que estão por trás dos fragmentos de mensagens dos laudos, das decisões judiciais e dos discursos dos entrevistados.</p>
+      <p>Este estudo foi aprovado pelo Comitê de Ética em Pesquisa do Centro Universitário Unihorizontes, conforme protocolo 01/2018 de 10 de fevereiro de 2018.</p>
+    
+      <h2 class="h5">Resultados</h2>
+      
+        <h3 class="h5">A análise documental: os processos judiciais</h3>
+        <p>Foram analisadas 58 ações trabalhistas, propostas por integrantes de equipes (eletricistas, ajudantes de eletricistas e encarregados de eletricistas) contra empresas terceirizadas e a Cemig, visando buscar informações sobre o trabalho que realizavam e sobre os motivos que os levaram a essas ações. Os processos foram movidos por trabalhadores de três empresas terceirizadas distintas, no período de 2007 a 2018. Das ações, quarenta se referiam à empresa que prestou serviços no período entre junho de 2007 e junho de 2011 (Empresa A); catorze foram em face da empresa que prestou serviços no período de julho de 2011 a junho de 2016 (Empresa B); e quatro foram dirigidos contra a empresa que prestou serviços terceirizados de julho de 2016 até junho de 2018, final do período deste estudo (Empresa C).</p>
+        
+          <h5>Processos em face da empresa A</h5>
+          <p>Os eletricistas da empresa A alegavam ser subordinados aos funcionários da Cemig, recebendo ordens diretas através de um computador de bordo chamado <i>autotrack</i>, que transmite as mensagens a partir do Centro de Operações e Comando (COD).</p>
+          <p>Com relação à jornada de trabalho, a alegação é que trabalhavam em jornadas incertas, de acordo com as ordens das empresas terceirizada e primária, podendo durar das 7 horas da manhã às 22 horas, com intervalo intrajornada de 15 a 20 minutos. Além disso, em muitas oportunidades eram requisitados para realizar atendimentos de emergência aos sábados, domingos e feriados, em um sistema de sobreaviso, e em finais de semana alternados. Ficavam, portanto, à disposição da empresa por meio do celular, não podendo sair das imediações de sua residência. Embora as horas extras efetivamente laboradas fossem de cerca de 90 por mês, apenas 42 horas eram registradas nos cartões de ponto, sendo as restantes anotadas em planilhas e pagas por fora, sem constarem na folha de pagamento.</p>
+          <p>Uma testemunha, que se aposentou na Cemig e atuou também na empresa A, ofereceu diversos esclarecimentos acerca do trabalho dos eletricistas das duas empresas. Em seu depoimento, ressaltou a forte similaridade entre os trabalhos realizados pelos eletricistas da empresa A e os da Cemig, informando que ambas tinham equipes que faziam cortes, religações, ligações novas, manutenções de iluminação pública, trocas de poste, construções e manutenções da média e da alta tensão. Afirmou ainda que não havia qualquer diferença entre aquilo que realizava como empregado direto da Cemig e o que passou a fazer após se aposentar e ser contratado pela empresa A, sendo enfático ao dizer que “as tarefas eram rigorosamente as mesmas”. Quanto à capacitação dos trabalhadores da empresa A e da Cemig, a testemunha afirmou que os eletricistas da empresa primária faziam um curso de quatro a seis meses, enquanto os terceirizados realizavam apenas um treinamento com duração de 30 a 40 dias.</p>
+          <p>Os juízes foram unânimes em reconhecer a similitude das funções dos eletricistas da empresa A e aquelas realizadas na empresa primária, concluindo que os empregados de ambas deveriam ter os mesmos direitos assegurados, sendo estes previstos nos acordos coletivos estabelecidos entre a Cemig e o Sindicato dos Eletricistas.</p>
+          <p>Em decorrência disso, foram deferidos aos eletricistas da empresa A os direitos inerentes aos eletricistas da Cemig, todos previstos na Convenção Coletiva de Trabalho desta última, tais como diferenças salariais, horas extras quitadas por fora, intervalo intrajornada, horas de sobreaviso, participação nos lucros e resultados, gratificação Maria Rosa (uma gratificação especial paga aos funcionários da empresa primária), ajuda de custo para férias, gratificação de função acessória por direção de veículo, tíquetes-refeição e lanche e tíquetes extras no valor único de 670 reais.</p>
+        
+        
+          <h5>Processos em face da empresa B</h5>
+          <p>Neste segundo lote de processos, referente à empresa B, observou-se grande similaridade em relação às solicitações, sendo que a maioria envolvia diferenças salariais e benefícios citados no tópico anterior. No que concerne à jornada de trabalho, os trabalhadores da empresa terceirizada informaram trabalhar, em média, das 7 às 18 ou 19 horas, de segunda a sexta-feira, com 15 a 20 minutos de intervalo para descanso e alimentação. Também trabalhavam em alguns sábados, domingos e feriados no atendimento de emergências, submetidos ao regime de sobreaviso em finais de semana alternados.</p>
+          <p>Com relação à qualificação profissional e às atividades exercidas pelos eletricistas e suas equipes na empresa B e na Cemig, foram realizadas perícias técnicas de forma a identificá-las. Os laudos apontaram diferenças entre os critérios de contratação adotados pelas empresas, afirmando que algumas atividades eram reservadas exclusivamente aos funcionários da empresa cliente e concluindo que o trabalho realizado pela equipe da empresa B era apenas parcialmente semelhante ao que cabia à equipe da Cemig. Além disso, declararam que as qualificações e capacitações exigidas para ingresso no quadro das equipes de eletricistas da Cemig se diferenciavam significativamente do que era requerido do pessoal da empresa B, geralmente com baixa escolaridade e sem cursos na área. Ressaltaram ainda que o eletricista da empresa cliente deve possuir uma escolaridade mínima de ensino fundamental, acrescida de qualificação no Serviço Nacional de Aprendizagem Industrial (Senai) ou em instituição equivalente, além da realização de exames de conhecimento, da capacitação de 620 horas e dos cursos previstos pela NR-10 (Curso Básico e Curso Complementar, ambos de 40 horas).</p>
+        
+        
+          <h5>Processos em face da empresa C</h5>
+          <p>A análise do bloco de processos relativos à empresa C apresentou, além dos pleitos de diferenças de salários e benefícios citados nos tópicos referentes às empresas A e B, algumas alegações específicas dos trabalhadores acerca da falta de pagamentos de horas extras, sobreaviso e vales-transportes, bem como da supressão parcial dos intervalos para descanso e alimentação. Além disso, se queixaram das más condições de trabalho, ressaltando a inoperância do banheiro químico localizado nos caminhões das equipes, uma vez que este era utilizado para guardar ferramentas.</p>
+          <p>Quanto à jornada, os trabalhadores alegaram que durante os primeiros oito meses trabalharam das 7 às 22 horas. Após esse período, passaram a trabalhar entre 7 e 19 horas, com intervalos de apenas 15 a 20 minutos diários. Alegaram também que ficavam de sobreaviso entre as 17 horas da sexta-feira e as 7 horas da segunda-feira, em finais de semana alternados, sem o devido recebimento.</p>
+        
+        
+          <h5>Síntese da análise dos processos</h5>
+          <p>Os aspectos apontados pelos eletricistas das três empresas pesquisadas sugerem uma precarização de seu trabalho, tendo em vista que, embora exercessem atividades similares, o valor dos salários e os benefícios concedidos aos terceirizados eram inferiores aos recebidos pelos trabalhadores da Cemig. Ademais, as três empresas destacaram que a jornada de trabalho da empresa terceirizada é superior à da Cemig, tendo sido consenso entre os trabalhadores das empresas B e C a ocorrência de uma redução importante dos intervalos para descanso e alimentação.</p>
+          <p>O <a href="" class="open-asset-modal" data-bs-toggle="modal" data-bs-target="#ModalTablet1"><span class="sci-ico-fileTable"></span>Quadro 1</a> oferece informações acerca do que os referidos direitos representam em valores monetários. Pode-se observar também o alto valor dos juros legais pela mora no pagamento, bem como valores referentes à Previdência Social e ao imposto de renda.</p>
+          <div>
+            <div class="row table" id="t1">
+<a name="t1"></a><div class="col-md-4 col-sm-4"><a data-bs-toggle="modal" data-bs-target="#ModalTablet1"><div class="thumbOff">
+                        Thumbnail
+                        <div class="zoom"><span class="sci-ico-zoom"></span></div>
+</div></a></div>
+<div class="col-md-8 col-sm-8">
+<strong><strong>Quadro 1</strong></strong><br>
+                Valores reais apurados pelo perito técnico contábil nomeado por juiz de processo movido por trabalhador terceirizado*
+              <br>
+</div>
+</div>
+          </div>
+          <p>No <a href="" class="open-asset-modal" data-bs-toggle="modal" data-bs-target="#ModalTablet2"><span class="sci-ico-fileTable"></span>Quadro 2</a> estão expostos os indicadores da existência da precarização no trabalho das equipes de eletricistas das empresas A, B e C.</p>
+          <div>
+            <div class="row table" id="t2">
+<a name="t2"></a><div class="col-md-4 col-sm-4"><a data-bs-toggle="modal" data-bs-target="#ModalTablet2"><div class="thumbOff">
+                        Thumbnail
+                        <div class="zoom"><span class="sci-ico-zoom"></span></div>
+</div></a></div>
+<div class="col-md-8 col-sm-8">
+<strong><strong>Quadro 2</strong></strong><br>
+                Indicadores de precarização do trabalho de eletricistas terceirizados
+              <br>
+</div>
+</div>
+          </div>
+          <p>Os dados expostos no <a href="" class="open-asset-modal" data-bs-toggle="modal" data-bs-target="#ModalTablet2"><span class="sci-ico-fileTable"></span>Quadro 2</a> permitem observar que a empresa A era a que apresentava o maior número de sinais de precarização, com seis indicadores, embora as empresas B e C tenham apresentado cinco. Porém, questões essenciais como salários e benefícios inferiores, bem como jornadas de trabalho extensas, repetiram-se em todas as empresas terceirizadas. Tudo isso vai ao encontro das conclusões de Rabelo, Castro e Silva<span class="ref"><sup class="xref xrefblue"><a href="#B3_ref" data-ref="3 
+    3. Rabelo LBC, Castro MLGL, Silva JMA. Dublês do setor elétrico: reflexões sobre identidade e trabalho terceirizado. Rev Psicol Organ Trab. 2016;16(2):166-75.">3</a></sup></span> quando apontam que a terceirização no setor elétrico tende a contribuir para a precarização do trabalho, e os elementos que permitiram tal conclusão corroboram, em grande medida, os resultados aqui reportados: a diminuição do salário e dos benefícios do terceirizado, o aumento da jornada de trabalho e a maior rotatividade nas empresas terceiras.</p>
+        
+      
+      
+        <h3 class="h5">Análise das entrevistas</h3>
+        <p>Foram realizadas entrevistas com sete eletricistas, sendo que um deles trabalhou para a Cemig e para a empresa A e os demais trabalharam para as empresas A, B ou C. Os relatos obtidos permitem identificar diversos aspectos que corroboram os dados colhidos nos processos. Todos os entrevistados concordaram sobre a existência de diferenças salariais e de benefícios concedidos pela empresa terceirizada em relação à primária. Para eles, o salário não é adequado, assim como os demais benefícios, a exemplo do vale-refeição e da assistência médica. Apesar de considerarem adequado o horário descrito no contrato de trabalho, os trabalhadores percebem uma discrepância entre o que a empresa propõe ao contratá-los e a jornada efetivamente desempenhada, sempre mais extensa, podendo chegar a 14 horas. Alguns disseram já ter trabalhado durante toda a noite, sendo que, dependendo da demanda, perdem o horário do almoço.</p>
+        <p>Esta questão foi analisada por Almeida e Vilela<span class="ref"><sup class="xref xrefblue"><a href="#B14_ref" data-ref="14 
+    14. Almeida IM, Vilela RAG. Modelo de análise e prevenção de acidentes de trabalho - MAPA [Internet]. Piracicaba (SP): Cerest; 2010 [citado em 9 ago 2021]. Disponível em: http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf ">14</a></sup></span>, do ponto de vista da precarização, que concluíram que o cumprimento de jornadas excessivas, com realização de horas extras acima do legalmente permitido e um procedimento ineficiente de compensação de horários e turnos para revezamento, juntamente com o cansaço físico e psicológico do trabalhador, são elementos que fazem parte do cenário de precarização, contribuindo para o aumento dos acidentes. Eles concluem que, geralmente, esse cenário envolve o risco do desemprego, o aumento da informalidade e a descontinuidade do emprego.</p>
+        <p>A escolaridade apareceu também como um fator importante entre as diferenças constatadas, uma vez que a maioria dos terceirizados possui apenas o ensino fundamental, algumas vezes incompleto, enquanto a empresa primária exige mais formação dos seus empregados. Essa diferença repercute na qualidade do trabalho realizado pelo terceirizado, sendo que a este problema soma-se a carência de um bom treinamento.</p>
+        <p>Em consonância com o que foi constatado na análise dos processos, observou-se nas entrevistas que a qualidade e a quantidade de treinamento entre os empregados terceirizados são insuficientes. Enquanto os terceirizados recebem um treinamento de apenas de 20 a 30 dias, os empregados da Cemig são submetidos a uma formação de aproximadamente seis meses, sendo que o mínimo deve ser de três meses. Observaram-se ainda diferenças em termos de qualidade e profundidade dos conteúdos e das práticas no treinamento oferecido a cada grupo, expondo os trabalhadores terceirizados a um risco maior.</p>
+        <p>A baixa qualidade dos equipamentos de proteção utilizados pelo trabalhador terceirizado em relação aos adotados pelos empregados da Cemig sugere que a segurança dos terceirizados não é observada com a mesma atenção pela empresa por eles responsável. Tudo isso permite concluir que esse grupo se encontra mais suscetível aos acidentes, especialmente por se tratar de um setor considerado de alta periculosidade.</p>
+        <p>Ademais, a partir das entrevistas, foi possível refletir sobre problemas relativos ao direito de se recusar a fazer um trabalho que coloque a vida em risco. A legislação brasileira prevê esse direito, mas isso não garante que ele seja posto em prática, uma vez que a recusa pode ser seguida de algum tipo de retaliação. Nesse sentido, os trabalhadores expressaram que o temor de possíveis punições podia levá-los a executar uma ordem, mesmo cientes de expor suas vidas a riscos. Assim, embora a legislação brasileira atente ao fato de não ser permitido coagir o trabalhador a se expor a práticas que representem perigo grave e iminente a sua vida ou integridade<span class="ref"><sup class="xref xrefblue"><a href="#B15_ref" data-ref="15 
+    15. Gomes O, Gottschalk E. Curso de direito do trabalho. Rio de Janeiro: Forense; 1971.">15</a></sup></span>, o fundamento do direito de recusa quase nunca é utilizado pelos assalariados, sendo isso mais frequente no contexto do trabalho terceirizado, por todos os aspectos já assinalados<span class="ref"><sup class="xref xrefblue"><a href="#B16_ref" data-ref="16 
+    16. Delgado MG. Curso de direito do trabalho. São Paulo: LTr; 2010.">16</a></sup></span>.</p>
+        <p>Para ilustrar os aspectos aqui expostos, será apresentada a análise de um caso de acidente fatal, ocorrido com um trabalhador terceirizado.</p>
+      
+      
+        <h3 class="h5">Análise de caso fatal</h3>
+        <p>Para compreender o acidente ocorrido, foi realizada uma análise dos documentos relativos ao fato, em especial da CAT, do laudo do MTE, dos relatórios realizados pelo perito oficial nomeado pelo juiz do trabalho e pelo assistente técnico da empresa terceirizada, bem como da reclamação trabalhista proposta pela esposa do acidentado em face das empresas A e Cemig.</p>
+        
+          <h5>Relato do acidente</h5>
+          <p>O caso relatado é o de um eletricista da empresa A. Era um jovem oriundo de um meio humilde, sendo arrimo de uma família numerosa. Tinha baixa escolaridade, com o ensino fundamental incompleto. Quando se acidentou tinha pouco mais de seis meses de trabalho na empresa, sendo considerado inexperiente pelo próprio parceiro com quem fazia dupla no dia do acidente, ocorrido em uma noite de domingo, após cerca de oito horas de trabalho. Ao final do expediente, o eletricista e seu parceiro foram acionados pelo Centro de Distribuição (COD) da empresa primária para atenderem a um chamado de cabo partido. No entanto, ao chegarem ao local, se depararam com algo diferente, uma chave sobre a qual não tinham conhecimento.</p>
+          <p>Ao tentarem solucionar o problema, o eletricista, que estava sem os equipamentos de proteção necessários, sofreu uma descarga elétrica e veio a óbito. É importante ressaltar que, em nenhum momento, a vítima ou seu parceiro de trabalho foram comunicados que os cabos estavam energizados ou receberam ordens de serviço específicas com a descrição detalhada da atividade, informações indispensáveis à segurança do empregado. Foram comunicados apenas sobre a necessidade de realizar o reparo de uma linha, sem qualquer planejamento e com informações imprecisas, com o agravante de estarem retornando de uma jornada de oito horas de trabalho.</p>
+          <p>Tudo isso sugere um ambiente organizacional propício a falhas e acidentes, remetendo aos apontamentos de Llory<span class="ref"><sup class="xref xrefblue"><a href="#B17_ref" data-ref="17 
+    17. Llory M. L'accident de la centrale nucléaire de Three Mile Island. Paris: L'Harmattan; 1999.">17</a></sup></span> quando afirma que as causas profundas dos acidentes não devem ser buscadas nos erros em si ou nas falhas dos operadores de campo, mas sim percebidas como um produto da organização e de suas políticas. A Cemig preconizava que equipes formadas por três eletricistas eram as mais adequadas, no entanto, a necessidade de aumentar o número de equipes levou a empresa terceirizada a utilizar duplas, formadas por um eletricista experiente e um novato, o que tem sido considerado como um fator de aumento do risco da atividade, sobretudo em reparos em redes elétricas energizadas<span class="ref"><sup class="xref xrefblue"><a href="#B18_ref" data-ref="18 
+    18. Castro MLGL. Quando as luzes não se apagam... A gestão coletiva dos riscos na manutenção em rede energizada [Dissertação]. Belo Horizonte: Universidade Federal de Minas Gerais; 2017. 240 p.">18</a></sup></span>.</p>
+        
+        
+          <h5>Análise do caso com base na documentação judicial</h5>
+          <p>No dia seguinte ao acidente, a empregadora emitiu a CAT, qualificando-o como um acidente típico de trabalho que resultou em morte por exposição à energia elétrica. Após dois dias, o MTE foi comunicado sobre o fato e foi a campo para emitir um “Laudo Técnico de Análise de Acidente do Trabalho”<span class="ref footnote"><sup class="xref"><a href="#fn1_ref" name="xref_fn1" data-ref="
+        1 
+    
+        Processo 00682-2008-074-03-00-6, Laudo MTE 31-37.
+      ">1</a></sup></span>, no qual informou a lavratura de dezoito autos de infração referentes às irregularidades quanto à jornada de trabalho, períodos de descanso e Normas Regulamentadoras (NR) 7, 10, 18 e 24<span class="ref footnote"><sup class="xref"><a href="#fn2_ref" name="xref_fn2" data-ref="
+        2 
+    
+        A NR 7 apresenta as diretrizes do programa de controle médico de saúde ocupacional com enfoque geral, enquanto a NR 10 é mais específica e regulamenta a segurança em instalações e serviços em eletricidade. Já a NR 18 delimita as condições e meio ambiente de trabalho na indústria da construção, e a NR 24 delimita as condições sanitárias e de conforto nos locais de trabalho.
+      ">2</a></sup></span>. Foram propostas as seguintes causas para a ocorrência do acidente: 1) iluminação insuficiente; 2) circuito desprotegido, pois a chave que poderia interromper a energia no poste estava a quilômetros de distância; 3) modo operatório inadequado à segurança, já que o acidentado não realizou a medição da tensão; 4) falha na antecipação, detecção do risco ou perigo, pelo mesmo motivo alegado anteriormente; 5) falta de planejamento e de preparação do trabalho; 6) ausência ou insuficiência de supervisão; 7) equipe numericamente insuficiente para a execução da atividade; 8) meio de comunicação ineficiente, pois não foram informados acerca da localização da chave interruptora do poste onde ocorreu o acidente; 9) tolerância da empresa ao descumprimento de normas de segurança; 10) falta de Equipamentos de Proteção Individual (EPI) e não prescrição desses equipamentos para a atividade, pois não houve fornecimento de vestimentas que contemplassem a condutibilidade, inflamabilidade e influências eletromagnéticas, que poderiam ter evitado a morte.</p>
+          <p>A conclusão do laudo técnico foi que se tratou de uma </p>
+          <div><blockquote>
+            <p>alarmante situação de desrespeito à legislação de proteção, segurança e saúde no trabalho […] corroborando, cabalmente, de modo trágico e irreparável, a necessidade de se eliminar a terceirização de atividades-fim na Cemig<span class="ref footnote"><sup class="xref"><a href="#fn3_ref" name="xref_fn3" data-ref="
+        3 
+    
+        Processo 00682-2008-074-03-00-6, Laudo MTE 31-37.
+      ">3</a></sup></span>.</p>
+          </blockquote></div>
+          <p>A perícia técnica<span class="ref footnote"><sup class="xref"><a href="#fn4_ref" name="xref_fn4" data-ref="
+        4 
+    
+        Processo 00682-2008-074-03-00-6. Laudo da Perícia Técnica 330/341.
+      ">4</a></sup></span> ocorreu nos autos da reclamação trabalhista promovida pela viúva e pelos filhos do acidentado, tendo sido requerida pela empresa terceirizada a um engenheiro mecânico e um engenheiro de segurança do trabalho, indicados pelo juiz local, como é de praxe nesses casos. O laudo chegou às seguintes conclusões: os dois eletricistas não executaram procedimentos básicos de segurança; não utilizavam equipamentos de segurança obrigatórios, tais como luvas de borracha isolantes, proteção dos elementos energizados e vestimenta que comportasse a condutibilidade; e não fizeram uma análise preliminar de riscos. De acordo com o perito, o técnico da empresa primária informou que uma equipe com duas pessoas não era suficiente para a realização do serviço, sendo que a vítima e seu colega de trabalho deveriam ter recusado o serviço. Nesse sentido, o parecer do assistente contratado pela empresa terceirizada<span class="ref footnote"><sup class="xref"><a href="#fn5_ref" name="xref_fn5" data-ref="
+        5 
+    
+        Processo 00682-2008-074-03-00-6. Laudo da Ré 286/309.
+      ">5</a></sup></span> destoou completamente dos anteriores, tendo sido pautado em uma investigação acerca da responsabilidade da empresa que o contratou, a partir da qual refutou os argumentos do perito oficial.</p>
+          <p>Assim, ao contrário do que foi dito anteriormente, esse parecerista apontou para a adequação dos equipamentos utilizados, concluindo que o acidente ocorreu exclusivamente pela ausência de análise prévia do serviço e de padrões das operações, tais como abrir, sinalizar, testar e aterrar a rede. Segundo ele, a dupla apresentava todas as condições técnicas para realizar o serviço, sendo a vítima a maior responsável pelo acidente, por desrespeito aos procedimentos. Acrescentou ainda que, ao constatarem as dificuldades, a vítima e seu colega deveriam ter suspendido o serviço, afirmando que o comportamento adotado fugiu a qualquer tipo de controle do empregador. Nos seus próprios termos:</p>
+          <div><blockquote>
+            <p>[…] a equipe tinha todas as condições técnicas, operacionais e capacitantes de desenvolver corretamente o serviço […]. E ainda, [os eletricistas] na constatação da dificuldade não só podiam como deveriam suspender os serviços. Tinham conhecimento, eram treinados para tanto, mas desrespeitaram os procedimentos. […] são circunstâncias ou condições ou comportamento da vítima que escapam a qualquer controle ou diligência do empregador, não se vislumbrando o nexo de causalidade, nem o dever de indenizar<span class="ref footnote"><sup class="xref"><a href="#fn6_ref" name="xref_fn6" data-ref="
+        6 
+    
+        Processo 00682-2008-074-03-00-6. Laudo da Ré 286/309.
+      ">6</a></sup></span>.</p>
+          </blockquote></div>
+          <p>Apesar disso, o juiz entendeu ter ficado evidente no conjunto probatório que “a empregadora do obreiro falecido agiu com culpa no evento que o vitimou”. Para tanto, fundamentou sua sentença nas conclusões do laudo do perito oficial e do fiscal do MTE, transcrevendo grande parte deles, em especial as causas elencadas anteriormente, e rechaçando a tese apresentada pelo assistente técnico da empresa terceirizada.</p>
+          <p>Ressaltou ainda o depoimento do eletricista que acompanhava o colega acidentado, entendendo ter ficado demonstrado que, de fato, “nem o obreiro falecido e nem seu colega de trabalho foram comunicados de que os cabos estavam energizados. Não receberam ordens de serviço específicas para data e local, com a descrição detalhada da atividade”.</p>
+          <p>Em seguida, enfatizou a culpa do empregador em virtude da ausência do cumprimento do dever legal de fiscalizar a correta execução dos serviços, em condições adequadas de segurança e higiene, julgando ser “inconcebível a ideia de que o falecido pudesse estar desenvolvendo uma tarefa de forma completamente alheia à empresa”, até mesmo porque o colega de trabalho da vítima informou ser comum a não realização das referidas análises preliminares. Por fim, o magistrado condenou as empresas primária e terceirizada, de forma solidária, pelos danos materiais e morais suportados pela família da vítima, apresentando tanto a responsabilidade objetiva quanto a subjetiva baseada na culpa, sendo a decisão mantida nos Tribunais Superiores.</p>
+        
+      
+    
+      <h2 class="h5">Discussão</h2>
+      <p>Os resultados expostos anteriormente refletem alguns elementos importantes observados no novo cenário social do trabalho e que emergiram a partir do capitalismo global, resultando, entre outras coisas, na chamada precarização do trabalho<span class="ref"><sup class="xref xrefblue"><a href="#B19_ref" data-ref="19 
+    19. Antunes R. Adeus ao trabalho? Ensaio sobre as metamorfoses e a centralidade do mundo do trabalho. São Paulo: Cortez; 1999.">19</a></sup></span><sup>)(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B21_ref" data-ref="21 
+    21. Santos SDM. A precarização do trabalho docente no ensino superior: dos impasses às possibilidades de mudanças. Educ Rev. 2012;(46):229-44.">21</a></sup></span>. Nesse sentido, pode-se dizer que as mudanças provenientes da reestruturação produtiva, da interação mundial dos mercados financeiros, da economia internacionalizada, da desregulamentação e da abertura de mercados, adicionadas à ruptura das barreiras protecionistas, com todas as suas causas e consequências sociais e políticas, atuam também como fatores de desequilíbrio de vários setores da classe trabalhadora<span class="ref"><sup class="xref xrefblue"><a href="#B22_ref" data-ref="22 
+    22. Costa MS. Terceirização no Brasil: velhos dilemas e a necessidade de uma ordem mais includente. Cad EBAPE.BR. 2017;15(1):115-31.">22</a></sup></span>. Cabe ressaltar, no entanto, que não se está tratando aqui de algo novo, uma vez que o trabalho precário existe desde que se instaurou a lógica do assalariamento, mas o que se constata é a sua intensificação no decorrer das últimas décadas. Trata-se, na realidade, como afirma Hugues<span class="ref"><sup class="xref xrefblue"><a href="#B23_ref" data-ref="23 
+    23. Hugues E. Le drame social du travail. Actes rech sci soc. 1996;2(115):94-9.">23</a></sup></span>, de um fenômeno multifacetado, com influências políticas, econômicas, jurídicas e morais, que sofre transformações no decorrer do tempo, de acordo com o país ou a região, mediante a atividade econômica empregada.</p>
+      <p>O que importa trazer aqui é a constatação frequente a respeito de um aumento importante da terceirização, isto é, da externalização de atividades até então realizadas pela empresa, nesse contexto comumente chamado de precarização do trabalho. Ou seja, essa medida tende a contribuir para o aumento da precariedade sempre que leva à diminuição do salário e dos benefícios, ocasionar maior rotatividade dos empregados, gerar aumento da jornada e incrementar os riscos de acidentes e de danos à saúde do trabalhador. Portanto, pode-se dizer que o estudo exposto colocou em evidência uma relação estreita entre a política de terceirização adotada pela empresa e a precarização do trabalho do eletricista, sendo que este resultado corrobora os achados de outras pesquisas em torno do tema, algumas voltadas também para o setor elétrico<span class="ref"><sup class="xref xrefblue"><a href="#B3_ref" data-ref="3 
+    3. Rabelo LBC, Castro MLGL, Silva JMA. Dublês do setor elétrico: reflexões sobre identidade e trabalho terceirizado. Rev Psicol Organ Trab. 2016;16(2):166-75.">3</a></sup></span><sup>),(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B4_ref" data-ref="4 
+    4. Cassundé FR, Barbosa MAC, Costa JRM. Terceirização e precarização do trabalho: levantamento bibliométrico sobre os caminhos críticos da produção acadêmica em administração. TPA. 2016;6(1):172-94.">4</a></sup></span><sup>),(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B24_ref" data-ref="24 
+    24. Feitosa RL, Montenegro AV. Considerações sobre terceirização e precarização no contexto brasileiro: uma revisão. Revista de Psicologia da UFC [Internet]. 2015 [citado em 30 ago 2021];6(2):76-89. Disponível em: http://www.periodicos.ufc.br/psicologiaufc/article/view/2583.">24</a></sup></span><sup>)(</sup><span class="ref"><sup class="xref xrefblue"><a href="#B27_ref" data-ref="27 
+    27. Pialarissi R. Precarização do trabalho. Rev Adm Saude. 2017;17(66):1-12.">27</a></sup></span>.</p>
+      <p>Para efeito de ilustração, pode-se citar uma pesquisa sobre o tema, promovida pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese) em 2017<span class="ref"><sup class="xref xrefblue"><a href="#B28_ref" data-ref="28 
+    28. Departamento Intersindical de Estatística e Estudos Econômicos. Terceirização e precarização das condições de trabalho: condições de trabalho e remuneração em atividades tipicamente terceirizadas e contratantes. Nota Técnica n. 172 [Internet]. São Paulo: Dieese; mar 2017 [citado em 9 ago 2021]. Disponível em: https://www.dieese.org.br/notatecnica/2017/notaTec172Terceirizacao.pdf ">28</a></sup></span>, cujos resultados indicam que em setores normalmente terceirizados o salário é de 23% a 27% inferior, e a taxa de rotatividade anual chega a 57,7%, enquanto nos serviços não terceirizados este índice é de 28,8%. Em outros termos, a terceirização, nos moldes em que é praticada em nosso país, tende a ser mera estratégia de transferência de ônus para os “parceiros”, ao transmitir os custos variáveis por meio da redução dos postos de trabalho, de modo a manter uma quantidade pequena de trabalhadores com contrato direto para realização das atividades-fim<span class="ref"><sup class="xref xrefblue"><a href="#B29_ref" data-ref="29 
+    29. Peixe JCMDS, Stampa IT. Terceirização no Brasil: tendências, dilemas e interesses em disputa. Riga: Novas Edições Acadêmicas; 2015.">29</a></sup></span>. Foi por esse motivo que passou a ser considerada como fator de exclusão social, pois priva um número crescente de trabalhadores de um vínculo empregatício e, portanto, do acesso ao mínimo de direitos trabalhistas e de proteção sindical<span class="ref"><sup class="xref xrefblue"><a href="#B30_ref" data-ref="30 
+    30. Marcelino P. Afinal, o que é terceirização? Em busca de ferramentas de análise e de ação política. Pegada. 2007;8(2):55-71.">30</a></sup></span>. Suas consequências maiores consistem, assim, na piora das condições gerais de trabalho e no rebaixamento do salário de várias classes de trabalhadores que, anteriormente, faziam parte dos efetivos da empresa, cujas relações de trabalho eram mais seguras e legalmente protegidas<span class="ref"><sup class="xref xrefblue"><a href="#B22_ref" data-ref="22 
+    22. Costa MS. Terceirização no Brasil: velhos dilemas e a necessidade de uma ordem mais includente. Cad EBAPE.BR. 2017;15(1):115-31.">22</a></sup></span>.</p>
+      <p>Quanto ao contexto macroeconômico que favoreceu esse processo, os padrões neoliberais, sobretudo aqueles que passaram a prevalecer a partir de meados dos anos 1990, envolvendo, entre outras coisas, a flexibilidade do mercado de trabalho, permitiram o crescimento generalizado da terceirização por intermédio de modalidades atípicas de contrato temporário. Desde então, ocorreu uma explosão desse modelo contratual na forma de trabalho sem carteira assinada, atividades clandestinas, intermediação de mão de obra, além das falsas cooperativas<span class="ref"><sup class="xref xrefblue"><a href="#B31_ref" data-ref="31 
+    31. Thébaud-Mony A, Druck G. Terceirização: a erosão dos direitos dos trabalhadores na França e no Brasil. In: Dreuck G, Freanco T, organizadores. A perda da razão social do trabalho. São Paulo: Boitempo; 2007. p. 2358.">31</a></sup></span>. No contexto brasileiro, logo ficou evidente que a terceirização não consistia em uma estratégia de especialização da mão de obra, mas sim em um mecanismo de redução dos custos de trabalho, visto que possibilita, às empresas, transmitirem sua responsabilidade de contratação para terceiros. Ademais, sua propagação foi favorecida pelo contexto político dos anos 1990, que permitia grande liberdade para as empresas contratarem e demitirem, legitimando os contratos de trabalho flexíveis, regulamentados ou não<span class="ref"><sup class="xref xrefblue"><a href="#B23_ref" data-ref="23 
+    23. Hugues E. Le drame social du travail. Actes rech sci soc. 1996;2(115):94-9.">23</a></sup></span>.</p>
+      <p>Uma evidência da generalização dessa modalidade de trabalho veio da Organização para a Cooperação e o Desenvolvimento Econômico (OCDE), que concluiu, no início dos anos 2000, que cerca de 60% da força de trabalho no mundo já era precária, sendo que vinha ocorrendo uma inconstância nos contextos laborais que impedia o trabalhador de organizar sua vida pessoal, sobretudo em decorrência dos baixos salários, em um ambiente instável e sem qualquer forma de reconhecimento social, vivendo sem condições mínimas<span class="ref"><sup class="xref xrefblue"><a href="#B27_ref" data-ref="27 
+    27. Pialarissi R. Precarização do trabalho. Rev Adm Saude. 2017;17(66):1-12.">27</a></sup></span>.</p>
+      <p>Assim, ao se considerar a caracterização da Organização Internacional do Trabalho (OIT) a respeito do trabalho precário como sendo todo aquele mal pago, inseguro, desprotegido e com nível inadequado de renda<span class="ref"><sup class="xref xrefblue"><a href="#B32_ref" data-ref="32 
+    32. Kalleberg AL. Crescimento do trabalho precário: um desafio global. Rev Bras Ci Soc. 2009;24(69):21-30.">32</a></sup></span>, não é difícil identificá-la nos resultados aqui expostos. É importante atentar ainda que a precariedade pode se manifestar não apenas pela sensação de risco enfrentada em algumas ocasiões de trabalho, mas também pela insatisfação com o que se faz, pelo sentimento de desvalorização pessoal e pelo sofrimento ocorrido nos ambientes de trabalho. Entende-se, assim, que uma “relação subjetiva com o trabalho como ofício, com as atividades e conteúdo de uma ocupação ou profissão, constitui […] uma dimensão crucial para apreender a precariedade do trabalho”<span class="ref"><sup class="xref xrefblue"><a href="#B33_ref" data-ref="33 
+    33. Vargas FB. Trabalho, emprego, precariedade: dimensões conceituais em debate. Caderno CRH. 2016;29(77):313-31.">33</a></sup></span> (p. 315). É também nesse sentido que se concorda com Organista<span class="ref"><sup class="xref xrefblue"><a href="#B34_ref" data-ref="34 
+    34. Organista JHC. Trabalho criativo ou (des)emprego involuntário: informalidade na sociedade contemporânea. Perspectiva Sociológica. 2009;(3):1-14.">34</a></sup></span>, quando conclui que a maneira de analisar o trabalho precário na sociedade contemporânea se relaciona com a valorização de uma ocupação e do local onde ela é realizada. Logo, segundo ele, a precariedade do trabalho não pode ser avaliada como uma ciência exata, empregando indicadores objetivos e operacionais, uma vez que é preciso a observação atenta do indivíduo em seu ambiente de trabalho, além da interpretação à luz das relações sociais.</p>
+      <p>Finalmente, cabe ressaltar que a abordagem adotada para a realização deste estudo resultou em uma espécie de redundância positiva, isto é, cada etapa confirmava os achados da anterior, tendo sido confirmados os sinais de precarização nos três momentos da pesquisa. Foi possível, então, elucidar melhor os motivos alegados pelos trabalhadores terceirizados quando interpõem ações trabalhistas, além das causas dos acidentes que ocorrem no setor estudado. Em outros termos, enquanto a pesquisa avançava, os traços de um trabalho precário emergiam com mais clareza, bem como sua relação com os acidentes frequentemente observados nesse contexto. Ademais, ficou evidente a submissão dos trabalhadores terceirizados a situações de risco, uma vez que o direito de recusa não é posto em prática, sobretudo por esse grupo, devido às formas contratuais que o colocam em situação de vulnerabilidade.</p>
+      <p>Portanto, a precarização dessa forma de trabalho apareceu de forma consistente em todas as etapas do estudo, a começar pelos resultados da análise dos processos judiciais, uma vez que essa revelou a presença importante de elementos que caracterizam o trabalho precário nas três empresas, em especial pelas diferenças de salários e de benefícios, mas também pelo aumento da jornada e as más condições de trabalho.</p>
+      <p>Ademais, o estudo do acidente fatal colocou ainda mais em evidência as disfunções organizacionais, como as falhas na comunicação entre quem determinou a realização do serviço e os trabalhadores que receberam a ordem<span class="ref"><sup class="xref xrefblue"><a href="#B35_ref" data-ref="35 
+    35. Llory M, Montmayeul R. L'accident et l'organisation. Bordeau: Préventique; 2012.">35</a></sup></span>, além da extensão excessiva da jornada de trabalho, as equipes reduzidas e o despreparo do trabalhador terceirizado para realizar tarefas que envolvem risco.</p>
+      <p>Tais achados corroboram Almeida e Vilela<span class="ref"><sup class="xref xrefblue"><a href="#B16_ref" data-ref="16 
+    16. Delgado MG. Curso de direito do trabalho. São Paulo: LTr; 2010.">16</a></sup></span>, que apontam, entre as causas dos acidentes de trabalho, o fato de que as empresas não vêm investindo de maneira adequada em EPI, no fortalecimento dos coletivos de trabalhadores ou em outras medidas preventivas, sugerindo um aparente desinteresse por esses aspectos, bem como pelo processo de inspeção do trabalho. Tudo isso pode resultar no aumento excessivo da jornada, com realização de horas extras acima do legalmente permitido e um procedimento ineficiente de compensação de quadro de horários e turnos para revezamento, culminando na fadiga física e mental do trabalhador.</p>
+      <p>Em suma, a precarização parece ser uma das características marcantes dessa modalidade de trabalho, reduzindo direitos legais dos trabalhadores, inclusive o de se recusar a realizar uma tarefa para a qual não estejam preparados, expondo sua vida a um risco que pode ser fatal. Nada disso, no entanto, tem impedido que a terceirização ganhe cada vez mais espaço no país, principalmente com a Lei Federal nº 13.429/2017 e a modificação na Lei nº 13.467/2017, restando evidente o desencontro entre os elementos legais e a realidade vivida pelos trabalhadores. Tudo indica que essa modalidade contratual é inseparável de condições precárias e patogênicas de trabalho, sobretudo ao colocar os direitos trabalhistas mediados por duas instituições distintas, em uma combinação idiossincrática entre o público e o privado, podendo descaracterizá-los e impedir seu pleno exercício.</p>
+    </div>
+<div class="articleSection articleSection--referências" data-anchor="Referências">
+<a name="articleSection0"></a><h2 class="h5">Referências</h2>
+<div class="row"><div class="col ref-list"><ul class="refList articleFootnotes">
+<li>
+<a class="" name="B1_ref"></a><sup class="xref">1</sup> Presidência da República (BR). Lei n. 13.429, de 31 de março de 2017 [Internet]. Brasília (DF); 31 mar 2017 [citado em 9 ago 2021]. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm <br><a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm" target="_blank" aria-label="Acessar http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm. Abre em nova aba. Recurso externo.">» http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm</a>
+</li>
+<li>
+<a class="" name="B2_ref"></a><sup class="xref">2</sup> Presidência da República (BR). Lei n. 13.467, de 13 de julho de 2017 [Internet]. Brasília (DF); 14 jul 2017 [citado em 9 ago 2021]. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm <br><a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm" target="_blank" aria-label="Acessar http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm. Abre em nova aba. Recurso externo.">» http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm</a>
+</li>
+<li>
+<a class="" name="B3_ref"></a><sup class="xref">3</sup> Rabelo LBC, Castro MLGL, Silva JMA. Dublês do setor elétrico: reflexões sobre identidade e trabalho terceirizado. Rev Psicol Organ Trab. 2016;16(2):166-75.</li>
+<li>
+<a class="" name="B4_ref"></a><sup class="xref">4</sup> Cassundé FR, Barbosa MAC, Costa JRM. Terceirização e precarização do trabalho: levantamento bibliométrico sobre os caminhos críticos da produção acadêmica em administração. TPA. 2016;6(1):172-94.</li>
+<li>
+<a class="" name="B5_ref"></a><sup class="xref">5</sup> Pereira MER, Tassigny MM, Bizarria FPA. Terceirização e precarização do trabalho na Política Pública de Assistência Social. Adm Pub Gest Social. 2017;9(3):171-81.</li>
+<li>
+<a class="" name="B6_ref"></a><sup class="xref">6</sup> Chagas GLT. Legislação de direito internacional do trabalho e da proteção internacional dos direitos humanos. Salvador: JusPodivm; 2010.</li>
+<li>
+<a class="" name="B7_ref"></a><sup class="xref">7</sup> Borges A, Franco A. Mudanças de gestão: para além dos muros da fábrica. In: Franco T, editor. Trabalho, riscos industriais e meio ambiente: rumo ao desenvolvimento sustentável? Salvador: Edufba; 1997. p. 63-116.</li>
+<li>
+<a class="" name="B8_ref"></a><sup class="xref">8</sup> Triviños ANS. Introdução à pesquisa em ciências sociais: a pesquisa qualitativa em educação. São Paulo: Atlas; 1987.</li>
+<li>
+<a class="" name="B9_ref"></a><sup class="xref">9</sup> Minayo MCS. O desafio do conhecimento: pesquisa qualitativa em saúde. São Paulo: Hucitec; 2007.</li>
+<li>
+<a class="" name="B10_ref"></a><sup class="xref">10</sup> Fonseca JJS. Metodologia da pesquisa científica. Fortaleza: UEC; 2002.</li>
+<li>
+<a class="" name="B11_ref"></a><sup class="xref">11</sup> Lakatos EM, Marconi MA. Técnicas de pesquisa. 3a ed. São Paulo: Atlas; 1996.</li>
+<li>
+<a class="" name="B12_ref"></a><sup class="xref">12</sup> Yin RK. Estudo de caso: planejamento e métodos. 3a ed. Porto Alegre: Bookman; 2005.</li>
+<li>
+<a class="" name="B13_ref"></a><sup class="xref">13</sup> Cherques HRT. Saturação em pesquisa qualitativa: estimativa empírica de dimensionamento. PMKT. 2009;3:20-7.</li>
+<li>
+<a class="" name="B14_ref"></a><sup class="xref">14</sup> Almeida IM, Vilela RAG. Modelo de análise e prevenção de acidentes de trabalho - MAPA [Internet]. Piracicaba (SP): Cerest; 2010 [citado em 9 ago 2021]. Disponível em: http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf <br><a href="http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf" target="_blank" aria-label="Acessar http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf. Abre em nova aba. Recurso externo.">» http://www.cerest.piracicaba.sp.gov.br/site/images/MAPA_SEQUENCIAL_FINAL.pdf</a>
+</li>
+<li>
+<a class="" name="B15_ref"></a><sup class="xref">15</sup> Gomes O, Gottschalk E. Curso de direito do trabalho. Rio de Janeiro: Forense; 1971.</li>
+<li>
+<a class="" name="B16_ref"></a><sup class="xref">16</sup> Delgado MG. Curso de direito do trabalho. São Paulo: LTr; 2010.</li>
+<li>
+<a class="" name="B17_ref"></a><sup class="xref">17</sup> Llory M. L'accident de la centrale nucléaire de Three Mile Island. Paris: L'Harmattan; 1999.</li>
+<li>
+<a class="" name="B18_ref"></a><sup class="xref">18</sup> Castro MLGL. Quando as luzes não se apagam... A gestão coletiva dos riscos na manutenção em rede energizada [Dissertação]. Belo Horizonte: Universidade Federal de Minas Gerais; 2017. 240 p.</li>
+<li>
+<a class="" name="B19_ref"></a><sup class="xref">19</sup> Antunes R. Adeus ao trabalho? Ensaio sobre as metamorfoses e a centralidade do mundo do trabalho. São Paulo: Cortez; 1999.</li>
+<li>
+<a class="" name="B20_ref"></a><sup class="xref">20</sup> Lessa S. Trabalho e proletariado no capitalismo contemporâneo. São Paulo: Cortez; 2007.</li>
+<li>
+<a class="" name="B21_ref"></a><sup class="xref">21</sup> Santos SDM. A precarização do trabalho docente no ensino superior: dos impasses às possibilidades de mudanças. Educ Rev. 2012;(46):229-44.</li>
+<li>
+<a class="" name="B22_ref"></a><sup class="xref">22</sup> Costa MS. Terceirização no Brasil: velhos dilemas e a necessidade de uma ordem mais includente. Cad EBAPE.BR. 2017;15(1):115-31.</li>
+<li>
+<a class="" name="B23_ref"></a><sup class="xref">23</sup> Hugues E. Le drame social du travail. Actes rech sci soc. 1996;2(115):94-9.</li>
+<li>
+<a class="" name="B24_ref"></a><sup class="xref">24</sup> Feitosa RL, Montenegro AV. Considerações sobre terceirização e precarização no contexto brasileiro: uma revisão. Revista de Psicologia da UFC [Internet]. 2015 [citado em 30 ago 2021];6(2):76-89. Disponível em: http://www.periodicos.ufc.br/psicologiaufc/article/view/2583<br><a href="http://www.periodicos.ufc.br/psicologiaufc/article/view/2583" target="_blank" aria-label="Acessar http://www.periodicos.ufc.br/psicologiaufc/article/view/2583. Abre em nova aba. Recurso externo.">» http://www.periodicos.ufc.br/psicologiaufc/article/view/2583</a>
+</li>
+<li>
+<a class="" name="B25_ref"></a><sup class="xref">25</sup> Marcelino P, Cavalcante S. Por uma definição de terceirização. Cad CRH. 2012;25(65):331-46.</li>
+<li>
+<a class="" name="B26_ref"></a><sup class="xref">26</sup> Vargas FB. Trabalho, emprego, precariedade: dimensões conceituais em debate. Cad CRH. 2016;29(77):313-31.</li>
+<li>
+<a class="" name="B27_ref"></a><sup class="xref">27</sup> Pialarissi R. Precarização do trabalho. Rev Adm Saude. 2017;17(66):1-12.</li>
+<li>
+<a class="" name="B28_ref"></a><sup class="xref">28</sup> Departamento Intersindical de Estatística e Estudos Econômicos. Terceirização e precarização das condições de trabalho: condições de trabalho e remuneração em atividades tipicamente terceirizadas e contratantes. Nota Técnica n. 172 [Internet]. São Paulo: Dieese; mar 2017 [citado em 9 ago 2021]. Disponível em: https://www.dieese.org.br/notatecnica/2017/notaTec172Terceirizacao.pdf <br><a href="https://www.dieese.org.br/notatecnica/2017/notaTec172Terceirizacao.pdf" target="_blank" aria-label="Acessar https://www.dieese.org.br/notatecnica/2017/notaTec172Terceirizacao.pdf. Abre em nova aba. Recurso externo.">» https://www.dieese.org.br/notatecnica/2017/notaTec172Terceirizacao.pdf</a>
+</li>
+<li>
+<a class="" name="B29_ref"></a><sup class="xref">29</sup> Peixe JCMDS, Stampa IT. Terceirização no Brasil: tendências, dilemas e interesses em disputa. Riga: Novas Edições Acadêmicas; 2015.</li>
+<li>
+<a class="" name="B30_ref"></a><sup class="xref">30</sup> Marcelino P. Afinal, o que é terceirização? Em busca de ferramentas de análise e de ação política. Pegada. 2007;8(2):55-71.</li>
+<li>
+<a class="" name="B31_ref"></a><sup class="xref">31</sup> Thébaud-Mony A, Druck G. Terceirização: a erosão dos direitos dos trabalhadores na França e no Brasil. In: Dreuck G, Freanco T, organizadores. A perda da razão social do trabalho. São Paulo: Boitempo; 2007. p. 2358.</li>
+<li>
+<a class="" name="B32_ref"></a><sup class="xref">32</sup> Kalleberg AL. Crescimento do trabalho precário: um desafio global. Rev Bras Ci Soc. 2009;24(69):21-30.</li>
+<li>
+<a class="" name="B33_ref"></a><sup class="xref">33</sup> Vargas FB. Trabalho, emprego, precariedade: dimensões conceituais em debate. Caderno CRH. 2016;29(77):313-31.</li>
+<li>
+<a class="" name="B34_ref"></a><sup class="xref">34</sup> Organista JHC. Trabalho criativo ou (des)emprego involuntário: informalidade na sociedade contemporânea. Perspectiva Sociológica. 2009;(3):1-14.</li>
+<li>
+<a class="" name="B35_ref"></a><sup class="xref">35</sup> Llory M, Montmayeul R. L'accident et l'organisation. Bordeau: Préventique; 2012.</li>
+</ul></div></div>
+</div>
+<div>
+<h2 class="h5"></h2>
+<span id="fn1"></span><div class="articleSection" data-anchor="1">
+<h2 class="h5"><sup><strong>1</strong></sup></h2>
+        
+        <div>Processo 00682-2008-074-03-00-6, Laudo MTE 31-37.</div>
+      </div>
+<span id="fn2"></span><div class="articleSection" data-anchor="2">
+<h2 class="h5"><sup><strong>2</strong></sup></h2>
+        
+        <div>A NR 7 apresenta as diretrizes do programa de controle médico de saúde ocupacional com enfoque geral, enquanto a NR 10 é mais específica e regulamenta a segurança em instalações e serviços em eletricidade. Já a NR 18 delimita as condições e meio ambiente de trabalho na indústria da construção, e a NR 24 delimita as condições sanitárias e de conforto nos locais de trabalho.</div>
+      </div>
+<span id="fn3"></span><div class="articleSection" data-anchor="3">
+<h2 class="h5"><sup><strong>3</strong></sup></h2>
+        
+        <div>Processo 00682-2008-074-03-00-6, Laudo MTE 31-37.</div>
+      </div>
+<span id="fn4"></span><div class="articleSection" data-anchor="4">
+<h2 class="h5"><sup><strong>4</strong></sup></h2>
+        
+        <div>Processo 00682-2008-074-03-00-6. Laudo da Perícia Técnica 330/341.</div>
+      </div>
+<span id="fn5"></span><div class="articleSection" data-anchor="5">
+<h2 class="h5"><sup><strong>5</strong></sup></h2>
+        
+        <div>Processo 00682-2008-074-03-00-6. Laudo da Ré 286/309.</div>
+      </div>
+<span id="fn6"></span><div class="articleSection" data-anchor="6">
+<h2 class="h5"><sup><strong>6</strong></sup></h2>
+        
+        <div>Processo 00682-2008-074-03-00-6. Laudo da Ré 286/309.</div>
+      </div>
+</div>
+<div>
+<h2 class="h5"></h2>
+<span id="fn7"></span><div class="articleSection" data-anchor="7">
+<h2 class="h5"><sup><strong>7</strong></sup></h2>
+        
+        <div>Trabalho baseado na dissertação de mestrado de Rodrigo Castro Oliveira, intitulada “Terceirização no setor elétrico: estudo de caso com trabalhadores terceirizados de uma cidade do interior de Minas Gerais”, defendida em 2018 no Mestrado em Administração do Centro Universitário Unihorizontes.</div>
+      </div>
+<span id="fn9"></span><div class="articleSection" data-anchor="9">
+<h2 class="h5"><sup><strong>9</strong></sup></h2>
+        
+        <div>Os autores informam que o trabalho não foi apresentado em evento científico.</div>
+      </div>
+</div>
+<span id="c1"></span><div class="articleSection" data-anchor="Correspondência">
+<h2 class="h5">Correspondência</h2>
+<i>Contato</i>: Maria Elizabeth Antunes Lima <i>E-mail</i>: <a href="mailto:maria.lima@unihorizontes.br">maria.lima@unihorizontes.br</a>
+</div>
+<span id="fn8"></span><div class="articleSection" data-anchor="Conflitos de interesse">
+<h2 class="h5">Conflitos de interesse</h2>
+          <div>Os autores declaram que o trabalho não foi subvencionado e que não há conflitos de interesses.</div>
+        </div>
+<span id="fn10"></span><div class="articleSection" data-anchor="
+            Contribuições de autoria
+          ">
+<h2 class="h5"><strong>
+            <b>Contribuições de autoria</b>
+          </strong></h2>
+          
+          <div> Lima MEA e Oliveira RC contribuíram igualmente na concepção do estudo, no levantamento, análise, interpretação dos dados, elaboração, revisões críticas do manuscrito e na aprovação da versão final publicada e assumem responsabilidade pública integral pelo trabalho realizado e o conteúdo aqui publicado.</div>
+        </div>
+<div class="articleSection articleSection--datas-de-publicação-" data-anchor="Datas de Publicação ">
+<a name="articleSection0"></a><h2 class="h5">Datas de Publicação </h2>
+<div class="row"><div class="col-md-12 col-sm-12"><ul class="articleTimeline">
+<li>
+<strong>Publicação nesta coleção</strong><br>15 Set 2021</li>
+<li>
+<strong>Data do Fascículo</strong><br>2021</li>
+</ul></div></div>
+</div>
+<div class="articleSection articleSection--histórico" data-anchor="Histórico">
+<a name="articleSection0"></a><h2 class="h5">Histórico</h2>
+<div class="row"><div class="col-md-12 col-sm-12"><ul class="articleTimeline">
+<li>
+<strong>Recebido</strong><br>14 Out 2019</li>
+<li>
+<strong>Revisado</strong><br>06 Fev 2020</li>
+<li>
+<strong>Aceito</strong><br>02 Mar 2020</li>
+</ul></div></div>
+</div>
+<section class="documentLicense"><div class="container-license"><div class="row">
+<div class="col-sm-3 col-md-2"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" aria-label="Acessar informações da licença Creative Common - by 4.0 . Abre em nova aba. Recurso externo."><img src="https://licensebuttons.net/l/by/4.0//88x31.png" alt="Creative Common - by 4.0 "></a></div>
+<div class="col-sm-9 col-md-10"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" aria-label="Acessar informações da licença Creative Common - by 4.0 . Abre em nova aba. Recurso externo.">Este é um artigo publicado em acesso aberto sob uma licença Creative Commons</a></div>
+</div></div></section></article></div>
+</div>
+</div></div></section><div class="modal fade ModalDefault ModalTutors" id="authorModal--1" tabindex="-1" role="dialog" aria-labelledby="authorModalLabel--1" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content">
+<div class="modal-header">
+<h5 class="h4 modal-title" id="authorModalLabel--1">Sobre os autores</h5>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body"><div class="author-card">
+<div class="author-grid-row">
+<span class="material-icons-outlined" aria-hidden="true">person</span><div class="author-name"><span class="author-name-text"> Maria Elizabeth Antunes Lima </span></div>
+</div>
+<div class="author-grid-row author-subrow mb-2">
+<span class="material-icons-outlined" aria-hidden="true">school</span><div class="author-institution">Centro Universitário Unihorizontes, Programa de Pós-graduação em Administração. Belo Horizonte, MG, Brasil.</div>
+</div>
+<div class="orcid-button-wrap ms-4"><a target="_blank" rel="noopener noreferrer" class="btn btn-secondary orcid-button" href="https://orcid.org/0000-0002-6612-1644" aria-label="Acessar perfil do contribuidor 0000-0002-6612-1644.
+                 Abre em nova aba. Recurso externo.">0000-0002-6612-1644</a></div>
+</div></div>
+</div></div></div>
+<div class="modal fade ModalDefault ModalTutors" id="authorModal--2" tabindex="-1" role="dialog" aria-labelledby="authorModalLabel--2" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content">
+<div class="modal-header">
+<h5 class="h4 modal-title" id="authorModalLabel--2">Sobre os autores</h5>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body"><div class="author-card">
+<div class="author-grid-row">
+<span class="material-icons-outlined" aria-hidden="true">person</span><div class="author-name"><span class="author-name-text"> Rodrigo Castro Oliveira </span></div>
+</div>
+<div class="author-grid-row author-subrow mb-2">
+<span class="material-icons-outlined" aria-hidden="true">school</span><div class="author-institution">Centro Universitário Unihorizontes, Programa de Pós-graduação em Administração. Belo Horizonte, MG, Brasil.</div>
+</div>
+<div class="orcid-button-wrap ms-4"><a target="_blank" rel="noopener noreferrer" class="btn btn-secondary orcid-button" href="https://orcid.org/0000-0002-4911-8048" aria-label="Acessar perfil do contribuidor 0000-0002-4911-8048.
+                 Abre em nova aba. Recurso externo.">0000-0002-4911-8048</a></div>
+</div></div>
+</div></div></div>
+<div class="modal fade ModalDefault ModalTutors" id="ModalScimago" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">
+                            SCImago Institutions Rankings
+                        </h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body"><div class="info"><div>
+<span data-aff-display="aff1">Centro Universitário Unihorizontes, Programa de Pós-graduação em Administração. Belo Horizonte, MG, Brasil.</span><span data-aff-orgname="aff1" hidden="">Centro Universitário Unihorizontes</span><span data-aff-country="aff1" hidden="">Brasil</span><span data-aff-country-code="aff1" hidden="" country="BR"></span><span data-aff-location="aff1" hidden="">Belo Horizonte, MG, Brasil</span><span data-aff-full="aff1" hidden="">Centro Universitário Unihorizontes, Programa de Pós-graduação em Administração. Belo Horizonte, MG, Brasil.</span><a href="" class="scimago-link" data-scimago-link="aff1"></a><br>
+</div></div></div>
+</div></div></div>
+<div class="modal fade ModalDefault" id="ModalTablesFigures" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Tabelas</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body">
+<ul class="nav nav-tabs" role="tablist"><li role="presentation" class="nav-item"><a href="#tables" class="nav-link active" data-bs-toggle="tab">Tabelas
+                    (2)
+                </a></li></ul>
+<div class="clearfix"></div>
+<div class="tab-content"><div class="tab-pane fade show active" id="tables" role="tabpanel" aria-labelledby="tables">
+<div class="row table">
+<div class="col-4"><a data-bs-toggle="modal" data-bs-target="#ModalTablet1"><div class="thumbOff">
+                        Thumbnail
+                        <div class="zoom"><span class="sci-ico-zoom"></span></div>
+</div></a></div>
+<div class="col-12"><caption class="sr-only">
+<strong><strong>Quadro 1</strong></strong>
+                Valores reais apurados pelo perito técnico contábil nomeado por juiz de processo movido por trabalhador terceirizado*
+              </caption></div>
+</div>
+<div class="row table">
+<div class="col-4"><a data-bs-toggle="modal" data-bs-target="#ModalTablet2"><div class="thumbOff">
+                        Thumbnail
+                        <div class="zoom"><span class="sci-ico-zoom"></span></div>
+</div></a></div>
+<div class="col-12"><caption class="sr-only">
+<strong><strong>Quadro 2</strong></strong>
+                Indicadores de precarização do trabalho de eletricistas terceirizados
+              </caption></div>
+</div>
+</div></div>
+</div>
+</div></div></div>
+<div class="modal fade ModalTables" id="ModalTablet1" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">
+<span class="material-icons-outlined">table_chart</span><strong><strong>Quadro 1</strong></strong>    
+                Valores reais apurados pelo perito técnico contábil nomeado por juiz de processo movido por trabalhador terceirizado*
+              <br>
+</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body"><div class="table table-hover"><table frame="box">
+                <colgroup>
+                  <col span="2">
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th align="center" colspan="2">VERBAS APURADAS NOS QUADROS DEMONSTRATIVOS - ATUALIZADO PARA 30/11/18 </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 1</td>
+                    <td align="left">............................................................................................. R$ 60.032,63</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 2</td>
+                    <td align="left">.............................................................................................. R$ 38.549,07</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 3</td>
+                    <td align="left">............................................................................................. R$ 35.269,20</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 4</td>
+                    <td align="left">............................................................................................. R$ 21.845,68</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 5</td>
+                    <td align="left">.............................................................................................. R$ 2.650,91</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 6</td>
+                    <td align="left">.............................................................................................. R$ 5.445,45</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 7</td>
+                    <td align="left">............................................................................................. R$ 55.098,27</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 8</td>
+                    <td align="left">............................................................................................. R$ 30.644,60</td>
+                  </tr>
+                  <tr>
+                    <td align="left">QUADRO DEMONSTRATIVO 9</td>
+                    <td align="left">............................................................................................. R$ 17.239,33</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR PRINCIPAL APURADO</td>
+                    <td align="left">........................................................................................... R$ 266.775,15</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO FGTS + 40%</td>
+                    <td align="left">......................................................................................................... R$ 16.377,38</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO JUROS DE MORA (29/01/11 a 30/11/18)</td>
+                    <td align="left">................................................................. R$ 249.372,43</td>
+                  </tr>
+                  <tr>
+                    <td align="center" colspan="2">
+                      <b>
+                        VALOR PRINCIPAL + FGTS 40% + JUROS DE MORA (BRUTO APURADO......................... R$ 532.524,96
+                      </b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" colspan="2">
+                      <b>
+                        DESCONTOS
+                      </b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO DESCONTO PREVIDENCIÁRIO</td>
+                    <td align="left">.......................................................................... - R$ 13.685,43</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO IMPOSTO DE RENDA</td>
+                    <td align="left">.......................................................................................... - R$ 8.387,15</td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <b>VALOR TOTAL DOS DESCONTOS</b>
+                    </td>
+                    <td align="left">
+                      <b>.................................................................................... -R$ 22.072,58</b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" colspan="2">
+                      <b>
+                        VALOR LÍQUIDO DEVIDO AO RECLAMANTE
+                      </b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">
+                      <b>VALOR LÍQUIDO DEVIDO</b>
+                    </td>
+                    <td align="left">
+                      <b>................................................................................................. R$ 510.452,38</b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" colspan="2">
+                      <b>
+                        ENCARGOS TOTAIS A SEREM RECOLHIDOS PELO RECLAMADO
+                      </b>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO INSS P/ RECLAMANTE</td>
+                    <td align="left">.......................................................................................... - R$ 13.685,43</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO INSS P/ RECLAMADO</td>
+                    <td align="left">.......................................................................................... - R$ 60.783,86</td>
+                  </tr>
+                  <tr>
+                    <td align="left">VALOR DO IMPOSTO DE RENDA</td>
+                    <td align="left">.......................................................................................... - R$ 8.387,15</td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="2">
+                      <b>
+                        VALOR TOTAL DOS ENCARGOS.................................................................................... -R$ 82.856,44
+                      </b>
+                    </td>
+                  </tr>
+                </tbody>
+              </table></div></div>
+<div class="modal-footer"><div class="ref-list"><ul class="refList footnote">
+<li id="TFN1">
+                  <div>* A identificação do autor da ação será mantida em sigilo para preservação do trabalhador. Cálculos apresentados em 30/11/18, referentes a cinco anos de trabalho; os Quadros Demonstrativos elencados dizem respeito respectivamente a: 1) diferenças salariais e reflexos; 2) participação nos lucros e resultados; 3) ajuda de custo de férias, tíquete-refeição/lanche, tíquete extra; 4) gratificação “Maria Rosa” e gratificação por tempo de serviço; 5) indenização por danos morais; 6) horas extras pagas por fora; 7) horas semanais, intervalo para descanso e alimentação (intrajornada) e reflexos; 8) diferenças de horas extras pelo adicional dos acordos coletivos de trabalho dos funcionários da Cemig e reflexos; 9) parcelas rescisórias, como aviso prévio, férias, 13º salário e multas do FGTS e por atraso no pagamento das verbas.</div>
+                </li>
+<li id="TFN2">
+                  <div>Fonte: Perícia contábil realizada na ação reclamatória trabalhista.</div>
+                </li>
+</ul></div></div>
+</div></div></div>
+<div class="modal fade ModalTables" id="ModalTablet2" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog modal-lg"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">
+<span class="material-icons-outlined">table_chart</span><strong><strong>Quadro 2</strong></strong>    
+                Indicadores de precarização do trabalho de eletricistas terceirizados
+              <br>
+</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body"><div class="table table-hover"><table frame="box">
+                <colgroup>
+                  <col>
+                  <col>
+                  <col>
+                  <col>
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th align="center">
+                      <b>
+                        <i>Indicadores</i>
+                      </b>
+                    </th>
+                    <th align="center">
+                      <b>
+                        <i>Empresa A</i>
+                      </b>
+                    </th>
+                    <th align="center">
+                      <b>
+                        <i>Empresa B</i>
+                      </b>
+                    </th>
+                    <th align="center">
+                      <b>
+                        <i>Empresa C</i>
+                      </b>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left">Salários inferiores dos trabalhadores da empresa terceirizada em relação aos da Cemig pelo exercício de serviços similares. </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Diferenças nas concessões de benefícios entre os trabalhadores da Cemig e os trabalhadores da empresa terceirizada. </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Qualificação inferior dos empregados da empresa terceirizada em relação aos da Cemig. </td>
+                    <td align="center">X </td>
+                    <td align="left"> </td>
+                    <td align="left"> </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Jornada de trabalho muito extensa entre os trabalhadores da empresa terceirizada. </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Sonegação de direitos dos trabalhadores terceirizados, como pagamento de verbas “por fora” da folha de pagamento e supressão de intervalos para descanso e alimentação. </td>
+                    <td align="center">X </td>
+                    <td align="left"> </td>
+                    <td align="left"> </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Carga horária de treinamento dos empregados da empresa terceirizada inferior àquela oferecida aos empregados da Cemig. </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                    <td align="left"> </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Supressão de intervalos para descanso e alimentação de forma costumeira para os trabalhadores da empresa terceirizada. </td>
+                    <td align="left"> </td>
+                    <td align="center">X </td>
+                    <td align="center">X </td>
+                  </tr>
+                  <tr>
+                    <td align="left">Condições inadequadas de trabalho. </td>
+                    <td align="left"> </td>
+                    <td align="left"> </td>
+                    <td align="center">X </td>
+                  </tr>
+                </tbody>
+              </table></div></div>
+<div class="modal-footer"><div class="ref-list"><ul class="refList footnote"><li id="TFN3">
+                  <div>Fonte: Elaboração própria com base em processos judiciais e entrevistas.</div>
+                </li></ul></div></div>
+</div></div></div>
+<div class="modal fade ModalDefault" id="ModalArticles" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Como citar</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+</div>
+<div class="modal-body">
+<p id="citation"></p>
+<input id="citationCut" type="text" value=""><a class="btn btn-secondary btn-sm scielo__btn-with-icon--left copyLink" data-clipboard-target="#citationCut"><span class="material-icons-outlined">link</span>copiar</a>
+</div>
+</div></div></div>
+<script type="text/javascript">
+            function currentDate() {
+            var today = new Date();
+            var months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
+            today.setTime(today.getTime());
+            return today.getDate() + " " + months[today.getMonth()] + " " + today.getFullYear();
+            }
+            var citation = 'Lima, Maria Elizabeth Antunes e Oliveira, Rodrigo Castro. Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico. Revista Brasileira de Saúde Ocupacional [online]. 2021, v. 46 [Acessado CURRENTDATE], e6. Disponível em: &lt;https://doi.org/10.1590/2317-6369000024019&gt;. Epub 15 Set 2021. ISSN 2317-6369. https://doi.org/10.1590/2317-6369000024019.'.replace('CURRENTDATE', currentDate());
+            document.getElementById('citation').innerHTML = citation;
+            document.getElementById('citationCut').value = citation.replace('&lt;', '<').replace('&gt;', ">");
+        </script>
+</div>
+
+        
+      
+
+      
+
+<div class="container scielo--floatBar">
+  <div class="row">
+    <div class="col">
+
+      <!-- Botão fixo para abrir o modal -->
+      <button
+        type="button"
+        class="btn btn-primary btn-float-menu"
+        data-bs-toggle="modal"
+        data-bs-target="#menuModal"
+        aria-controls="menuModal"
+        aria-label="Abrir menu de ferramentas do artigo">
+        <span class="material-icons-outlined mt-1" aria-hidden="true">more_horiz</span>
+      </button>
+
+
+      <!-- Modal estreito -->
+      <div class="modal fade" id="menuModal" tabindex="-1"
+           role="dialog"
+           aria-modal="true"
+           aria-labelledby="menuModalLabel">
+        <div class="modal-dialog modal-dialog-centered" style="max-width: 280px;margin: 0 auto;">
+          <div class="modal-content" role="document">
+
+            <h2 id="menuModalLabel" class="visually-hidden">Ferramentas do artigo</h2>
+
+            <div class="modal-body p-0">
+              <ul class="list-group list-group-flush">
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="PDFs"
+                     data-bs-toggle="modal"
+                     data-bs-target="#ModalDownloads"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">file_download</span>
+                    PDFs
+                  </a>
+                </li>
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="Métricas"
+                     data-bs-toggle="modal"
+                     data-bs-target="#metric_modal_id"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">show_chart</span>
+                    Métricas
+                  </a>
+                </li>
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="Figuras e tabelas"
+                     data-bs-toggle="modal"
+                     data-bs-target="#ModalTablesFigures"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">image</span>
+                    Figuras e tabelas
+                  </a>
+                </li>
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="Versões e traduções"
+                     data-bs-toggle="modal"
+                     data-bs-target="#ModalVersionsTranslations"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">translate</span>
+                    Versões e traduções
+                  </a>
+                </li>
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="Como citar este artigo"
+                     data-bs-toggle="modal"
+                     data-bs-target="#ModalHowcite"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">link</span>
+                    Como citar este artigo
+                  </a>
+                </li>
+
+                <li class="list-group-item p-0">
+                  <a href="#" class="px-3 py-2 text-decoration-none d-block"
+                     data-mobile-tooltip="Artigos relacionados"
+                     data-bs-toggle="modal"
+                     data-bs-target="#ModalRelatedArticles"
+                     data-bs-dismiss="modal">
+                    <span class="material-icons-outlined" aria-hidden="true">article</span>
+                    Artigos relacionados
+                  </a>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+      <section class="journalContacts" id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-8 text-center text-sm-start">
+        <div class="row">
+          <div class="col-md-1 col-sm-2">
+            <span class="material-icons-outlined">location_on</span>
+          </div>
+          <div class="col-md-10 col-sm-9">
+            <strong class="d-block">Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho - FUNDACENTRO</strong>
+            
+              <span>Rua Capote Valente, 710 , 05409 002  São Paulo/SP Brasil, Tel: (55 11) 3066-6076</span> - 
+            
+            
+            <span>São Paulo</span> -
+            
+            
+            <span>SP</span> -
+            
+            
+            <span>Brazil</span> <br/>
+            
+            
+            
+              <strong>E-mail:</strong> rbso@fundacentro.gov.br
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-4 text-center text-sm-start pt-4 pt-sm-0">
+        <a href="/journal/rbso/feed/?ilang=pt_BR" data-toggle="tooltip" title="RSS do número mais recente do periódico" target="_blank"><span class="material-icons-outlined">rss_feed</span></a>
+        <span>
+          Acompanhe os números deste periódico no seu leitor de RSS
+        </span>
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+      
+
+
+
+    <div class="modal fade ModalDefault"
+     id="ModalDownloads"
+     tabindex="-1"
+     role="dialog"
+     aria-modal="true"
+     aria-labelledby="ModalDownloadsLabel"
+     aria-hidden="true">
+
+  <div class="modal-dialog">
+    <div class="modal-content"> 
+
+      <div class="modal-header">
+        <h2 class="h4 modal-title" id="ModalDownloadsLabel">
+          Versão para download de PDF
+        </h2>
+        <button type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Fechar">
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row modal-center">
+
+          <div class="col-md-12">
+            <span class="sci-ico-filePDF mb-3" aria-hidden="true"></span>
+            <br/>
+            <h3 class="h6 fw-bold">PDF</h3>
+
+            <ul class="md-list">
+            
+              
+                <li>
+                  <a target="_blank"
+                     rel="noopener noreferrer"
+                     aria-label="Baixar PDF em Português (abre em nova janela)"
+                     href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?lang=pt&amp;format=pdf&amp;ilang=pt_BR">
+
+                    
+                      Português
+                    
+
+                  </a>
+                </li>
+              
+            
+            </ul>
+          </div>
+
+          
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div
+  class="modal fade ModalDefault"
+  id="ModalRelatedArticles"
+  tabindex="-1"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="ModalRelatedArticlesTitle"
+  aria-describedby="ModalRelatedArticlesDesc">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h2 class="h4 modal-title" id="ModalRelatedArticlesTitle">
+          Artigos relacionados
+        </h2>
+
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Fechar">
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <p id="ModalRelatedArticlesDesc" class="visually-hidden">
+          Lista de links para artigos relacionados. Os links abrem em nova aba.
+        </p>
+
+        <div class="modal-center">
+          <ul class="md-list inline mt-4">
+            
+              <li>
+                <a href="https://www.google.com/search?q=&#34;Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico&#34; &#34;Lima, Maria Elizabeth Antunes&#34; &#34;Oliveira, Rodrigo Castro&#34; &#34;2021&#34; &#34;Revista Brasileira de Saúde Ocupacional&#34;" target="_blank" rel="noopener noreferrer">
+                  Google
+                  <span class="visually-hidden">
+                    (abre em nova aba)
+                  </span>
+                </a>
+              </li>
+            
+              <li>
+                <a href="https://scholar.google.com/scholar?q=&#34;Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico&#34; &#34;Lima, Maria Elizabeth Antunes&#34; &#34;Oliveira, Rodrigo Castro&#34; &#34;2021&#34; &#34;Revista Brasileira de Saúde Ocupacional&#34;" target="_blank" rel="noopener noreferrer">
+                  Google Scholar
+                  <span class="visually-hidden">
+                    (abre em nova aba)
+                  </span>
+                </a>
+              </li>
+            
+          </ul>
+
+          <div class="clearfix"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div
+  class="modal fade ModalDefault"
+  id="ModalVersionsTranslations"
+  tabindex="-1"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="ModalVersionsTranslationsTitle"
+  aria-describedby="ModalVersionsTranslationsDesc">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h2 class="h4 modal-title" id="ModalVersionsTranslationsTitle">
+          Versões e tradução automática
+        </h2>
+
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Fechar">
+        </button>
+      </div>
+
+      <div class="modal-body">
+
+        <p id="ModalVersionsTranslationsDesc" class="visually-hidden">
+          Escolha a versão original do texto ou utilize um serviço de tradução automática.
+        </p>
+
+        <div class="row modal-center">
+
+          <!-- Versão original -->
+          <div class="col-md-4 col-md-offset-1">
+            <h3 class="h6 fw-bold">
+              Versão original do texto
+            </h3>
+
+            
+              <ul class="md-list">
+                
+                  <li>
+                    <a href="/j/rbso/a/Z6Dgz8MDWZthJBpmF9BpFrw/?lang=pt">Português</a>
+                  </li>
+                
+              </ul>
+            
+          </div>
+
+          <div class="col-md-2 md-body-dashVertical" aria-hidden="true"></div>
+
+          <!-- Tradução automática -->
+          <div class="col-md-4">
+            <h3 class="h6 fw-bold">
+              Tradução automática
+            </h3>
+
+            <ul class="md-list">
+              <li>
+                <a href="#">
+                  Google Translator
+                  <span class="visually-hidden">
+                    (abre serviço externo de tradução)
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  Microsoft Translator
+                  <span class="visually-hidden">
+                    (abre serviço externo de tradução)
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <style>
+  pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 11px;
+    line-height: 1;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    word-break: break-word; 
+}
+</style>
+<div
+  class="modal fade ModalDefault"
+  id="ModalHowcite"
+  tabindex="-1"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="ModalHowciteTitle"
+  aria-describedby="ModalHowciteDesc">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h2 class="h4 modal-title" id="ModalHowciteTitle">
+          Como citar
+        </h2>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Fechar">
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <!-- Descrição curta para leitores de tela -->
+        <p id="ModalHowciteDesc" class="visually-hidden">
+          Escolha um formato para exportar ou selecione um estilo de citação. O conteúdo abaixo pode ser atualizado após a seleção.
+        </p>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3" style="text-align: center;">
+              <a
+                href="/citation/export/Z6Dgz8MDWZthJBpmF9BpFrw/?format=ris&amp;ilang=pt_BR"
+                class="btn hidden-sm">
+                <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+                <span class="visually-hidden">Baixar em</span> RIS
+              </a>
+            </div>
+
+            <div class="col-sm-3" style="text-align: center;">
+              <a
+                href="/citation/export/Z6Dgz8MDWZthJBpmF9BpFrw/?format=bib&amp;ilang=pt_BR">
+                <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+                <span class="visually-hidden">Baixar em</span> BIBTEX
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div id="initial_csl"></div>
+
+        <label id="select_label" for="select_csl">
+          Outros formatos de citação e exportação:
+        </label>
+
+        <select
+          id="select_csl"
+          class="js-data-example-ajax"
+          style="width: 100%">
+          <option value="" selected="selected">
+            Enter references manager format or citation style (e.g., "APA", "AMA", "MLA", "Vancouver")
+          </option>
+        </select>
+
+        <br>
+        <br>
+
+        <pre
+          id="citation_text"
+          style="display:none;"
+          tabindex="0"
+          aria-live="polite"
+          aria-atomic="true">
+        </pre>
+
+      </div>
+    </div>
+  </div>
+</div>
+  
+  </main>
+
+  <a id="btnTop"
+   class="btn btn-primary btn-float-gotop"
+   href="#top"
+   aria-label="Ir para o topo"
+   style="opacity: 1;">
+    <span class="material-icons-outlined mt-2" aria-hidden="true">
+        vertical_align_top
+    </span>
+    <span class="visually-hidden">Ir para o topo</span>
+</a>
+
+<script>
+    
+    // Mostrar o botão ao rolar
+    const btnTop = document.getElementById("btnTop");
+
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 200) {
+        btnTop.style.display = "block";
+      } else {
+        btnTop.style.display = "none";
+      }
+    });
+
+    // Rolar suavemente até o topo ao clicar
+    btnTop.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  </script>
+
+  
+
+<style>
+	.scielo__logo-partner{
+      max-height: 50px;
+      max-width: 170px;
+    }
+    .scielo__logo-partner--dark{
+      display:none;
+    }
+    .scielo__theme--dark .scielo__logo-partner--light{
+      display:none;
+    }
+	.scielo__theme--dark .scielo__logo-partner--dark{
+      display:inline-block;
+    }
+</style>
+
+<footer>
+	<section class="address-scielo pt-4 pb-4">
+		<div class="container">
+			<div class="row">
+				<div class="col col-12 col-sm-2 text-center"><a href="/?ilang=pt_BR" aria-label="Página inicial da coleção Brasil"><div class="scielo__logo-scielo--small" aria-hidden="true"></div></a></div>
+				<div class="col col-12 col-sm-8 text-center text-sm-start">
+					<p><small><strong>Brasil</strong></small></p>
+					<p><small>Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil<br/>
+						E-mail: scielo@scielo.org </small></p>
+						<div>
+							<!-- 
+								Fix me:
+								
+								Criar configuração para verificar se deve ou não ser exibido 
+								o ícone da rede social e url correta de cada rede.
+								
+							-->
+							<ul class="list-unstyled justify-content-center justify-content-sm-start d-flex mt-3 mb-0 scielo__social-network-links">
+								<li class="me-2">
+									<a href="https://bsky.app/profile/scielo.org" target="_blank" aria-label="BlueSky">
+										<i class="icon-bluesky"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://openbiblio.social/@scielo" target="_blank" aria-label="Mastodon">
+										<i class="icon-mastodon"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://www.linkedin.com/company/scielo---scientific-electronic-library-online/?originalSubdomain=br" target="_blank" aria-label="LinkedIn">
+										<i class="icon-linkedin"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://www.facebook.com/SciELONetwork" target="_blank" aria-label="Facebook">
+										<i class="icon-facebook"></i>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.youtube.com/c/SciELONetwork" target="_blank" aria-label="Youtube">
+										<i class="icon-youtube"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+				</div>
+				<div class="col col-12 col-sm-2 text-center">
+					
+					<div class="container-license">
+						<div class="row">
+							<div class="col-sm-3 col-md-2">
+								<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="" rel="license"><img
+										src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Common - by 4.0">
+								</a>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="article-bg-white">
+		<div class="container">
+			<div class="row">
+				
+					<div class="col text-center mt-4 mb-4">
+						
+							
+								<a href="http://www.capes.gov.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/CAPES.png" alt="CAPES" class="scielo__logo-partner">
+								</a>
+							
+						
+							
+								<a href="http://www.cnpq.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/CNPq.png" alt="CNPq" class="scielo__logo-partner">
+								</a>
+							
+						
+							
+								<a href="http://www.fapesp.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/FAPESP.png" alt="FAPESP" class="scielo__logo-partner">
+								</a>
+							
+						
+							
+								<a href="http://bvsalud.org/" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/BVS.png" alt="BVS" class="scielo__logo-partner">
+								</a>
+							
+						
+							
+								<a href="http://regional.bvsalud.org/bvs/bireme/homepage.htm" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/BIREME.png" alt="BIREME" class="scielo__logo-partner">
+								</a>
+							
+						
+							
+								<a href="https://www.fapunifesp.edu.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+									<img src="https://www.scielo.br/media/images/FAP-UNIFESP.png" alt="FAP-UNIFESP" class="scielo__logo-partner">
+								</a>
+							
+						
+					</div>
+				
+			</div>
+			</div>
+		</div>
+	</section> 
+	<section class="article-bg-white">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<p class="text-center"><a href="/about/?ilang=pt_BR"><img src="https://www.scielo.br/static/img/logo-open-access.svg" alt="Open Access" class="me-1 logo-open-access">Leia</a> a Declaração de Acesso Aberto</p>
+				</div>
+			</div>
+		</div> 
+	</section>	
+</footer>
+
+  
+  <div class="modal fade ModalDefault" id="metric_modal_id" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content" style="width: 673px;">
+        <div class="modal-header">
+            <h2 class="h4 modal-title">
+                Métricas
+            </h2>
+            <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+         </div>
+        <div class="modal-body row" style="margin-left: 30px;">
+            
+
+                
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <a target="_blank"
+                                href="http://analytics.scielo.org/w/accesses?document=S0303-76572021000100207&amp;collection=scl">
+                                <div class="logo-statistc logo-statistc-scielo"></div>
+                                <div>SciELO Analytics</div>
+                            </a>
+                        </div>
+                    </div>
+                
+
+                
+                    
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <div class="logo-statistc logo-statistc-dimension">
+                                <div class="badge-logo">
+                                    <span class="__dimensions_badge_embed__" data-doi="10.1590/2317-6369000024019" data-legend="never"
+                                        data-style="small_circle">
+                                    </span>
+                                </div>
+                            </div>
+                            <a target="_blank" href="https://badge.dimensions.ai/details/doi/10.1590/2317-6369000024019">
+                                <div>Dimensions</div>
+                            </a>
+                        </div>
+                    </div>
+                    
+                
+
+                
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <div class="logo-statistc logo-statistc-altmetric">
+                                <div class="badge-logo">
+                                    <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1590/2317-6369000024019" data-link-target='_blank'>
+                                    </div>
+                                </div>
+                            </div>
+                            <a target="_blank" href="https://www.altmetric.com/details.php?&doi=10.1590/2317-6369000024019">
+                                <div>Altmetric</div>
+                            </a>
+                        </div>
+                    </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 50px;">
+                    <div class="badge-link col-center">
+                        <div id="scienceopen" data-doi="10.1590/2317-6369000024019"></div>
+                    </div>
+                </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 18px;">
+                    <div class="badge-link col-center">
+                        <div class="scite-badge" data-doi="10.1590/2317-6369000024019" data-layout="vertical" data-tooltip-placement="right"
+                            data-show-zero="false" data-show-labels="false">
+                        </div>
+                        <a target="_blank" href="https://scite.ai/reports/10.1590/2317-6369000024019">
+                            <div>Scite_</div>
+                        </a>
+                    </div>
+                </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 50px;">
+                    <div class="badge-link col-center">
+                        <div class="logo-statistc logo-statistc-plumx">
+                            <div class="badge-logo">
+                                <a href="https://plu.mx/scielo/a/?doi=10.1590/2317-6369000024019" data-popup="right" data-size="large"
+                                    class="plumx-plum-print-popup plum-liberty-theme" data-site="plum" data-hide-when-empty="true"
+                                    data-no-link="true" target="_blank">Precarização e acidentes de trabalho: os riscos da terceirização no setor elétrico</a>
+                            </div>
+                        </div>
+                        <a target="_blank" href="https://plu.mx/scielo/a/?doi=10.1590/2317-6369000024019">
+                            <div>PlumX</div>
+                        </a>
+                    </div>
+                </div>
+                
+
+            
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <!-- share modal -->
+    <div class="modal fade" id="share_modal_id" tabindex="-1" role="dialog" aria-hidden="true"></div>
+
+    <div class="modal fade in" id="share_modal_confirm_id" tabindex="-1" role="dialog" aria-hidden="false">
+      <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
+                  <h2 class="h4 modal-title">Mensagem</h2>
+              </div>
+              <div class="modal-body">
+                  <div class="midGlyph">
+
+                      <br><br>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+    <!-- share modal -->
+
+    <!-- error modal -->
+    <div class="modal fade" id="error_modal_id" tabindex="-1" role="dialog" aria-hidden="true"></div>
+
+    <div class="modal fade in" id="error_modal_confirm_id" tabindex="-1" role="dialog" aria-hidden="false">
+      <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
+                  <h2 class="h4 modal-title">Mensagem</h2>
+              </div>
+              <div class="modal-body">
+                  <div class="midGlyph">
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- Error modal -->
+    <a class="floatingBtnError btn btn-secondary" href="#" id="#floatingBtnError">Reportar erro</a>
+
+    <script>
+      // Variáveis para tradução da barra de acessibilidade      
+      window.accessibilityTranslations = {
+        darkMode: "Modo escuro",
+        increaseText: "Aumentar texto",
+        decreaseText: "Diminuir texto",
+        originalText: "Texto original",
+        markerLine: "Marcador",
+        readingLine: "Linha guia",
+        reset: "Redefinir",
+        accessibilityMenu: "Menu de acessibilidade",
+        skipLinkText: "Ir para o conteúdo principal"
+      };
+    </script>
+    
+    <!-- Scielo Bundle min -->
+    <script src="/static/js/scielo-bundle-min.js"></script>
+
+    <script>
+
+      $(document).ready(function() {
+
+        // Add rows article search
+        let addRowBtn = $('.addRowBtn');
+        let placeRow = $('.scielo__dinamic-row');
+        let newFormRow = '<div class="row"><div class="col-12"><hr></div><div class="col-2 col-lg-1 text-end"><button type="button" class="btn btn-danger scielo__btn-with-icon--only"><i class="material-icons-outlined">clear</i></button></div><div class="col-10 col-lg-11"><div class="input-group"><div class="input-group-preppend"><select class="form-select" name="bool[]"><option selected>AND</option><option>OR</option><option>AND NOT</option></select></div><textarea name="q[]" class="form-control" aria-label="With textarea" placeholder="Entre uma ou mais palavras"></textarea><div class="input-group-append"><select class="form-select"><option selected value="todos">Todos os índices</option><option value="ano">Ano</option><option value="autor">Autor</option><option value="financiador">Financiador</option><option value="periodico">Periódico</option><option value="resumo">Resumo</option><option value="titulo">Título</option></select></div></div></div></div>';
+
+        let btnRemoveRow = $('.btn-danger');
+
+        addRowBtn.on( "click", function() {
+            placeRow.append( newFormRow );
+        })
+
+        // Remove as linhas inseridas dinamicamente e as que já estavam lá.
+        placeRow.on( "click", ".btn-danger", function() {
+            $(this).parent().parent().animate({'opacity':0},300).hide(1);
+        })
+
+      });
+    </script>
+
+    
+      <script src="https://static.scielo.org/js/cookiePolicy.min.js"></script>
+    
+
+    <script src="//www.google.com/recaptcha/api.js"></script>
+
+    
+<script type="text/javascript" src="/static/js/scielo-article-min.js"></script>
+
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+<script id="9cf9cf8f-3a99-fe86-4013-f630edbf80ac" src="https://www.scienceopen.com/script/badge2.js" async
+  defer></script>
+<script type="text/javascript" src="/static/js/scienceopen.js"></script>
+
+
+
+<script async type="application/javascript" src="//cdn.scite.ai/badge/scite-badge-latest.min.js"></script>
+
+
+
+<script sync src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_SVG" charset="utf-8"></script>
+
+<!-- <script>
+      var insertScript = function(url, callback, parentNode) {
+        var scriptNode = document.createElement("script");
+        scriptNode.src = url;
+        scriptNode.onload = callback;
+        parentNode.appendChild(scriptNode)
+      }
+      var headNode = document.getElementsByTagName("head")[0];
+      setTimeout(MathJax.Callback([insertScript, "//badge.dimensions.ai/badge.js", console.log, headNode]), 1500);
+    </script>
+    -->
+
+
+
+<script type="text/javascript" src="//badge.dimensions.ai/badge.js" charset="utf-8" async></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<!-- xxx Verifica se o artigo contém artigos relacionados -->
+
+
+<!-- Verifica se o artigo contém suplemento -->
+
+
+<script>
+
+  affiliations = {};
+
+  function add_scimago_image(selector, remove_br=true, add_br_after=true, find_div=false){
+    $(selector).each(
+
+    function () {
+
+      if (remove_br){
+        $(this).find("br").remove()
+      }
+      
+      internal_items = find_div ? $(this).find('div').not(".clearfix") : $(this).not(".clearfix")
+
+      internal_items.each(function () { 
+        self = $(this);
+
+        affiliation_name = $('span:first', self).text();
+        if (affiliation_name){
+            scimago_link = ' <a href="#" target="_blank" class="scimago_link" data-affiliation="' + affiliation_name + '" ><img src="/static/img/scimago.svg" alt=" SCImago image" height="12" data-toggle="tooltip" data-placement="top" title="Link to SCImago Institutions Rankings"></a>';
+            self.append(scimago_link);
+        }
+      });
+
+      if (add_br_after){
+        $(this).after("<br />")
+      }
+
+    });
+
+  }
+
+  add_scimago_image('#ModalScimago .info div')
+  add_scimago_image('.tutors', remove_br=false, add_br_after=false, find_div=true) 
+
+  $(".scimago_link").click(function(e){
+    e.preventDefault();
+
+    affiliation_name = $(this).data("affiliation");
+
+    if (affiliation_name){
+      if (affiliations[affiliation_name]) {
+        window.open(affiliations[affiliation_name], '_blank');
+      } else {
+        $.ajax({
+          type: "GET",
+          async: false,
+          url: "/scimago/query?ilang=pt_BR",
+          data: 'q=' + encodeURI(affiliation_name),
+          success: function (data) {
+            if (data) {
+              affiliations[affiliation_name] = 'https://www.scimagoir.com/' + data
+              window.open(affiliations[affiliation_name], '_blank');
+            }else{
+              toastr.options = {
+                positionClass: 'toast-top-center'
+              };
+              toastr.error('Link temporariamente indisponível');
+            }
+          }
+        });
+      }
+    }    
+  });
+
+
+  var howcite_initialized = false;
+
+  var citeCslBase = "/citation/Z6Dgz8MDWZthJBpmF9BpFrw/?ilang=pt_BR";
+
+  $('#ModalHowcite').on('shown.bs.modal', function () {
+
+    if (!howcite_initialized) {
+      initial = {
+        "American Psychological Association": "apa", "Vancouver": "vancouver"
+      }
+
+      $.each(initial, function (key, value) {
+        $.ajax({
+          url: citeCslBase + (citeCslBase.indexOf('?') >= 0 ? '&' : '?') + 'style=' + value,
+          dataType: 'html',
+          delay: 250,
+          async: true
+        })
+          .done(function (html) {
+            $("<span><b>" + key + "</b></span>" + "<pre>" + html + "</pre>").insertBefore($("#select_label"));
+          })
+      });
+      howcite_initialized = true;
+    }
+
+    $(".js-data-example-ajax").select2({
+      ajax: {
+        url: "/citation/list?ilang=pt_BR",
+        dataType: 'json',
+        delay: 250,
+        data: function (params) {
+          return {
+            q: params.term, // search term
+          };
+        },
+        processResults: function (data, params) {
+          return {
+            results: data.results
+          };
+        },
+        cache: true
+      },
+      escapeMarkup: function (markup) { return markup; },
+      minimumInputLength: 1,
+      dropdownParent: $('#ModalHowcite')
+    });
+
+    $(document).on('select2:open', () => {
+      document.querySelector('.select2-search__field').focus();
+    });
+
+    $(".js-data-example-ajax").on('select2:select', function (e) {
+      var data = e.params.data;
+
+      $.ajax({
+        url: citeCslBase + (citeCslBase.indexOf('?') >= 0 ? '&' : '?') + 'style=' + data.id,
+        dataType: 'html',
+        delay: 250
+      })
+        .done(function (html) {
+
+          if ($('#citation_text').css('display') == 'none') {
+            $('#citation_text').show()
+          }
+
+          $("#citation_text").html(html);
+
+        })
+        .fail(function () {
+          alert("Erro ao tentar obter esse estilo de citação");
+        })
+
+    });
+  });
+
+</script>
+
+
+
+
+    <script>
+
+      // Garante que o valor do campo share_url é a URL corrente.
+      $('#share_url').val(window.location.href);
+
+      //moment.locale('pt_BR');
+
+      //$("#date").text(moment().format("L HH:mm:ss ZZ"));
+
+    </script>
+
+    
+    
+
+
+   
+
+  </body>
+</html>

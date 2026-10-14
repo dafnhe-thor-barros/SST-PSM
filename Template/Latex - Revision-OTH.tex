@@ -1,0 +1,103 @@
+\documentclass[12pt,a4paper]{article}
+
+% ================= PACOTES =================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{authblk}
+\usepackage{indentfirst}
+\usepackage{ragged2e}
+\usepackage{abstract}
+\usepackage{times}
+
+% ================= MARGENS =================
+\geometry{
+  top=3cm,
+  bottom=2cm,
+  left=3cm,
+  right=2cm
+}
+
+% ================= TÍTULOS =================
+\titleformat{\section}{\bfseries}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\bfseries}{\thesubsection}{0.5em}{}
+
+% ================= DOCUMENTO =================
+\begin{document}
+
+% ================= TÍTULOS =================
+\begin{center}
+\textbf{TÍTULO EM PORTUGUÊS}\\[0.3cm]
+\textbf{TITLE IN ENGLISH}\\[0.3cm]
+\textbf{TÍTULO EN ESPAÑOL}
+\end{center}
+
+\vspace{0.5cm}
+
+% ================= AUTORIA =================
+\begin{flushright}
+\textbf{Nome do Autor}\\
+Titulação – Instituição – País\\
+E-mail: autor@email.com
+\end{flushright}
+
+\vspace{0.5cm}
+
+% ================= RESUMO =================
+\begin{abstract}
+\fontsize{10}{12}\selectfont
+\justifying
+Resumo em português, com no máximo 300 palavras, espaçamento simples, texto justificado e sem recuo.
+\end{abstract}
+
+\noindent\textbf{Palavras-chave:} Palavra 1; Palavra 2; Palavra 3.
+
+\vspace{0.3cm}
+
+% ================= ABSTRACT =================
+\begin{abstract}
+\fontsize{10}{12}\selectfont
+\justifying
+Abstract in English.
+\end{abstract}
+
+\noindent\textbf{Keywords:} Keyword 1; Keyword 2; Keyword 3.
+
+\vspace{0.3cm}
+
+% ================= RESUMEN =================
+\begin{abstract}
+\fontsize{10}{12}\selectfont
+\justifying
+Resumen en español.
+\end{abstract}
+
+\noindent\textbf{Palabras clave:} Palabra 1; Palabra 2; Palabra 3.
+
+% ================= TEXTO =================
+\section{Introdução}
+
+Texto da introdução.
+
+\subsection{Objetivos Gerais}
+
+Texto dos objetivos.
+
+\section{Revisão da Literatura}
+
+Texto da revisão.
+
+\section{Considerações Finais}
+
+Texto das considerações finais.
+
+% ================= REFERÊNCIAS =================
+\section*{Referências}
+
+\singlespacing
+\noindent SOBRENOME, Nome. \textbf{Título do livro}. Local: Editora, ano.
+
+\end{document}
